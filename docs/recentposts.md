@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-27 | [`www.careco.se`](https://google.com/search?q=www.careco.se) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-27 | [`www.vbrlogistica.com.br`](https://google.com/search?q=www.vbrlogistica.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-27 | [`www.naniwa-pump.co.jp`](https://google.com/search?q=www.naniwa-pump.co.jp) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-26 | [`Mile Hi Foods`](https://google.com/search?q=Mile+Hi+Foods) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-09 | [`www.unige.it`](https://google.com/search?q=www.unige.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-09 | [`www.dpe.go.th`](https://google.com/search?q=www.dpe.go.th) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-09 | [`www.bsg.com.au`](https://google.com/search?q=www.bsg.com.au) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-09 | [`www.avf-biomedical.com`](https://google.com/search?q=www.avf-biomedical.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
