@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-02 | [`Cascade Columbia Dis tribution`](https://google.com/search?q=Cascade+Columbia+Dis+tribution) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-10-02 | [`ShoreMaster`](https://google.com/search?q=ShoreMaster) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-10-02 | [`CSG Consultants`](https://google.com/search?q=CSG+Consultants) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-10-01 | [`United Animal Health`](https://google.com/search?q=United+Animal+Health) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-13 | [`HB Construction`](https://google.com/search?q=HB+Construction) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-09-13 | [`Associated Building Specialties`](https://google.com/search?q=Associated+Building+Specialties) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-09-13 | [`Arch-Con`](https://google.com/search?q=Arch-Con) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-09-13 | [`www.southeasternretina.com`](https://google.com/search?q=www.southeasternretina.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
