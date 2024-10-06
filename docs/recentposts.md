@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-06 | [`www.ravencm.com`](https://google.com/search?q=www.ravencm.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-06 | [`Ibermutuamur`](https://google.com/search?q=Ibermutuamur) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-06 | [`GW Mechanical`](https://google.com/search?q=GW+Mechanical) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-06 | [`Dreyfuss + Blackford Architecture`](https://google.com/search?q=Dreyfuss+%2B+Blackford+Architecture) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-16 | [`Inktel`](https://google.com/search?q=Inktel) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-16 | [`Hariri Pontarini Architects`](https://google.com/search?q=Hariri+Pontarini+Architects) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-16 | [`Baskervill`](https://google.com/search?q=Baskervill) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-16 | [`www.8010urbanliving.com`](https://google.com/search?q=www.8010urbanliving.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
