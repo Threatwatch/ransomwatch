@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-11 | [`lakelandchamber.com`](https://google.com/search?q=lakelandchamber.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-11 | [`kumhotire.com`](https://google.com/search?q=kumhotire.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-11 | [`kronospublic.com`](https://google.com/search?q=kronospublic.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-11 | [`kierlcpa.com`](https://google.com/search?q=kierlcpa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-23 | [`Idre Fjäll`](https://google.com/search?q=Idre+Fj%C3%A4ll) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-09-23 | [`Pureform Radiology Center`](https://google.com/search?q=Pureform+Radiology+Center) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-09-23 | [`https://fabricasrl.com.ar`](https://google.com/search?q=https%3A%2F%2Ffabricasrl.com.ar) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
-| 2024-09-23 | [`Fabrica Industrial Machinery &amp; Equipment`](https://google.com/search?q=Fabrica+Industrial+Machinery+%26amp%3B+Equipment) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
