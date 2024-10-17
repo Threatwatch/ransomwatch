@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-17 | [`oleopalma.com.mx`](https://google.com/search?q=oleopalma.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-17 | [`norton.k12.ma.us`](https://google.com/search?q=norton.k12.ma.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-17 | [`nicholsfleet.com`](https://google.com/search?q=nicholsfleet.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-17 | [`nhbg.com.co`](https://google.com/search?q=nhbg.com.co) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-24 | [`https://designbymodel.com`](https://google.com/search?q=https%3A%2F%2Fdesignbymodel.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-09-23 | [`tellurianinc.org`](https://google.com/search?q=tellurianinc.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-23 | [`https://cottlesinc.com`](https://google.com/search?q=https%3A%2F%2Fcottlesinc.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-09-23 | [`Eurobulk`](https://google.com/search?q=Eurobulk) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
