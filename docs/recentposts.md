@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-17 | [`nfcaa.org`](https://google.com/search?q=nfcaa.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-17 | [`merrymanhouse.org`](https://google.com/search?q=merrymanhouse.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-17 | [`luisoliveras.com`](https://google.com/search?q=luisoliveras.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-16 | [`lothar-rapp.de`](https://google.com/search?q=lothar-rapp.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-23 | [`BroadGrain Commodities`](https://google.com/search?q=BroadGrain+Commodities) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-23 | [`agricola`](https://google.com/search?q=agricola) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-23 | [`Detroit Public TV`](https://google.com/search?q=Detroit+Public+TV) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-09-23 | [`DIamond Contracting, LLC`](https://google.com/search?q=DIamond+Contracting%2C+LLC) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
