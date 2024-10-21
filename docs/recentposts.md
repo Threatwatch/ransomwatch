@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-21 | [`http://teddy.it`](https://google.com/search?q=http%3A%2F%2Fteddy.it) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-10-21 | [`yorozu-corp.co.jp`](https://google.com/search?q=yorozu-corp.co.jp) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-21 | [`Mercury Theatre`](https://google.com/search?q=Mercury+Theatre) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-20 | [`qs-group.com`](https://google.com/search?q=qs-group.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-06 | [`kbc-zagreb.hr`](https://google.com/search?q=kbc-zagreb.hr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-06 | [`jutebag.co.uk`](https://google.com/search?q=jutebag.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-06 | [`joliet86.org`](https://google.com/search?q=joliet86.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-06 | [`johnllowery.com`](https://google.com/search?q=johnllowery.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
