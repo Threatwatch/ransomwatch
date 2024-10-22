@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-22 | [`Burgess Kilpatrick - Full Leak`](https://google.com/search?q=Burgess+Kilpatrick+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-10-22 | [`Welding and Fabrication (Humble Mfg) - Full Leak`](https://google.com/search?q=Welding+and+Fabrication+%28Humble+Mfg%29+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-10-22 | [`Phyton Biotech - Full Leak`](https://google.com/search?q=Phyton+Biotech+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-10-22 | [`Cotala Cross-Media - Full Leak`](https://google.com/search?q=Cotala+Cross-Media+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-06 | [`norton.k12.ma.us`](https://google.com/search?q=norton.k12.ma.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-06 | [`nicholsfleet.com`](https://google.com/search?q=nicholsfleet.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-06 | [`nhbg.com.co`](https://google.com/search?q=nhbg.com.co) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-06 | [`nfcaa.org`](https://google.com/search?q=nfcaa.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
