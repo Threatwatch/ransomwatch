@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-20 | [`Premier Tax Services`](https://google.com/search?q=Premier+Tax+Services) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-11-20 | [`KVF`](https://google.com/search?q=KVF) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-11-20 | [`Amherstburg Family Health`](https://google.com/search?q=Amherstburg+Family+Health) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-11-20 | [`Southern Oregon Veterinary Specialty Center`](https://google.com/search?q=Southern+Oregon+Veterinary+Specialty+Center) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-15 | [`Bio-Clima Service Srl`](https://google.com/search?q=Bio-Clima+Service+Srl) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-15 | [`A Sensitive Touch Home Health;Alphastar Home Health Care;Heart of Texas Home Healthcare Se`](https://google.com/search?q=A+Sensitive+Touch+Home+Health%3BAlphastar+Home+Health+Care%3BHeart+of+Texas+Home+Healthcare+Se) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-15 | [`Vector Transport (vectortransport.com)`](https://google.com/search?q=Vector+Transport+%28vectortransport.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-11-15 | [`www.gob.mx`](https://google.com/search?q=www.gob.mx) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
