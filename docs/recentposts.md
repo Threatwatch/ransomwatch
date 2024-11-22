@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-22 | [`Brueck Golosow Kim & Associates`](https://google.com/search?q=Brueck+Golosow+Kim+%26+Associates) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-22 | [`ottosimon.co.uk\$16.6M\United Kingdom\1.9TB\100% DISCLOSED`](https://google.com/search?q=ottosimon.co.uk%5C%2416.6M%5CUnited+Kingdom%5C1.9TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-11-22 | [`Vox Printing`](https://google.com/search?q=Vox+Printing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-22 | [`Miller & Smith`](https://google.com/search?q=Miller+%26+Smith) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`Mantinga`](https://google.com/search?q=Mantinga) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-17 | [`Ge****og`](https://google.com/search?q=Ge%2A%2A%2A%2Aog) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-11-17 | [`Gu****me`](https://google.com/search?q=Gu%2A%2A%2A%2Ame) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-11-17 | [`Grupo Trisan`](https://google.com/search?q=Grupo+Trisan) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
