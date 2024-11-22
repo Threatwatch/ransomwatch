@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-22 | [`Trinity Petroleum Management, LLC`](https://google.com/search?q=Trinity+Petroleum+Management%2C+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-11-22 | [`San Francisco Ballet`](https://google.com/search?q=San+Francisco+Ballet) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-11-22 | [`Performance Health & Fitness`](https://google.com/search?q=Performance+Health+%26+Fitness) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-22 | [`CK Power Public Manufacturing`](https://google.com/search?q=CK+Power+Public+Manufacturing) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`Waters Truck and Tractor (waterstruck.com)`](https://google.com/search?q=Waters+Truck+and+Tractor+%28waterstruck.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-11-18 | [`allconstructiongroupwv.com`](https://google.com/search?q=allconstructiongroupwv.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-18 | [`Dorner Law & Title Services`](https://google.com/search?q=Dorner+Law+%26+Title+Services) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-11-18 | [`nanolive.ch 2.0`](https://google.com/search?q=nanolive.ch+2.0) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
