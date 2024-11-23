@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-23 | [`curenta.com`](https://google.com/search?q=curenta.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-23 | [`blr.com`](https://google.com/search?q=blr.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-23 | [`LiquiTech`](https://google.com/search?q=LiquiTech) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-23 | [`ViralPitch`](https://google.com/search?q=ViralPitch) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`myrtlebeachcustomhomebuilder.com`](https://google.com/search?q=myrtlebeachcustomhomebuilder.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-11-18 | [`www.pcafterhours.net`](https://google.com/search?q=www.pcafterhours.net) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-11-18 | [`bellstaxservice.com`](https://google.com/search?q=bellstaxservice.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-11-18 | [`tiendascarrion.com`](https://google.com/search?q=tiendascarrion.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
