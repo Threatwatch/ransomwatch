@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-23 | [`LiquiTech`](https://google.com/search?q=LiquiTech) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-23 | [`ViralPitch`](https://google.com/search?q=ViralPitch) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-23 | [`ABC Group`](https://google.com/search?q=ABC+Group) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-22 | [`Trinity Petroleum Management, LLC`](https://google.com/search?q=Trinity+Petroleum+Management%2C+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`bellstaxservice.com`](https://google.com/search?q=bellstaxservice.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-11-18 | [`tiendascarrion.com`](https://google.com/search?q=tiendascarrion.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-11-18 | [`www.lalucky.com`](https://google.com/search?q=www.lalucky.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-11-18 | [`Waters Truck and Tractor (waterstruck.com)`](https://google.com/search?q=Waters+Truck+and+Tractor+%28waterstruck.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
