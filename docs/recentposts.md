@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-23 | [`Gulf Energy Maritime`](https://google.com/search?q=Gulf+Energy+Maritime) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-11-23 | [`Alna-Bioscience`](https://google.com/search?q=Alna-Bioscience) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-23 | [`https://www.co.cullman.al.us/`](https://google.com/search?q=https%3A%2F%2Fwww.co.cullman.al.us%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-23 | [`curenta.com`](https://google.com/search?q=curenta.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`www.keizers.ca`](https://google.com/search?q=www.keizers.ca) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-11-18 | [`barranquitas.pr.gov`](https://google.com/search?q=barranquitas.pr.gov) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-11-18 | [`phxcmp.com`](https://google.com/search?q=phxcmp.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-11-18 | [`myrtlebeachcustomhomebuilder.com`](https://google.com/search?q=myrtlebeachcustomhomebuilder.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
