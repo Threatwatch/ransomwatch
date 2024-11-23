@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-23 | [`Service Avicole JGL`](https://google.com/search?q=Service+Avicole+JGL) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-23 | [`Darlington EMS`](https://google.com/search?q=Darlington+EMS) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-23 | [`Schuck-Gruppe`](https://google.com/search?q=Schuck-Gruppe) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-23 | [`IPE Engwicht`](https://google.com/search?q=IPE+Engwicht) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`bshsoft.com`](https://google.com/search?q=bshsoft.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-11-18 | [`aberdeenwa.gov`](https://google.com/search?q=aberdeenwa.gov) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-11-18 | [`compra-aruba.com`](https://google.com/search?q=compra-aruba.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-11-18 | [`mmpunion.com`](https://google.com/search?q=mmpunion.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
