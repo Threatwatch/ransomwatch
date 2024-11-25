@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-25 | [`glts.net`](https://google.com/search?q=glts.net) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-11-25 | [`JN attorney`](https://google.com/search?q=JN+attorney) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-25 | [`Ace Laboratories Limited`](https://google.com/search?q=Ace+Laboratories+Limited) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-25 | [`INFiLED`](https://google.com/search?q=INFiLED) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`htetech.com`](https://google.com/search?q=htetech.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-11-18 | [`goughconstruction.com`](https://google.com/search?q=goughconstruction.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-11-18 | [`pesprograms.com`](https://google.com/search?q=pesprograms.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-11-18 | [`palmfs.com`](https://google.com/search?q=palmfs.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
