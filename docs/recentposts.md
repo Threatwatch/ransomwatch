@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-25 | [`Hadwins Volkswagen`](https://google.com/search?q=Hadwins+Volkswagen) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-25 | [`atfservices.com.au`](https://google.com/search?q=atfservices.com.au) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-25 | [`aclaser.com.au`](https://google.com/search?q=aclaser.com.au) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-25 | [`Co****nt`](https://google.com/search?q=Co%2A%2A%2A%2Ant) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`allianceind.com`](https://google.com/search?q=allianceind.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-11-18 | [`avioesforza.it`](https://google.com/search?q=avioesforza.it) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-11-18 | [`newriverelectrical.com`](https://google.com/search?q=newriverelectrical.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-11-18 | [`seaglesafety.com`](https://google.com/search?q=seaglesafety.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
