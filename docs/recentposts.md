@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-26 | [`yunker.com`](https://google.com/search?q=yunker.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-26 | [`cal-tool.com`](https://google.com/search?q=cal-tool.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-26 | [`reliv.la`](https://google.com/search?q=reliv.la) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-26 | [`walkingtree.org`](https://google.com/search?q=walkingtree.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`Family Wealth Advisors Ltd.`](https://google.com/search?q=Family+Wealth+Advisors+Ltd.) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2024-11-18 | [`Cole Technologies Group`](https://google.com/search?q=Cole+Technologies+Group) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2024-11-18 | [`COOPERATIVA TELEFONICA DE CALAFATE LTD.`](https://google.com/search?q=COOPERATIVA+TELEFONICA+DE+CALAFATE+LTD.) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
-| 2024-11-18 | [`CHRISTODOULOS G. VASSILIADES &amp; CO. LLC`](https://google.com/search?q=CHRISTODOULOS+G.+VASSILIADES+%26amp%3B+CO.+LLC) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
