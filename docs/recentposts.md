@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-26 | [`walkingtree.org`](https://google.com/search?q=walkingtree.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-26 | [`Goodman, P.A.`](https://google.com/search?q=Goodman%2C+P.A.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-11-26 | [`OfficeZilla.com`](https://google.com/search?q=OfficeZilla.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-26 | [`minneapolisparks.org`](https://google.com/search?q=minneapolisparks.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`CHRISTODOULOS G. VASSILIADES &amp; CO. LLC`](https://google.com/search?q=CHRISTODOULOS+G.+VASSILIADES+%26amp%3B+CO.+LLC) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2024-11-18 | [`Berridge Manufacturing Co.`](https://google.com/search?q=Berridge+Manufacturing+Co.) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2024-11-18 | [`Basilio Advogados`](https://google.com/search?q=Basilio+Advogados) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
-| 2024-11-18 | [`fleetequipment.com`](https://google.com/search?q=fleetequipment.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
