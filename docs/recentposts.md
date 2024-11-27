@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-27 | [`habeshacement.com`](https://google.com/search?q=habeshacement.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-11-27 | [`gronercrm.com.br`](https://google.com/search?q=gronercrm.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-27 | [`Interior Metals`](https://google.com/search?q=Interior+Metals) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-11-27 | [`bolognafc.it`](https://google.com/search?q=bolognafc.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`College of Business - Tanzania`](https://google.com/search?q=College+of+Business+-+Tanzania) | [hellcat](https://ransomwatch.telemetry.ltd/#/profiles?id=hellcat) |
 | 2024-11-18 | [`Ministry of Education - Jordan`](https://google.com/search?q=Ministry+of+Education+-+Jordan) | [hellcat](https://ransomwatch.telemetry.ltd/#/profiles?id=hellcat) |
 | 2024-11-18 | [`Schneider Electric - France`](https://google.com/search?q=Schneider+Electric+-+France) | [hellcat](https://ransomwatch.telemetry.ltd/#/profiles?id=hellcat) |
-| 2024-11-18 | [`Contact us`](https://google.com/search?q=Contact+us) | [hellcat](https://ransomwatch.telemetry.ltd/#/profiles?id=hellcat) |
