@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-27 | [`Me****or`](https://google.com/search?q=Me%2A%2A%2A%2Aor) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-11-27 | [`ahn.org`](https://google.com/search?q=ahn.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-11-27 | [`habeshacement.com`](https://google.com/search?q=habeshacement.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-11-27 | [`gronercrm.com.br`](https://google.com/search?q=gronercrm.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`Health Quality Council`](https://google.com/search?q=Health+Quality+Council) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-18 | [`Pinger - USA`](https://google.com/search?q=Pinger+-+USA) | [hellcat](https://ransomwatch.telemetry.ltd/#/profiles?id=hellcat) |
 | 2024-11-18 | [`College of Business - Tanzania`](https://google.com/search?q=College+of+Business+-+Tanzania) | [hellcat](https://ransomwatch.telemetry.ltd/#/profiles?id=hellcat) |
-| 2024-11-18 | [`Ministry of Education - Jordan`](https://google.com/search?q=Ministry+of+Education+-+Jordan) | [hellcat](https://ransomwatch.telemetry.ltd/#/profiles?id=hellcat) |
