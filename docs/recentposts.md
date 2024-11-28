@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-28 | [`Ventana Micro Systems`](https://google.com/search?q=Ventana+Micro+Systems) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-11-27 | [`Lu****ng`](https://google.com/search?q=Lu%2A%2A%2A%2Ang) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-11-27 | [`Me****or`](https://google.com/search?q=Me%2A%2A%2A%2Aor) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-11-27 | [`ahn.org`](https://google.com/search?q=ahn.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`Planar`](https://google.com/search?q=Planar) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-18 | [`PHARMATIS-SAS`](https://google.com/search?q=PHARMATIS-SAS) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-18 | [`Health Quality Council`](https://google.com/search?q=Health+Quality+Council) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-11-18 | [`Pinger - USA`](https://google.com/search?q=Pinger+-+USA) | [hellcat](https://ransomwatch.telemetry.ltd/#/profiles?id=hellcat) |
