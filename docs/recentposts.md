@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-28 | [`https://jtekt-na.com/`](https://google.com/search?q=https%3A%2F%2Fjtekt-na.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-28 | [`Delmar International`](https://google.com/search?q=Delmar+International) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-11-28 | [`McLean Mortgage Corporation`](https://google.com/search?q=McLean+Mortgage+Corporation) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-11-28 | [`NHS Alder Hey`](https://google.com/search?q=NHS+Alder+Hey) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`vbuzrt.hu`](https://google.com/search?q=vbuzrt.hu) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-18 | [`ucv.es`](https://google.com/search?q=ucv.es) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-18 | [`europe-qualité`](https://google.com/search?q=europe-qualite%CC%81) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-11-18 | [`a4hs-dom.local`](https://google.com/search?q=a4hs-dom.local) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
