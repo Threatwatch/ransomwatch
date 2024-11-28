@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-28 | [`tappi.org`](https://google.com/search?q=tappi.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-28 | [`IAС`](https://google.com/search?q=IA%D0%A1) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-28 | [`corenroll.com`](https://google.com/search?q=corenroll.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-28 | [`visufarma.com`](https://google.com/search?q=visufarma.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`Webb Institute`](https://google.com/search?q=Webb+Institute) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-18 | [`The University and College Union`](https://google.com/search?q=The+University+and+College+Union) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-18 | [`The Coffee Bean & Tea Leaf`](https://google.com/search?q=The+Coffee+Bean+%26+Tea+Leaf) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-11-18 | [`Storck-Baugesellschaft mbH`](https://google.com/search?q=Storck-Baugesellschaft+mbH) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
