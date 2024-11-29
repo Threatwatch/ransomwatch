@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-29 | [`www.aras-group.ae`](https://google.com/search?q=www.aras-group.ae) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-29 | [`smawins.net`](https://google.com/search?q=smawins.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-29 | [`www.bent-tree.com`](https://google.com/search?q=www.bent-tree.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-29 | [`Horsa`](https://google.com/search?q=Horsa) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`Oman Oil`](https://google.com/search?q=Oman+Oil) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2024-11-18 | [`Culligan`](https://google.com/search?q=Culligan) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2024-11-18 | [`Nifast`](https://google.com/search?q=Nifast) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
-| 2024-11-18 | [`http://betrvom4agzebo27bt7o3hk35tvr7ppw3hrx5xx4ecvijwfsb4iufoyd.onion/kciaviation.com/`](https://google.com/search?q=http%3A%2F%2Fbetrvom4agzebo27bt7o3hk35tvr7ppw3hrx5xx4ecvijwfsb4iufoyd.onion%2Fkciaviation.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
