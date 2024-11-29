@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-29 | [`Bendheim`](https://google.com/search?q=Bendheim) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-29 | [`thinkecs.com`](https://google.com/search?q=thinkecs.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-29 | [`www.aras-group.ae`](https://google.com/search?q=www.aras-group.ae) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-29 | [`smawins.net`](https://google.com/search?q=smawins.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`Conseil scolaire Viamonde`](https://google.com/search?q=Conseil+scolaire+Viamonde) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2024-11-18 | [`Lebenshilfe Heinsberg`](https://google.com/search?q=Lebenshilfe+Heinsberg) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2024-11-18 | [`Oman Oil`](https://google.com/search?q=Oman+Oil) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
-| 2024-11-18 | [`Culligan`](https://google.com/search?q=Culligan) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
