@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-29 | [`Horsa`](https://google.com/search?q=Horsa) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-29 | [`ppotts.com`](https://google.com/search?q=ppotts.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-29 | [`facilcreditos.co`](https://google.com/search?q=facilcreditos.co) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-29 | [`osmedica.com.ar`](https://google.com/search?q=osmedica.com.ar) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`http://betrvom4agzebo27bt7o3hk35tvr7ppw3hrx5xx4ecvijwfsb4iufoyd.onion/kciaviation.com/`](https://google.com/search?q=http%3A%2F%2Fbetrvom4agzebo27bt7o3hk35tvr7ppw3hrx5xx4ecvijwfsb4iufoyd.onion%2Fkciaviation.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-18 | [`SW Reclaim`](https://google.com/search?q=SW+Reclaim) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-18 | [`Wilson Tarquin`](https://google.com/search?q=Wilson+Tarquin) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-11-18 | [`BluMed Health`](https://google.com/search?q=BluMed+Health) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
