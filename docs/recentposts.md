@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-30 | [`clubfitsoftware.com.au`](https://google.com/search?q=clubfitsoftware.com.au) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-30 | [`paysdelaloire`](https://google.com/search?q=paysdelaloire) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-11-30 | [`wulffco.com`](https://google.com/search?q=wulffco.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-30 | [`interborosd.org`](https://google.com/search?q=interborosd.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`www.compassfs.net`](https://google.com/search?q=www.compassfs.net) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
 | 2024-11-18 | [`www.co.san-jacinto.tx.us`](https://google.com/search?q=www.co.san-jacinto.tx.us) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
 | 2024-11-18 | [`valleyfirm.com`](https://google.com/search?q=valleyfirm.com) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
-| 2024-11-18 | [`tivoli-33.org`](https://google.com/search?q=tivoli-33.org) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
