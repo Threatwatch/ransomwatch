@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-30 | [`hartmannbund.de`](https://google.com/search?q=hartmannbund.de) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-30 | [`citywestcommercials.co.uk`](https://google.com/search?q=citywestcommercials.co.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-30 | [`Trace3`](https://google.com/search?q=Trace3) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-30 | [`Specialty Bolt And Screw`](https://google.com/search?q=Specialty+Bolt+And+Screw) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`hausdesstiftens.org`](https://google.com/search?q=hausdesstiftens.org) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
 | 2024-11-18 | [`generaldentistryforchildren.com`](https://google.com/search?q=generaldentistryforchildren.com) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
 | 2024-11-18 | [`fuelco-us.com`](https://google.com/search?q=fuelco-us.com) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
-| 2024-11-18 | [`americanventures.com`](https://google.com/search?q=americanventures.com) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
