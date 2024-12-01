@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-01 | [`tascosaofficemachines.com`](https://google.com/search?q=tascosaofficemachines.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-01 | [`shapesmfg.com`](https://google.com/search?q=shapesmfg.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-01 | [`costelloeye.com`](https://google.com/search?q=costelloeye.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-01 | [`McKibbin`](https://google.com/search?q=McKibbin) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`AlphaNovaCapital`](https://google.com/search?q=AlphaNovaCapital) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-18 | [`AMI Global Assistance`](https://google.com/search?q=AMI+Global+Assistance) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-18 | [`The Physical Medicine and Rehabilitation Center`](https://google.com/search?q=The+Physical+Medicine+and+Rehabilitation+Center) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2024-11-18 | [`Formosa Certified Public Accountants`](https://google.com/search?q=Formosa+Certified+Public+Accountants) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
