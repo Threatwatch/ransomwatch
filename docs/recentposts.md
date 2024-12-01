@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-01 | [`gehnaindia.com`](https://google.com/search?q=gehnaindia.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-30 | [`gajicermat.com`](https://google.com/search?q=gajicermat.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-30 | [`briatek.com.ng`](https://google.com/search?q=briatek.com.ng) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-30 | [`clubfitsoftware.com.au`](https://google.com/search?q=clubfitsoftware.com.au) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`www.nightnurse.ch`](https://google.com/search?q=www.nightnurse.ch) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
 | 2024-11-18 | [`www.knoxlawcenter.com`](https://google.com/search?q=www.knoxlawcenter.com) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
 | 2024-11-18 | [`www.csikitchenandbath.com`](https://google.com/search?q=www.csikitchenandbath.com) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
-| 2024-11-18 | [`www.compassfs.net`](https://google.com/search?q=www.compassfs.net) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
