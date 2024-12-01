@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-01 | [`Namforce Life Insurance`](https://google.com/search?q=Namforce+Life+Insurance) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-12-01 | [`backyarddiscovery.com`](https://google.com/search?q=backyarddiscovery.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2024-12-01 | [`inthinking.net`](https://google.com/search?q=inthinking.net) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-12-01 | [`Alpine Ear Nose and Throat`](https://google.com/search?q=Alpine+Ear+Nose+and+Throat) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`Accounting & Advisory Services,`](https://google.com/search?q=Accounting+%26+Advisory+Services%2C) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2024-11-18 | [`Sunshine Center`](https://google.com/search?q=Sunshine+Center) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2024-11-18 | [`Kansas Regenerative medicine centre`](https://google.com/search?q=Kansas+Regenerative+medicine+centre) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2024-11-18 | [`www.smarts-engineering.de`](https://google.com/search?q=www.smarts-engineering.de) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
