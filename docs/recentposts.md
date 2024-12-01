@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-01 | [`backyarddiscovery.com`](https://google.com/search?q=backyarddiscovery.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2024-12-01 | [`inthinking.net`](https://google.com/search?q=inthinking.net) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-12-01 | [`Alpine Ear Nose and Throat`](https://google.com/search?q=Alpine+Ear+Nose+and+Throat) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-12-01 | [`Government of the People`](https://google.com/search?q=Government+of+the+People) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`Sunshine Center`](https://google.com/search?q=Sunshine+Center) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2024-11-18 | [`Kansas Regenerative medicine centre`](https://google.com/search?q=Kansas+Regenerative+medicine+centre) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2024-11-18 | [`www.smarts-engineering.de`](https://google.com/search?q=www.smarts-engineering.de) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
-| 2024-11-18 | [`www.qualiform.cz`](https://google.com/search?q=www.qualiform.cz) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
