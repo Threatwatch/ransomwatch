@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-02 | [`qualitybillingservice.com`](https://google.com/search?q=qualitybillingservice.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-02 | [`NT****st`](https://google.com/search?q=NT%2A%2A%2A%2Ast) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-12-01 | [`tascosaofficemachines.com`](https://google.com/search?q=tascosaofficemachines.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-01 | [`shapesmfg.com`](https://google.com/search?q=shapesmfg.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`Sandro Forte Financial Support`](https://google.com/search?q=Sandro+Forte+Financial+Support) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-18 | [`Borrer Executive Search`](https://google.com/search?q=Borrer+Executive+Search) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-18 | [`AlphaNovaCapital`](https://google.com/search?q=AlphaNovaCapital) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-11-18 | [`AMI Global Assistance`](https://google.com/search?q=AMI+Global+Assistance) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
