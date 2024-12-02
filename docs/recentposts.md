@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-02 | [`Trust Seeds`](https://google.com/search?q=Trust+Seeds) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-12-02 | [`brfibra.`](https://google.com/search?q=brfibra.) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-12-02 | [`HM Environmental Services`](https://google.com/search?q=HM+Environmental+Services) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-12-02 | [`IT Networks`](https://google.com/search?q=IT+Networks) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`filmai.in`](https://google.com/search?q=filmai.in) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-18 | [`emefarmario.com.br`](https://google.com/search?q=emefarmario.com.br) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-18 | [`drizly.com`](https://google.com/search?q=drizly.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-11-18 | [`brightwayconsultants.co.uk`](https://google.com/search?q=brightwayconsultants.co.uk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
