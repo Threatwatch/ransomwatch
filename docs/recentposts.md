@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-02 | [`HM Environmental Services`](https://google.com/search?q=HM+Environmental+Services) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-12-02 | [`IT Networks`](https://google.com/search?q=IT+Networks) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-12-02 | [`MGEMAL`](https://google.com/search?q=MGEMAL) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-12-02 | [`Symantric IT`](https://google.com/search?q=Symantric+IT) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`drizly.com`](https://google.com/search?q=drizly.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-18 | [`brightwayconsultants.co.uk`](https://google.com/search?q=brightwayconsultants.co.uk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-18 | [`appen.com`](https://google.com/search?q=appen.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-11-18 | [`apex.uk.net`](https://google.com/search?q=apex.uk.net) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
