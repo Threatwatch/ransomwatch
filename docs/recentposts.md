@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-03 | [`Weld Racing (weldracing.com)`](https://google.com/search?q=Weld+Racing+%28weldracing.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-03 | [`Conlin&#39;s Pharmacy (conlinspharmacy.com)`](https://google.com/search?q=Conlin%26%2339%3Bs+Pharmacy+%28conlinspharmacy.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-03 | [`Royce Corporation`](https://google.com/search?q=Royce+Corporation) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2024-12-03 | [`Goodwill North Central Texas`](https://google.com/search?q=Goodwill+North+Central+Texas) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`sokkakreatif.com`](https://google.com/search?q=sokkakreatif.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-18 | [`rylandpeters.com`](https://google.com/search?q=rylandpeters.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-18 | [`robinhood.com`](https://google.com/search?q=robinhood.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-11-18 | [`pkaufmann.com`](https://google.com/search?q=pkaufmann.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
