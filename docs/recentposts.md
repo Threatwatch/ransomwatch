@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-03 | [`www.agenciatributaria.es`](https://google.com/search?q=www.agenciatributaria.es) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
 | 2024-12-03 | [`it`](https://google.com/search?q=it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-12-03 | [`Agencia Tributaria AEAT`](https://google.com/search?q=Agencia+Tributaria+AEAT) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
 | 2024-12-03 | [`PK Mulyo`](https://google.com/search?q=PK+Mulyo) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`modplan.co.uk`](https://google.com/search?q=modplan.co.uk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-18 | [`mgfsourcing.com`](https://google.com/search?q=mgfsourcing.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-18 | [`melting-mind.de`](https://google.com/search?q=melting-mind.de) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-11-18 | [`liftkits4less.com`](https://google.com/search?q=liftkits4less.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
