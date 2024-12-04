@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-04 | [`InterCon Construction`](https://google.com/search?q=InterCon+Construction) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-03 | [`Conteg`](https://google.com/search?q=Conteg) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-03 | [`SGS Co (US)`](https://google.com/search?q=SGS+Co+%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2024-12-03 | [`Communicare Inc.(US)`](https://google.com/search?q=Communicare+Inc.%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`www.assurified.com`](https://google.com/search?q=www.assurified.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-18 | [`trans-logik.com`](https://google.com/search?q=trans-logik.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-18 | [`thompsoncreek.com`](https://google.com/search?q=thompsoncreek.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-11-18 | [`thebeautyclick.co.uk`](https://google.com/search?q=thebeautyclick.co.uk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
