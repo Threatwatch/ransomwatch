@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-05 | [`Star Shuttle Inc.`](https://google.com/search?q=Star+Shuttle+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-12-05 | [`hanwhacimarron.com`](https://google.com/search?q=hanwhacimarron.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-05 | [`hobokennj.gov`](https://google.com/search?q=hobokennj.gov) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-12-05 | [`NTrust`](https://google.com/search?q=NTrust) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`https://www.eastgateauto.com/`](https://google.com/search?q=https%3A%2F%2Fwww.eastgateauto.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-18 | [`totaldevelopmentsolutions.com`](https://google.com/search?q=totaldevelopmentsolutions.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-18 | [`jergenspiping.com`](https://google.com/search?q=jergenspiping.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-18 | [`sealevelinc.com`](https://google.com/search?q=sealevelinc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
