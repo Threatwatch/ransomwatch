@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-05 | [`hobokennj.gov`](https://google.com/search?q=hobokennj.gov) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-12-05 | [`NTrust`](https://google.com/search?q=NTrust) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-12-05 | [`Co****ns`](https://google.com/search?q=Co%2A%2A%2A%2Ans) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-12-05 | [`copral.com.br`](https://google.com/search?q=copral.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`jergenspiping.com`](https://google.com/search?q=jergenspiping.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-18 | [`sealevelinc.com`](https://google.com/search?q=sealevelinc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-18 | [`Jornstax.com`](https://google.com/search?q=Jornstax.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-18 | [`waive.com.au`](https://google.com/search?q=waive.com.au) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
