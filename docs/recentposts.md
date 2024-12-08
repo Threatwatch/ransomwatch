@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-08 | [`Inland Tarp & Liner`](https://google.com/search?q=Inland+Tarp+%26+Liner) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-12-08 | [`Silicom Hacked`](https://google.com/search?q=Silicom+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-12-08 | [`SSV Blockchain Network Hacked`](https://google.com/search?q=SSV+Blockchain+Network+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-12-08 | [`Dorner (dorner-gmbh.de)`](https://google.com/search?q=Dorner+%28dorner-gmbh.de%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-21 | [`LenelS2`](https://google.com/search?q=LenelS2) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-21 | [`IVC Technologies`](https://google.com/search?q=IVC+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-21 | [`Hive Power Engineering`](https://google.com/search?q=Hive+Power+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-11-21 | [`Kellerhals Ferguson Kroblin PLLC`](https://google.com/search?q=Kellerhals+Ferguson+Kroblin+PLLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
