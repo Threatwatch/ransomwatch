@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-08 | [`SCM GROUP`](https://google.com/search?q=SCM+GROUP) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-12-08 | [`GMG`](https://google.com/search?q=GMG) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-12-08 | [`New Age Micro`](https://google.com/search?q=New+Age+Micro) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-12-08 | [`Suneva Medical`](https://google.com/search?q=Suneva+Medical) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-22 | [`Goldsmith & Hull`](https://google.com/search?q=Goldsmith+%26+Hull) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-22 | [`Brueck Golosow Kim & Associates`](https://google.com/search?q=Brueck+Golosow+Kim+%26+Associates) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-22 | [`ottosimon.co.uk\$16.6M\United Kingdom\1.9TB\100% DISCLOSED`](https://google.com/search?q=ottosimon.co.uk%5C%2416.6M%5CUnited+Kingdom%5C1.9TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-11-22 | [`Vox Printing`](https://google.com/search?q=Vox+Printing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
