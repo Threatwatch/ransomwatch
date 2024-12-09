@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-09 | [`Blue Yonder`](https://google.com/search?q=Blue+Yonder) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2024-12-09 | [`Département de La Réunion`](https://google.com/search?q=D%C3%A9partement+de+La+R%C3%A9union) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2024-12-09 | [`SRP Federal Credit Union`](https://google.com/search?q=SRP+Federal+Credit+Union) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2024-12-08 | [`SCM GROUP`](https://google.com/search?q=SCM+GROUP) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-22 | [`madison-home.com`](https://google.com/search?q=madison-home.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-11-22 | [`Zimmerei Buder`](https://google.com/search?q=Zimmerei+Buder) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-22 | [`United Bakery Equipment`](https://google.com/search?q=United+Bakery+Equipment) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-11-22 | [`Goldsmith & Hull`](https://google.com/search?q=Goldsmith+%26+Hull) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
