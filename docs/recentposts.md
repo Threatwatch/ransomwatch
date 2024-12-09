@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-09 | [`inia.es`](https://google.com/search?q=inia.es) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-09 | [`Thanks For The Help`](https://google.com/search?q=Thanks+For+The+Help) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-12-09 | [`T & M Equipment`](https://google.com/search?q=T+%26+M+Equipment) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2024-12-09 | [`Blue Yonder`](https://google.com/search?q=Blue+Yonder) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-22 | [`San Francisco Ballet`](https://google.com/search?q=San+Francisco+Ballet) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-11-22 | [`Performance Health & Fitness`](https://google.com/search?q=Performance+Health+%26+Fitness) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-22 | [`CK Power Public Manufacturing`](https://google.com/search?q=CK+Power+Public+Manufacturing) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-11-22 | [`madison-home.com`](https://google.com/search?q=madison-home.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
