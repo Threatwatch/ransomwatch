@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-09 | [`www.lasalleinc.com`](https://google.com/search?q=www.lasalleinc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-09 | [`mpdory.com`](https://google.com/search?q=mpdory.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-09 | [`islandphoto.com`](https://google.com/search?q=islandphoto.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-09 | [`http://copresi.es`](https://google.com/search?q=http%3A%2F%2Fcopresi.es) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-23 | [`LiquiTech`](https://google.com/search?q=LiquiTech) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-23 | [`ViralPitch`](https://google.com/search?q=ViralPitch) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-23 | [`ABC Group`](https://google.com/search?q=ABC+Group) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-11-22 | [`Trinity Petroleum Management, LLC`](https://google.com/search?q=Trinity+Petroleum+Management%2C+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
