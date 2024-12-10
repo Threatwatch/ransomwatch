@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-10 | [`azpay.me`](https://google.com/search?q=azpay.me) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-12-10 | [`Tacoma Engineers`](https://google.com/search?q=Tacoma+Engineers) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2024-12-10 | [`Brown Packing`](https://google.com/search?q=Brown+Packing) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2024-12-10 | [`Equity & Advisory`](https://google.com/search?q=Equity+%26+Advisory) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-23 | [`IPE Engwicht`](https://google.com/search?q=IPE+Engwicht) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-23 | [`Gulf Energy Maritime`](https://google.com/search?q=Gulf+Energy+Maritime) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-11-23 | [`Alna-Bioscience`](https://google.com/search?q=Alna-Bioscience) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-11-23 | [`https://www.co.cullman.al.us/`](https://google.com/search?q=https%3A%2F%2Fwww.co.cullman.al.us%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
