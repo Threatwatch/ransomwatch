@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-10 | [`Telecom Namibia`](https://google.com/search?q=Telecom+Namibia) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-10 | [`Throat`](https://google.com/search?q=Throat) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-12-10 | [`Global Insurance Agency LLC`](https://google.com/search?q=Global+Insurance+Agency+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-12-10 | [`greenscape.us.com`](https://google.com/search?q=greenscape.us.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-24 | [`Jones & Mayer`](https://google.com/search?q=Jones+%26+Mayer) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-24 | [`Aeris Energy`](https://google.com/search?q=Aeris+Energy) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-23 | [`Service Avicole JGL`](https://google.com/search?q=Service+Avicole+JGL) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-11-23 | [`Darlington EMS`](https://google.com/search?q=Darlington+EMS) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
