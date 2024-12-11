@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-11 | [`Planters Telephone Cooperative (planters.net)`](https://google.com/search?q=Planters+Telephone+Cooperative+%28planters.net%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-11 | [`Rutherford County Schools`](https://google.com/search?q=Rutherford+County+Schools) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-12-11 | [`At Interspiro`](https://google.com/search?q=At+Interspiro) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-11 | [`lgpunjab.gov.in`](https://google.com/search?q=lgpunjab.gov.in) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-25 | [`Co****nt`](https://google.com/search?q=Co%2A%2A%2A%2Ant) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-11-24 | [`chsplumbing.com`](https://google.com/search?q=chsplumbing.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-24 | [`Nicholsons Solicitors`](https://google.com/search?q=Nicholsons+Solicitors) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-11-24 | [`STIIIZY`](https://google.com/search?q=STIIIZY) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
