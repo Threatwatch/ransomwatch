@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-12 | [`Wintergreen Learning Materials`](https://google.com/search?q=Wintergreen+Learning+Materials) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-12 | [`AFD`](https://google.com/search?q=AFD) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-12 | [`Aptus`](https://google.com/search?q=Aptus) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-12-12 | [`Southern Acids`](https://google.com/search?q=Southern+Acids) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-26 | [`minneapolisparks.org`](https://google.com/search?q=minneapolisparks.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-26 | [`maynard.k12.ma.us`](https://google.com/search?q=maynard.k12.ma.us) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-26 | [`Publications postponded`](https://google.com/search?q=Publications+postponded) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2024-11-25 | [`karberinsulation.com`](https://google.com/search?q=karberinsulation.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
