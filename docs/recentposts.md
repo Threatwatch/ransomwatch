@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-12 | [`CW Lighting, LLC `](https://google.com/search?q=CW+Lighting%2C+LLC+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2024-12-12 | [`NSK Group ROTA`](https://google.com/search?q=NSK+Group+ROTA) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-12-11 | [`Interforos Casting`](https://google.com/search?q=Interforos+Casting) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-12-11 | [`http://midwest.com`](https://google.com/search?q=http%3A%2F%2Fmidwest.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-25 | [`INFiLED`](https://google.com/search?q=INFiLED) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-11-25 | [`GuangDong South Land pharmaceutical`](https://google.com/search?q=GuangDong+South+Land+pharmaceutical) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-11-25 | [`borohradek`](https://google.com/search?q=borohradek) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-11-25 | [`Hadwins Volkswagen`](https://google.com/search?q=Hadwins+Volkswagen) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
