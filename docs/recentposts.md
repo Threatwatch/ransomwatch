@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-13 | [`Cristal y Lavisa S.A. de C.V.`](https://google.com/search?q=Cristal+y+Lavisa+S.A.+de+C.V.) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2024-12-13 | [`Sunline`](https://google.com/search?q=Sunline) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-13 | [`Sigarth`](https://google.com/search?q=Sigarth) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-13 | [`SBW`](https://google.com/search?q=SBW) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-27 | [`formpipe.com`](https://google.com/search?q=formpipe.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-26 | [`parkleigh.com`](https://google.com/search?q=parkleigh.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-26 | [`SILKNET COMPANY`](https://google.com/search?q=SILKNET+COMPANY) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
-| 2024-11-26 | [`dienesusa.com`](https://google.com/search?q=dienesusa.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
