@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-13 | [`Maxus Group`](https://google.com/search?q=Maxus+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-13 | [`Long Beach Convention Center`](https://google.com/search?q=Long+Beach+Convention+Center) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-13 | [`Artemis Holding`](https://google.com/search?q=Artemis+Holding) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-13 | [`Myhealthcarebilling`](https://google.com/search?q=Myhealthcarebilling) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-26 | [`yunker.com`](https://google.com/search?q=yunker.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-26 | [`cal-tool.com`](https://google.com/search?q=cal-tool.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-26 | [`reliv.la`](https://google.com/search?q=reliv.la) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-26 | [`walkingtree.org`](https://google.com/search?q=walkingtree.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
