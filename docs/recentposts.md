@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-14 | [`Estar Seguros, S.A.`](https://google.com/search?q=Estar+Seguros%2C+S.A.) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2024-12-13 | [`tekni-plex.com`](https://google.com/search?q=tekni-plex.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-13 | [`www.hashem-contracting.com`](https://google.com/search?q=www.hashem-contracting.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-13 | [`Kazyon`](https://google.com/search?q=Kazyon) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-27 | [`bolognafc.it`](https://google.com/search?q=bolognafc.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-27 | [`www.itlindia.com`](https://google.com/search?q=www.itlindia.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-27 | [`Vermilion Parish School System`](https://google.com/search?q=Vermilion+Parish+School+System) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-11-27 | [`coppelltx.gov`](https://google.com/search?q=coppelltx.gov) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
