@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-15 | [`Anetic Aid`](https://google.com/search?q=Anetic+Aid) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2024-12-15 | [`www.midlandturbo.com`](https://google.com/search?q=www.midlandturbo.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-12-15 | [`fbchighsprings.org`](https://google.com/search?q=fbchighsprings.org) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-12-15 | [`www.kandelaar.com`](https://google.com/search?q=www.kandelaar.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-28 | [`tappi.org`](https://google.com/search?q=tappi.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-28 | [`IAС`](https://google.com/search?q=IA%D0%A1) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-28 | [`corenroll.com`](https://google.com/search?q=corenroll.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-28 | [`visufarma.com`](https://google.com/search?q=visufarma.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
