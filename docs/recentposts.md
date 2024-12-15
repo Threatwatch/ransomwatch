@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-15 | [`JSSR Options Co., Ltd. (JSSR)`](https://google.com/search?q=JSSR+Options+Co.%2C+Ltd.+%28JSSR%29) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-12-15 | [`Tumeny Payments Limited`](https://google.com/search?q=Tumeny+Payments+Limited) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-12-15 | [`rao.hr`](https://google.com/search?q=rao.hr) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-12-15 | [`melhorcompraclube.com.br`](https://google.com/search?q=melhorcompraclube.com.br) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-29 | [`times-supermarket.com`](https://google.com/search?q=times-supermarket.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-29 | [`alleghenycontract.com`](https://google.com/search?q=alleghenycontract.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-28 | [`https://jtekt-na.com/`](https://google.com/search?q=https%3A%2F%2Fjtekt-na.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-11-28 | [`Delmar International`](https://google.com/search?q=Delmar+International) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
