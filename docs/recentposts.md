@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-16 | [`www.certifiedinfosec.com`](https://google.com/search?q=www.certifiedinfosec.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-12-16 | [`www.bms.com`](https://google.com/search?q=www.bms.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-12-15 | [`www.aliorbank.pl`](https://google.com/search?q=www.aliorbank.pl) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-12-15 | [`JSSR Options Co., Ltd. (JSSR)`](https://google.com/search?q=JSSR+Options+Co.%2C+Ltd.+%28JSSR%29) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-29 | [`facilcreditos.co`](https://google.com/search?q=facilcreditos.co) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-29 | [`osmedica.com.ar`](https://google.com/search?q=osmedica.com.ar) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-29 | [`wheelerassoc.com`](https://google.com/search?q=wheelerassoc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-29 | [`times-supermarket.com`](https://google.com/search?q=times-supermarket.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
