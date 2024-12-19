@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-19 | [`Gagne, LLC.`](https://google.com/search?q=Gagne%2C+LLC.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-12-19 | [`lockbit4.com`](https://google.com/search?q=lockbit4.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-12-19 | [`Furmano’s`](https://google.com/search?q=Furmano%E2%80%99s) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-19 | [`Fruit of the Earth`](https://google.com/search?q=Fruit+of+the+Earth) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-02 | [`brfibra.`](https://google.com/search?q=brfibra.) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-12-02 | [`HM Environmental Services`](https://google.com/search?q=HM+Environmental+Services) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-12-02 | [`IT Networks`](https://google.com/search?q=IT+Networks) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2024-12-02 | [`MGEMAL`](https://google.com/search?q=MGEMAL) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
