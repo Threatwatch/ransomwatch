@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-20 | [`Water Utilities Corporation`](https://google.com/search?q=Water+Utilities+Corporation) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-12-20 | [`PT Pertamina`](https://google.com/search?q=PT+Pertamina) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-12-20 | [`Verosa LLC`](https://google.com/search?q=Verosa+LLC) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-12-20 | [`planetgroup.co.il`](https://google.com/search?q=planetgroup.co.il) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-03 | [`SGS Co (US)`](https://google.com/search?q=SGS+Co+%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2024-12-03 | [`Communicare Inc.(US)`](https://google.com/search?q=Communicare+Inc.%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2024-12-03 | [`Weld Racing (weldracing.com)`](https://google.com/search?q=Weld+Racing+%28weldracing.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-12-03 | [`Conlin&#39;s Pharmacy (conlinspharmacy.com)`](https://google.com/search?q=Conlin%26%2339%3Bs+Pharmacy+%28conlinspharmacy.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
