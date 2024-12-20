@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-20 | [`Khalil Center`](https://google.com/search?q=Khalil+Center) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-12-20 | [`tabocas.com.br`](https://google.com/search?q=tabocas.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-20 | [`Water Utilities Corporation`](https://google.com/search?q=Water+Utilities+Corporation) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-12-20 | [`PT Pertamina`](https://google.com/search?q=PT+Pertamina) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-04 | [`InterCon Construction`](https://google.com/search?q=InterCon+Construction) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-03 | [`Conteg`](https://google.com/search?q=Conteg) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-03 | [`SGS Co (US)`](https://google.com/search?q=SGS+Co+%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
-| 2024-12-03 | [`Communicare Inc.(US)`](https://google.com/search?q=Communicare+Inc.%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
