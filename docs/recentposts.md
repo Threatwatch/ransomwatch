@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-21 | [`McCally Tool and Supply`](https://google.com/search?q=McCally+Tool+and+Supply) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-12-21 | [`berkotfoods.com`](https://google.com/search?q=berkotfoods.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-12-21 | [`Albert Paper Company`](https://google.com/search?q=Albert+Paper+Company) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-12-21 | [`Schenkelberg - Die Medienstrategen (schenkelberg-druck.de)`](https://google.com/search?q=Schenkelberg+-+Die+Medienstrategen+%28schenkelberg-druck.de%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-05 | [`Cafe Zupas`](https://google.com/search?q=Cafe+Zupas) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-05 | [`Westbank Corp`](https://google.com/search?q=Westbank+Corp) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-04 | [`BT Group plc`](https://google.com/search?q=BT+Group+plc) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-12-04 | [`BEKO TECHNOLOGIES GMBH`](https://google.com/search?q=BEKO+TECHNOLOGIES+GMBH) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
