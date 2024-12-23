@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-23 | [`NE****IT`](https://google.com/search?q=NE%2A%2A%2A%2AIT) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-12-23 | [`STIIIZY Pre-Christmas publication`](https://google.com/search?q=STIIIZY+Pre-Christmas+publication) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-12-22 | [`Wa****ls`](https://google.com/search?q=Wa%2A%2A%2A%2Als) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-12-22 | [`ST****ng`](https://google.com/search?q=ST%2A%2A%2A%2Ang) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-06 | [`pro-mec.com`](https://google.com/search?q=pro-mec.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-06 | [`frigopesca.com.ec`](https://google.com/search?q=frigopesca.com.ec) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-06 | [`pez.com`](https://google.com/search?q=pez.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2024-12-06 | [`Standard Calibrations`](https://google.com/search?q=Standard+Calibrations) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
