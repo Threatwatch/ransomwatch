@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-24 | [`Gallade Chemical (galladechem.com)`](https://google.com/search?q=Gallade+Chemical+%28galladechem.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-24 | [`Industria e Comercio Jolitex Ltda (jolitex.com)`](https://google.com/search?q=Industria+e+Comercio+Jolitex+Ltda+%28jolitex.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-24 | [`RODS Surveying (rods.cc)`](https://google.com/search?q=RODS+Surveying+%28rods.cc%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-24 | [`It seems that it was easier to pay and calmly fix everything.`](https://google.com/search?q=It+seems+that+it+was+easier+to+pay+and+calmly+fix+everything.) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-08 | [`Deloitte UK`](https://google.com/search?q=Deloitte+UK) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2024-12-08 | [`USA2ME`](https://google.com/search?q=USA2ME) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-12-07 | [`internetway.com.br`](https://google.com/search?q=internetway.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-07 | [`www.iscinc93.com`](https://google.com/search?q=www.iscinc93.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
