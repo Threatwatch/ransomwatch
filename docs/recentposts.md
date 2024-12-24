@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-24 | [`SeaLandAire Technologies`](https://google.com/search?q=SeaLandAire+Technologies) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-24 | [`relate-infotech.com`](https://google.com/search?q=relate-infotech.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-12-24 | [`Gallade Chemical (galladechem.com)`](https://google.com/search?q=Gallade+Chemical+%28galladechem.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-24 | [`Industria e Comercio Jolitex Ltda (jolitex.com)`](https://google.com/search?q=Industria+e+Comercio+Jolitex+Ltda+%28jolitex.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-08 | [`SSV Blockchain Network Hacked`](https://google.com/search?q=SSV+Blockchain+Network+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-12-08 | [`Dorner (dorner-gmbh.de)`](https://google.com/search?q=Dorner+%28dorner-gmbh.de%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-08 | [`Deloitte UK`](https://google.com/search?q=Deloitte+UK) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
-| 2024-12-08 | [`USA2ME`](https://google.com/search?q=USA2ME) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
