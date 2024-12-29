@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-29 | [`IEC + EMCO`](https://google.com/search?q=IEC+%2B+EMCO) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-12-29 | [`Engenet Informatica`](https://google.com/search?q=Engenet+Informatica) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-12-29 | [`dgenviro.com`](https://google.com/search?q=dgenviro.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-12-29 | [`timely.mn`](https://google.com/search?q=timely.mn) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-12 | [`recope.go.cr`](https://google.com/search?q=recope.go.cr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-11 | [`Watsonville Community Hospital`](https://google.com/search?q=Watsonville+Community+Hospital) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2024-12-11 | [`Locke Solutions , LLC `](https://google.com/search?q=Locke+Solutions+%2C+LLC+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2024-12-11 | [`CW Lighting, LLC `](https://google.com/search?q=CW+Lighting%2C+LLC+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
