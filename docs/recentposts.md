@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-29 | [`asesoriacamen.es`](https://google.com/search?q=asesoriacamen.es) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-29 | [`www.psccorporation.com`](https://google.com/search?q=www.psccorporation.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-29 | [`IEC + EMCO`](https://google.com/search?q=IEC+%2B+EMCO) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-12-29 | [`Engenet Informatica`](https://google.com/search?q=Engenet+Informatica) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-12 | [`GBC`](https://google.com/search?q=GBC) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-12-12 | [`Aptus`](https://google.com/search?q=Aptus) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-12-12 | [`recope.go.cr`](https://google.com/search?q=recope.go.cr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-11 | [`Watsonville Community Hospital`](https://google.com/search?q=Watsonville+Community+Hospital) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
