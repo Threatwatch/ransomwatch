@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-04 | [`assurified.com`](https://google.com/search?q=assurified.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-04 | [`aliorbank.pl`](https://google.com/search?q=aliorbank.pl) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-04 | [`hasa-arg.com`](https://google.com/search?q=hasa-arg.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2025-01-04 | [`perucontrols.com`](https://google.com/search?q=perucontrols.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-14 | [`MedRevenu Inc`](https://google.com/search?q=MedRevenu+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-12-14 | [`Mid Florida Primary Care`](https://google.com/search?q=Mid+Florida+Primary+Care) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-12-14 | [`TWRU CPAs and Financial Advisors`](https://google.com/search?q=TWRU+CPAs+and+Financial+Advisors) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-12-13 | [`Anetic Aid`](https://google.com/search?q=Anetic+Aid) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
