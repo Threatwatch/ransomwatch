@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-04 | [`perucontrols.com`](https://google.com/search?q=perucontrols.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2025-01-04 | [`datascan.com`](https://google.com/search?q=datascan.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2025-01-04 | [`Montreal North`](https://google.com/search?q=Montreal+North) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-01-03 | [`Amourgis & Associates`](https://google.com/search?q=Amourgis+%26+Associates) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-13 | [`Anetic Aid`](https://google.com/search?q=Anetic+Aid) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2024-12-13 | [`Tri County Property Management`](https://google.com/search?q=Tri+County+Property+Management) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2024-12-13 | [`Archdiocese of Louisville`](https://google.com/search?q=Archdiocese+of+Louisville) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2024-12-13 | [`tekni-plex.com`](https://google.com/search?q=tekni-plex.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
