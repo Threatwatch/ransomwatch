@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-05 | [`credio.eu`](https://google.com/search?q=credio.eu) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-05 | [`certifiedinfosec.com`](https://google.com/search?q=certifiedinfosec.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-05 | [`bms.com`](https://google.com/search?q=bms.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-05 | [`bigalsfoodservice.co.uk`](https://google.com/search?q=bigalsfoodservice.co.uk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-14 | [`fbchighsprings.org`](https://google.com/search?q=fbchighsprings.org) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-12-14 | [`www.kandelaar.com`](https://google.com/search?q=www.kandelaar.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-12-14 | [`www.lightspeeddesign.com`](https://google.com/search?q=www.lightspeeddesign.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-12-14 | [`Levinlaw.com`](https://google.com/search?q=Levinlaw.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
