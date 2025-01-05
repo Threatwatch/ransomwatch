@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-05 | [`bigalsfoodservice.co.uk`](https://google.com/search?q=bigalsfoodservice.co.uk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-04 | [`baldinger-ag.ch`](https://google.com/search?q=baldinger-ag.ch) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-04 | [`assurified.com`](https://google.com/search?q=assurified.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-04 | [`aliorbank.pl`](https://google.com/search?q=aliorbank.pl) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-14 | [`Levinlaw.com`](https://google.com/search?q=Levinlaw.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-14 | [`American Computer Estimating Inc`](https://google.com/search?q=American+Computer+Estimating+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-12-14 | [`MedRevenu Inc`](https://google.com/search?q=MedRevenu+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-12-14 | [`Mid Florida Primary Care`](https://google.com/search?q=Mid+Florida+Primary+Care) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
