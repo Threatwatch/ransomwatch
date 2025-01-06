@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-06 | [`northernsafety.com`](https://google.com/search?q=northernsafety.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-06 | [`molars.co.ke`](https://google.com/search?q=molars.co.ke) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-06 | [`netromsoftware.ro`](https://google.com/search?q=netromsoftware.ro) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-06 | [`minerasancristobal.com`](https://google.com/search?q=minerasancristobal.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-16 | [`SWDAKOTAH.COM`](https://google.com/search?q=SWDAKOTAH.COM) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-16 | [`www.minerasancristobal.com`](https://google.com/search?q=www.minerasancristobal.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-12-16 | [`Waverley Christian College (wcc.vic.edu.au)`](https://google.com/search?q=Waverley+Christian+College+%28wcc.vic.edu.au%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-12-16 | [`Cognity (cognity.gr)`](https://google.com/search?q=Cognity+%28cognity.gr%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
