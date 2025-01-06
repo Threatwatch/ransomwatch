@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-06 | [`netromsoftware.ro`](https://google.com/search?q=netromsoftware.ro) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-06 | [`minerasancristobal.com`](https://google.com/search?q=minerasancristobal.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-06 | [`legilog.fr`](https://google.com/search?q=legilog.fr) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-05 | [`lamaisonducitron.com`](https://google.com/search?q=lamaisonducitron.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-16 | [`Waverley Christian College (wcc.vic.edu.au)`](https://google.com/search?q=Waverley+Christian+College+%28wcc.vic.edu.au%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-16 | [`Cognity (cognity.gr)`](https://google.com/search?q=Cognity+%28cognity.gr%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-16 | [`acumengroup.us`](https://google.com/search?q=acumengroup.us) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-12-16 | [`lasen.com`](https://google.com/search?q=lasen.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
