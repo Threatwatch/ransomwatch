@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-07 | [`trinitesolutions.com`](https://google.com/search?q=trinitesolutions.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-07 | [`trifecta.com`](https://google.com/search?q=trifecta.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-07 | [`Saint-Bar (saintbar.be)`](https://google.com/search?q=Saint-Bar+%28saintbar.be%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-01-07 | [`u0 Excel Transportation`](https://google.com/search?q=u0+Excel+Transportation) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-17 | [`A Beautiful Pools Inc `](https://google.com/search?q=A+Beautiful+Pools+Inc+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2024-12-17 | [`Fireproof Contractors Inc `](https://google.com/search?q=Fireproof+Contractors+Inc+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2024-12-17 | [`SpeedLine Solutions (speedlinesolutions.com)`](https://google.com/search?q=SpeedLine+Solutions+%28speedlinesolutions.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-12-17 | [`Ouro Verde (ouroverde.net.br)`](https://google.com/search?q=Ouro+Verde+%28ouroverde.net.br%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
