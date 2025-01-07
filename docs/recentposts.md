@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-07 | [`Sunflower Medical Group`](https://google.com/search?q=Sunflower+Medical+Group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-01-07 | [`talonsolutions.co.uk`](https://google.com/search?q=talonsolutions.co.uk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-07 | [`siapenet.gov.br`](https://google.com/search?q=siapenet.gov.br) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-07 | [`sfr.fr`](https://google.com/search?q=sfr.fr) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-17 | [`Total Patient Care LLC;A Sensitive Touch Home Health;Alphastar Home Health Care;Heart of T`](https://google.com/search?q=Total+Patient+Care+LLC%3BA+Sensitive+Touch+Home+Health%3BAlphastar+Home+Health+Care%3BHeart+of+T) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-12-17 | [`Bio-Clima Service Srl Data Leak`](https://google.com/search?q=Bio-Clima+Service+Srl+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-12-17 | [`Asaro Dental Aesthetics Data Leak`](https://google.com/search?q=Asaro+Dental+Aesthetics+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-12-17 | [`Artistic Family Dental;Value Dental Center;Sparkling Smiles Family Dentistry Data Leak`](https://google.com/search?q=Artistic+Family+Dental%3BValue+Dental+Center%3BSparkling+Smiles+Family+Dentistry+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
