@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-07 | [`sfr.fr`](https://google.com/search?q=sfr.fr) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-07 | [`servicepower.com`](https://google.com/search?q=servicepower.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-07 | [`sella.eng.br`](https://google.com/search?q=sella.eng.br) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-06 | [`scopeset.de`](https://google.com/search?q=scopeset.de) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-17 | [`Artistic Family Dental;Value Dental Center;Sparkling Smiles Family Dentistry Data Leak`](https://google.com/search?q=Artistic+Family+Dental%3BValue+Dental+Center%3BSparkling+Smiles+Family+Dentistry+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-12-16 | [`South Plains Implement`](https://google.com/search?q=South+Plains+Implement) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-16 | [`Joshua Grading & Excavating`](https://google.com/search?q=Joshua+Grading+%26+Excavating) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-12-16 | [`Chemitex SA Information`](https://google.com/search?q=Chemitex+SA+Information) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
