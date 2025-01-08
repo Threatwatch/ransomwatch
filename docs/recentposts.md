@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-08 | [`acquafertil.com.br`](https://google.com/search?q=acquafertil.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-08 | [`General Digital`](https://google.com/search?q=General+Digital) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-01-08 | [`General Digital CRM`](https://google.com/search?q=General+Digital+CRM) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-01-08 | [`jimthompson.com`](https://google.com/search?q=jimthompson.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-17 | [`medisecure.com.au`](https://google.com/search?q=medisecure.com.au) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-17 | [`redknee.com`](https://google.com/search?q=redknee.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-17 | [`nbleisuretrust.org`](https://google.com/search?q=nbleisuretrust.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-17 | [`Kilgore Industries `](https://google.com/search?q=Kilgore+Industries+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
