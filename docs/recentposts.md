@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-10 | [`www.mie.com.my`](https://google.com/search?q=www.mie.com.my) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-10 | [`xtremmedia.com`](https://google.com/search?q=xtremmedia.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-10 | [`massdevelopment.com\$24.6M\USA\1.2TB\100% DISCLOSED`](https://google.com/search?q=massdevelopment.com%5C%2424.6M%5CUSA%5C1.2TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-01-10 | [`ptcky.com\$5M\USA\902GB\100% DISCLOSED`](https://google.com/search?q=ptcky.com%5C%245M%5CUSA%5C902GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-18 | [`Reliance Connects (relianceconnects.com)`](https://google.com/search?q=Reliance+Connects+%28relianceconnects.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-18 | [`Verosa LLC`](https://google.com/search?q=Verosa+LLC) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-12-18 | [`National Atomic Energy Commission`](https://google.com/search?q=National+Atomic+Energy+Commission) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
-| 2024-12-18 | [`Cottrell P.C.`](https://google.com/search?q=Cottrell+P.C.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
