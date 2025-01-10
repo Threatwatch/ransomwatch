@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-10 | [`Qualinet`](https://google.com/search?q=Qualinet) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-01-10 | [`amerplumb.com`](https://google.com/search?q=amerplumb.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-10 | [`www.mie.com.my`](https://google.com/search?q=www.mie.com.my) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-10 | [`xtremmedia.com`](https://google.com/search?q=xtremmedia.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-18 | [`Archetype Group`](https://google.com/search?q=Archetype+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-18 | [`Smith Tank & Steel (smith-tank.com)`](https://google.com/search?q=Smith+Tank+%26+Steel+%28smith-tank.com%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-12-18 | [`Reliance Connects (relianceconnects.com)`](https://google.com/search?q=Reliance+Connects+%28relianceconnects.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-12-18 | [`Verosa LLC`](https://google.com/search?q=Verosa+LLC) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
