@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-11 | [`Arun Estates`](https://google.com/search?q=Arun+Estates) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2025-01-11 | [`Brachot`](https://google.com/search?q=Brachot) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2025-01-11 | [`Avril Supermarché Santé`](https://google.com/search?q=Avril+Supermarch%C3%A9+Sant%C3%A9) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2025-01-11 | [`Mortgage Investors Group (MIG)`](https://google.com/search?q=Mortgage+Investors+Group+%28MIG%29) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-19 | [`Krispy Kreme`](https://google.com/search?q=Krispy+Kreme) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-19 | [`Austin&#39;s Financial Solutions`](https://google.com/search?q=Austin%26%2339%3Bs+Financial+Solutions) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2024-12-19 | [`Energy Capital Credit Union (eccu.net)`](https://google.com/search?q=Energy+Capital+Credit+Union+%28eccu.net%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-12-19 | [`bri.co.id`](https://google.com/search?q=bri.co.id) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
