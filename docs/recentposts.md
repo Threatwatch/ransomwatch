@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-12 | [`COROB`](https://google.com/search?q=COROB) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-01-12 | [`Barber Specialties`](https://google.com/search?q=Barber+Specialties) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-01-12 | [`Schuff Steel Company`](https://google.com/search?q=Schuff+Steel+Company) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2025-01-12 | [`Granby Industries`](https://google.com/search?q=Granby+Industries) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-20 | [`Water Utilities Corporation`](https://google.com/search?q=Water+Utilities+Corporation) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-12-20 | [`PT Pertamina`](https://google.com/search?q=PT+Pertamina) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-12-20 | [`Khalil Center`](https://google.com/search?q=Khalil+Center) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-12-20 | [`JRT Automatisation`](https://google.com/search?q=JRT+Automatisation) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
