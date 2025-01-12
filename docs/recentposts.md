@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-12 | [`Patriarche Office of Architecture`](https://google.com/search?q=Patriarche+Office+of+Architecture) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-01-12 | [`Costex`](https://google.com/search?q=Costex) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-01-12 | [`COROB`](https://google.com/search?q=COROB) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-01-12 | [`Barber Specialties`](https://google.com/search?q=Barber+Specialties) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-20 | [`Howell Township Public Schools (howell.k12.nj.us)`](https://google.com/search?q=Howell+Township+Public+Schools+%28howell.k12.nj.us%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-20 | [`EP Holdings (epholdingsinc.com)`](https://google.com/search?q=EP+Holdings+%28epholdingsinc.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-20 | [`Water Utilities Corporation`](https://google.com/search?q=Water+Utilities+Corporation) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-12-20 | [`PT Pertamina`](https://google.com/search?q=PT+Pertamina) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
