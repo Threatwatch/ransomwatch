@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-14 | [`lamejor.com.co`](https://google.com/search?q=lamejor.com.co) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-01-14 | [`gelco-s-a.com.br`](https://google.com/search?q=gelco-s-a.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-01-14 | [`candelasyasociados.es`](https://google.com/search?q=candelasyasociados.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-01-14 | [`atpformosa.gob.ar`](https://google.com/search?q=atpformosa.gob.ar) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-21 | [`Langford Tool And Drill Co`](https://google.com/search?q=Langford+Tool+And+Drill+Co) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-12-21 | [`McCally Tool and Supply`](https://google.com/search?q=McCally+Tool+and+Supply) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-12-21 | [`Albert Paper Company`](https://google.com/search?q=Albert+Paper+Company) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-12-21 | [`Allied Packing And Rubber Inc`](https://google.com/search?q=Allied+Packing+And+Rubber+Inc) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
