@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-15 | [`www.eurocert.pl`](https://google.com/search?q=www.eurocert.pl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-15 | [`anwsd.org`](https://google.com/search?q=anwsd.org) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2025-01-15 | [`optiline.com\$127.3M\USA\947GB\&lt;1% DISCLOSED`](https://google.com/search?q=optiline.com%5C%24127.3M%5CUSA%5C947GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-01-15 | [`Spectrum`](https://google.com/search?q=Spectrum) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-23 | [`Gallade Chemical (galladechem.com)`](https://google.com/search?q=Gallade+Chemical+%28galladechem.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-23 | [`Industria e Comercio Jolitex Ltda (jolitex.com)`](https://google.com/search?q=Industria+e+Comercio+Jolitex+Ltda+%28jolitex.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-23 | [`ptcky.com\$5M\USA\902GB\&lt;1% DISCLOSED`](https://google.com/search?q=ptcky.com%5C%245M%5CUSA%5C902GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-12-23 | [`adveo.com\$740.7M\France\1.1TB\&lt;1% DISCLOSED`](https://google.com/search?q=adveo.com%5C%24740.7M%5CFrance%5C1.1TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
