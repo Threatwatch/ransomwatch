@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-15 | [`fplfood.com\$675M\USA\21GB\&lt;1% DISCLOSED`](https://google.com/search?q=fplfood.com%5C%24675M%5CUSA%5C21GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-01-15 | [`Intelservice.com`](https://google.com/search?q=Intelservice.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-15 | [`udb.net`](https://google.com/search?q=udb.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-15 | [`www.eurocert.pl`](https://google.com/search?q=www.eurocert.pl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-23 | [`www.mccoyglobal.com`](https://google.com/search?q=www.mccoyglobal.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-23 | [`Cathedral Prep (villalan.edu)`](https://google.com/search?q=Cathedral+Prep+%28villalan.edu%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-12-23 | [`Forum Architecture &amp; Interior Design (forumarchitecture.com)`](https://google.com/search?q=Forum+Architecture+%26amp%3B+Interior+Design+%28forumarchitecture.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-12-23 | [`Gallade Chemical (galladechem.com)`](https://google.com/search?q=Gallade+Chemical+%28galladechem.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
