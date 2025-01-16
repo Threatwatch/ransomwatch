@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-16 | [`FSOCIETY X FUNKSEC`](https://google.com/search?q=FSOCIETY+X+FUNKSEC) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-01-16 | [`anupalanonline.com`](https://google.com/search?q=anupalanonline.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-01-16 | [`Sharm Reef Hotel`](https://google.com/search?q=Sharm+Reef+Hotel) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-01-16 | [`bsegroup.it`](https://google.com/search?q=bsegroup.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-23 | [`marmon-herrington.com`](https://google.com/search?q=marmon-herrington.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-12-23 | [`n4telecom.com.br`](https://google.com/search?q=n4telecom.com.br) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-12-23 | [`federalbank.co.in`](https://google.com/search?q=federalbank.co.in) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-12-23 | [`intellinet-es.com`](https://google.com/search?q=intellinet-es.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
