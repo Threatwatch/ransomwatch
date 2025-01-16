@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-16 | [`Farmacia Cofar`](https://google.com/search?q=Farmacia+Cofar) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-01-15 | [`mi.edu`](https://google.com/search?q=mi.edu) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-15 | [`AKConstructors.com`](https://google.com/search?q=AKConstructors.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-15 | [`fplfood.com\$675M\USA\21GB\&lt;1% DISCLOSED`](https://google.com/search?q=fplfood.com%5C%24675M%5CUSA%5C21GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-23 | [`9fsfalcons.org`](https://google.com/search?q=9fsfalcons.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-12-23 | [`RODS Surveying (rods.cc)`](https://google.com/search?q=RODS+Surveying+%28rods.cc%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-23 | [`www.semfin.com`](https://google.com/search?q=www.semfin.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-23 | [`www.mccoyglobal.com`](https://google.com/search?q=www.mccoyglobal.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
