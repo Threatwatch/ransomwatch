@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-17 | [`Regina Coeli Convent`](https://google.com/search?q=Regina+Coeli+Convent) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-01-17 | [`Kilgore College (kilgore.edu)`](https://google.com/search?q=Kilgore+College+%28kilgore.edu%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-01-17 | [`Fish Nelson and Holden`](https://google.com/search?q=Fish+Nelson+and+Holden) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-01-16 | [`Woodlake`](https://google.com/search?q=Woodlake) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-24 | [`SeaLandAire Technologies`](https://google.com/search?q=SeaLandAire+Technologies) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-24 | [`bri.co.id (SOLD TO 3RD PARTY)`](https://google.com/search?q=bri.co.id+%28SOLD+TO+3RD+PARTY%29) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-12-24 | [`relate-infotech.com`](https://google.com/search?q=relate-infotech.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-12-24 | [`linebank.co.id`](https://google.com/search?q=linebank.co.id) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
