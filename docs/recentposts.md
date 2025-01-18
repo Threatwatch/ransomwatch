@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-18 | [`MassDevelopment`](https://google.com/search?q=MassDevelopment) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-01-18 | [`Marina Family Medical`](https://google.com/search?q=Marina+Family+Medical) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2025-01-18 | [`Conad (conad.lan)`](https://google.com/search?q=Conad+%28conad.lan%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-18 | [`QualiTech (qualitech.com)`](https://google.com/search?q=QualiTech+%28qualitech.com%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-27 | [`[DISCLOSED] KuiperCompagnons`](https://google.com/search?q=%5BDISCLOSED%5D+KuiperCompagnons) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-12-27 | [`[DISCLOSED] Lago Group Spa`](https://google.com/search?q=%5BDISCLOSED%5D+Lago+Group+Spa) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-12-27 | [`[DISCLOSED] INFiLED`](https://google.com/search?q=%5BDISCLOSED%5D+INFiLED) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-12-27 | [`Primary Health Services Center`](https://google.com/search?q=Primary+Health+Services+Center) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
