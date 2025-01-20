@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-20 | [`Kinseth Hospitality Companies`](https://google.com/search?q=Kinseth+Hospitality+Companies) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-20 | [`Sentinel Systems`](https://google.com/search?q=Sentinel+Systems) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-20 | [`Angotti & Reilly`](https://google.com/search?q=Angotti+%26+Reilly) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-20 | [`Zuk Group Hacked`](https://google.com/search?q=Zuk+Group+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-29 | [`Engenet Informatica`](https://google.com/search?q=Engenet+Informatica) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-12-29 | [`dgenviro.com`](https://google.com/search?q=dgenviro.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-12-29 | [`timely.mn`](https://google.com/search?q=timely.mn) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
-| 2024-12-28 | [`nigico.gr`](https://google.com/search?q=nigico.gr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
