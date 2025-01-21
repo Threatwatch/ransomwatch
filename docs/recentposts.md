@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-21 | [`supremegroup.co.in`](https://google.com/search?q=supremegroup.co.in) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-21 | [`FAAB Invest Advisors Private Limited`](https://google.com/search?q=FAAB+Invest+Advisors+Private+Limited) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-01-21 | [`Nimbus Facility Services`](https://google.com/search?q=Nimbus+Facility+Services) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-01-21 | [`Marukai`](https://google.com/search?q=Marukai) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-30 | [`Hi-Raise Constructions Holding`](https://google.com/search?q=Hi-Raise+Constructions+Holding) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-12-30 | [`Megaexit`](https://google.com/search?q=Megaexit) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-12-30 | [`Wosac`](https://google.com/search?q=Wosac) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2024-12-30 | [`Innois`](https://google.com/search?q=Innois) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
