@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-22 | [`boardman-hamilton.com`](https://google.com/search?q=boardman-hamilton.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-21 | [`RETAL Baltic Films`](https://google.com/search?q=RETAL+Baltic+Films) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-01-21 | [`miedemaproduce.com`](https://google.com/search?q=miedemaproduce.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-21 | [`Solaris-pharma.com leakage`](https://google.com/search?q=Solaris-pharma.com+leakage) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-31 | [`Zeifmans`](https://google.com/search?q=Zeifmans) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-30 | [`McCray Lumber`](https://google.com/search?q=McCray+Lumber) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-30 | [`Luxury Yacht Group`](https://google.com/search?q=Luxury+Yacht+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-12-30 | [`Bettisworth North`](https://google.com/search?q=Bettisworth+North) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
