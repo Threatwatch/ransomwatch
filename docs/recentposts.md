@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-23 | [`starkaerospace.com`](https://google.com/search?q=starkaerospace.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-01-23 | [`Cyrious Software`](https://google.com/search?q=Cyrious+Software) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-01-23 | [`Medical Associates of Brevard`](https://google.com/search?q=Medical+Associates+of+Brevard) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-01-23 | [`PINELAND BHDD COMMUNITY SERVICES`](https://google.com/search?q=PINELAND+BHDD+COMMUNITY+SERVICES) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-04 | [`baldinger-ag.ch`](https://google.com/search?q=baldinger-ag.ch) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-04 | [`assurified.com`](https://google.com/search?q=assurified.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-04 | [`aliorbank.pl`](https://google.com/search?q=aliorbank.pl) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2025-01-04 | [`hasa-arg.com`](https://google.com/search?q=hasa-arg.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
