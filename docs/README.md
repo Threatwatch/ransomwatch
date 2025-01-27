@@ -8,7 +8,7 @@ ransomwatch is currently crawling `492` sites belonging to `216` unique groups
 
 🦈 there have been `238` posts within the `month of january`
 
-🪐 there have been `1183` posts within the `last 90 days`
+🪐 there have been `1175` posts within the `last 90 days`
 
 🏚 there have been `238` posts within the `year of 2025`
 
