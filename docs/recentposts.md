@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-29 | [`By design`](https://google.com/search?q=By+design) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-01-29 | [`City Of Beloit`](https://google.com/search?q=City+Of+Beloit) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-01-29 | [`Mission Locale Montpellier `](https://google.com/search?q=Mission+Locale+Montpellier+) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-01-29 | [`Menominee Tribal Clinic`](https://google.com/search?q=Menominee+Tribal+Clinic) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-08 | [`acquafertil.com.br`](https://google.com/search?q=acquafertil.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-08 | [`General Digital`](https://google.com/search?q=General+Digital) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-01-08 | [`General Digital CRM`](https://google.com/search?q=General+Digital+CRM) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-01-08 | [`jimthompson.com`](https://google.com/search?q=jimthompson.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
