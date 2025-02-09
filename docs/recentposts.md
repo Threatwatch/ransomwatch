@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-09 | [`Silverado Contractors`](https://google.com/search?q=Silverado+Contractors) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-02-09 | [`Leading Edge Specialized Dentistry`](https://google.com/search?q=Leading+Edge+Specialized+Dentistry) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-02-09 | [`Handala New Telegram Channel`](https://google.com/search?q=Handala+New+Telegram+Channel) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-02-09 | [`Gitlabs: Universitatea Politehnica din Bucuresti, Maxvy Technologies Pvt, iRidge Inc.`](https://google.com/search?q=Gitlabs%3A+Universitatea+Politehnica+din+Bucuresti%2C+Maxvy+Technologies+Pvt%2C+iRidge+Inc.) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-21 | [`supremegroup.co.in`](https://google.com/search?q=supremegroup.co.in) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-21 | [`FAAB Invest Advisors Private Limited`](https://google.com/search?q=FAAB+Invest+Advisors+Private+Limited) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-01-21 | [`Nimbus Facility Services`](https://google.com/search?q=Nimbus+Facility+Services) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2025-01-21 | [`Marukai`](https://google.com/search?q=Marukai) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
