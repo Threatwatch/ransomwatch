@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-12 | [`STIIIZY  Full Data Leak`](https://google.com/search?q=STIIIZY++Full+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2025-02-12 | [`Mainline Information Systems`](https://google.com/search?q=Mainline+Information+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-12 | [`Kensington Glass Arts`](https://google.com/search?q=Kensington+Glass+Arts) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-12 | [`Jildor Shoes`](https://google.com/search?q=Jildor+Shoes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-23 | [`topackt.com`](https://google.com/search?q=topackt.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-01-23 | [`www.missionbank.bank`](https://google.com/search?q=www.missionbank.bank) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-23 | [`samsill.com`](https://google.com/search?q=samsill.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-01-23 | [`archaeologicalresearchservices.com`](https://google.com/search?q=archaeologicalresearchservices.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
