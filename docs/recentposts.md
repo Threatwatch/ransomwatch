@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-17 | [`Bulldog Oilfield Services`](https://google.com/search?q=Bulldog+Oilfield+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-17 | [`The Townsley Law Firm Information`](https://google.com/search?q=The+Townsley+Law+Firm+Information) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-17 | [`https://www.dapope.com/`](https://google.com/search?q=https%3A%2F%2Fwww.dapope.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2025-02-17 | [`teamwass.com\$676.3M\USA\451GB\&lt;1% DISCLOSED`](https://google.com/search?q=teamwass.com%5C%24676.3M%5CUSA%5C451GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-31 | [`soitinlaine.fi`](https://google.com/search?q=soitinlaine.fi) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2025-01-31 | [`tnlottery.com`](https://google.com/search?q=tnlottery.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-01-31 | [`BH Aircraft Company, Inc.`](https://google.com/search?q=BH+Aircraft+Company%2C+Inc.) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-01-31 | [`Pembina Trails School Division`](https://google.com/search?q=Pembina+Trails+School+Division) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
