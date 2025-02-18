@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-18 | [`Cuna Supply`](https://google.com/search?q=Cuna+Supply) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-18 | [`Bushmans`](https://google.com/search?q=Bushmans) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-17 | [`Bulldog Oilfield Services`](https://google.com/search?q=Bulldog+Oilfield+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-17 | [`The Townsley Law Firm Information`](https://google.com/search?q=The+Townsley+Law+Firm+Information) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-01 | [`payahmedabadechallan.org`](https://google.com/search?q=payahmedabadechallan.org) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-01 | [`midwaymetals.com.vn`](https://google.com/search?q=midwaymetals.com.vn) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-31 | [`soitinlaine.fi`](https://google.com/search?q=soitinlaine.fi) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2025-01-31 | [`tnlottery.com`](https://google.com/search?q=tnlottery.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
