@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-19 | [`almostfamousclothing.com\$183M\USA\375GB\&lt;1% DISCLOSED`](https://google.com/search?q=almostfamousclothing.com%5C%24183M%5CUSA%5C375GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-19 | [`ssmcoop.com\$22.5M\USA\26GB\&lt;1% DISCLOSED`](https://google.com/search?q=ssmcoop.com%5C%2422.5M%5CUSA%5C26GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-19 | [`uniekinc.com\$37.5M\USA\1.8TB\&lt;1% DISCLOSED`](https://google.com/search?q=uniekinc.com%5C%2437.5M%5CUSA%5C1.8TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-19 | [`midwayimporting.com\$43.7M\USA\915GB\&lt;1% DISCLOSED`](https://google.com/search?q=midwayimporting.com%5C%2443.7M%5CUSA%5C915GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-02 | [`Ayres Law Firm`](https://google.com/search?q=Ayres+Law+Firm) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-02-02 | [`Growth Acceleration Partners`](https://google.com/search?q=Growth+Acceleration+Partners) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-02-02 | [`Gitlabs: Professional Computer, X-Pans, Propulsion Academy AG`](https://google.com/search?q=Gitlabs%3A+Professional+Computer%2C+X-Pans%2C+Propulsion+Academy+AG) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2025-02-02 | [`Gitlabs: PT. ITPRENEUR INDONESIA TECHNOLOGY, GFZ Helmholtz Centre for Geosciences, LUA Cof`](https://google.com/search?q=Gitlabs%3A+PT.+ITPRENEUR+INDONESIA+TECHNOLOGY%2C+GFZ+Helmholtz+Centre+for+Geosciences%2C+LUA+Cof) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
