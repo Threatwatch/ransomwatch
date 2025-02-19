@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-19 | [`pyasolutions.com`](https://google.com/search?q=pyasolutions.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-02-19 | [`Alabama Ophthalmology Associates`](https://google.com/search?q=Alabama+Ophthalmology+Associates) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-02-19 | [`lavi.co.il`](https://google.com/search?q=lavi.co.il) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-02-19 | [`Persante Health Care`](https://google.com/search?q=Persante+Health+Care) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-02 | [`usuhs.edu`](https://google.com/search?q=usuhs.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-02-02 | [`jpcgroupinc.com`](https://google.com/search?q=jpcgroupinc.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2025-02-02 | [`Four Eye Clinics`](https://google.com/search?q=Four+Eye+Clinics) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2025-02-02 | [`Civic Committee`](https://google.com/search?q=Civic+Committee) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
