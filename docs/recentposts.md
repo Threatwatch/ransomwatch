@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-19 | [`www.macter.com`](https://google.com/search?q=www.macter.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-19 | [`Supreme Administrative Court of Bulgaria`](https://google.com/search?q=Supreme+Administrative+Court+of+Bulgaria) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-02-19 | [`Swissmem`](https://google.com/search?q=Swissmem) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-02-19 | [`pyasolutions.com`](https://google.com/search?q=pyasolutions.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-02 | [`Zamzow's`](https://google.com/search?q=Zamzow%27s) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-02-02 | [`Tosaf Hacked`](https://google.com/search?q=Tosaf+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-02-02 | [`Gitlabs: Prasaga, HE2B, Kombinat`](https://google.com/search?q=Gitlabs%3A+Prasaga%2C+HE2B%2C+Kombinat) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2025-02-02 | [`usuhs.edu`](https://google.com/search?q=usuhs.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
