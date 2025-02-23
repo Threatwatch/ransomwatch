@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-23 | [`G&amp`](https://google.com/search?q=G%26amp) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-23 | [`BluAgent Technologies, Inc`](https://google.com/search?q=BluAgent+Technologies%2C+Inc) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-23 | [`Afa Systems Ltd.`](https://google.com/search?q=Afa+Systems+Ltd.) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
 | 2025-02-23 | [`myhscu.com`](https://google.com/search?q=myhscu.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-06 | [`Robertshaw`](https://google.com/search?q=Robertshaw) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-02-06 | [`www.aswgr.com`](https://google.com/search?q=www.aswgr.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-06 | [`heartlandrvs.com`](https://google.com/search?q=heartlandrvs.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-06 | [`gaheritagefcu.org`](https://google.com/search?q=gaheritagefcu.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
