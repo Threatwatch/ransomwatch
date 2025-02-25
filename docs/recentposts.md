@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-25 | [`ossc.mx`](https://google.com/search?q=ossc.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-02-25 | [`essenzamovies.com.br`](https://google.com/search?q=essenzamovies.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-02-25 | [`Nichino Ryokka Co Ltd`](https://google.com/search?q=Nichino+Ryokka+Co+Ltd) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-02-25 | [`neatem.fr - Update!`](https://google.com/search?q=neatem.fr+-+Update%21) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-08 | [`G*********7.com`](https://google.com/search?q=G%2A%2A%2A%2A%2A%2A%2A%2A%2A7.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-02-08 | [`R******e.tw`](https://google.com/search?q=R%2A%2A%2A%2A%2A%2Ae.tw) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-02-08 | [`SAKAI SOUKEN Co.`](https://google.com/search?q=SAKAI+SOUKEN+Co.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2025-02-08 | [`M****s.info`](https://google.com/search?q=M%2A%2A%2A%2As.info) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
