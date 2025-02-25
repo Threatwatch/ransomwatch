@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-25 | [`neatem.fr - Update!`](https://google.com/search?q=neatem.fr+-+Update%21) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2025-02-25 | [`denbyco.co.uk`](https://google.com/search?q=denbyco.co.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-25 | [`compactmould.com`](https://google.com/search?q=compactmould.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-25 | [`chfindustries.com\$253.8M\USA\2.5TB\&lt;1% DISCLOSED`](https://google.com/search?q=chfindustries.com%5C%24253.8M%5CUSA%5C2.5TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-08 | [`M****s.info`](https://google.com/search?q=M%2A%2A%2A%2As.info) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-02-08 | [`Casper&#39;s Truck Equipment`](https://google.com/search?q=Casper%26%2339%3Bs+Truck+Equipment) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-02-08 | [`Medical Reports`](https://google.com/search?q=Medical+Reports) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2025-02-08 | [`Lexington Electric `](https://google.com/search?q=Lexington+Electric+) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
