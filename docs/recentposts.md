@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-27 | [`Finck Cigar`](https://google.com/search?q=Finck+Cigar) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-26 | [`3cBSI`](https://google.com/search?q=3cBSI) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-26 | [`Nationz Technologies Inc.`](https://google.com/search?q=Nationz+Technologies+Inc.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-02-26 | [`holtcat.com\$1B\USA\868GB\&lt;1% DISCLOSED`](https://google.com/search?q=holtcat.com%5C%241B%5CUSA%5C868GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-10 | [`Capital Cell Global (CCG)`](https://google.com/search?q=Capital+Cell+Global+%28CCG%29) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-10 | [`ASRAM Medical College and Hospita`](https://google.com/search?q=ASRAM+Medical+College+and+Hospita) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-10 | [`Albright Institute`](https://google.com/search?q=Albright+Institute) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2025-02-09 | [`Silverado Contractors`](https://google.com/search?q=Silverado+Contractors) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
