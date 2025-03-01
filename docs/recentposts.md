@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-01 | [`electrocraft.com\$190.1M\USA\477GB\&lt;1% DISCLOSED`](https://google.com/search?q=electrocraft.com%5C%24190.1M%5CUSA%5C477GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-01 | [`associatedasset.com\$288M\USA\26GB\&lt;1% DISCLOSED`](https://google.com/search?q=associatedasset.com%5C%24288M%5CUSA%5C26GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-01 | [`grede.com\$814.7M\USA\524gb\&lt;1% DISCLOSED`](https://google.com/search?q=grede.com%5C%24814.7M%5CUSA%5C524gb%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-01 | [`branchgroup.com\$333M\USA\253GB\&lt;1% DISCLOSED`](https://google.com/search?q=branchgroup.com%5C%24333M%5CUSA%5C253GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-12 | [`Shinn Fu Company of America`](https://google.com/search?q=Shinn+Fu+Company+of+America) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-12 | [`ROCK SOLID Stabilization & Reclamation`](https://google.com/search?q=ROCK+SOLID+Stabilization+%26+Reclamation) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-12 | [`Neaton Auto Products Manufacturing`](https://google.com/search?q=Neaton+Auto+Products+Manufacturing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-12 | [`Monroe Transportation Services Inc`](https://google.com/search?q=Monroe+Transportation+Services+Inc) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
