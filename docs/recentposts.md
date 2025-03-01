@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-01 | [`steelerubber.com\$17.9M\USA\116GB\&lt;1% DISCLOSED`](https://google.com/search?q=steelerubber.com%5C%2417.9M%5CUSA%5C116GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-01 | [`stanleyconsultants.com\$190.5M\USA\388GB\&lt;1% DISCLOSED`](https://google.com/search?q=stanleyconsultants.com%5C%24190.5M%5CUSA%5C388GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-01 | [`Newton & Associates, Inc`](https://google.com/search?q=Newton+%26+Associates%2C+Inc) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-03-01 | [`electrocraft.com\$190.1M\USA\477GB\&lt;1% DISCLOSED`](https://google.com/search?q=electrocraft.com%5C%24190.1M%5CUSA%5C477GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-13 | [`uniquehd.com\$13.7M\USA\429GB\&lt;1% DISCLOSED`](https://google.com/search?q=uniquehd.com%5C%2413.7M%5CUSA%5C429GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-13 | [`MICRO MANUFACTRING`](https://google.com/search?q=MICRO+MANUFACTRING) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2025-02-13 | [`Tie Down Engineering`](https://google.com/search?q=Tie+Down+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-12 | [`Shinn Fu Company of America`](https://google.com/search?q=Shinn+Fu+Company+of+America) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
