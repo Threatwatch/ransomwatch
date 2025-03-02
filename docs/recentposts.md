@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-02 | [`bestbrands.com\$25.5M\USA\659GB\100% DISCLOSED`](https://google.com/search?q=bestbrands.com%5C%2425.5M%5CUSA%5C659GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-02 | [`newhorizonsbaking.com\$163M\USA\455GB\100% DISCLOSED`](https://google.com/search?q=newhorizonsbaking.com%5C%24163M%5CUSA%5C455GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-02 | [`South Georgia Accounting Services`](https://google.com/search?q=South+Georgia+Accounting+Services) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-03-02 | [`tequaly.com`](https://google.com/search?q=tequaly.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-14 | [`Ball, LLP`](https://google.com/search?q=Ball%2C+LLP) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-02-14 | [`R Molds Inc`](https://google.com/search?q=R+Molds+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-02-14 | [`Nash Brothers Construction`](https://google.com/search?q=Nash+Brothers+Construction) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2025-02-13 | [`Nippon Steel USA`](https://google.com/search?q=Nippon+Steel+USA) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
