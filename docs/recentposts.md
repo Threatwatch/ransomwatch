@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-12 | [`baillie.com\$130.5M\USA\52GB\&lt;1% DISCLOSED`](https://google.com/search?q=baillie.com%5C%24130.5M%5CUSA%5C52GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-12 | [`tempel.com\$628.7M\USA\111GB\&lt;1% DISCLOSED`](https://google.com/search?q=tempel.com%5C%24628.7M%5CUSA%5C111GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-12 | [`rocketstores.com\$738.9M\USA\3.2TB\&lt;1% DISCLOSED`](https://google.com/search?q=rocketstores.com%5C%24738.9M%5CUSA%5C3.2TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-12 | [`www.hexosys.com`](https://google.com/search?q=www.hexosys.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-24 | [`Realtime.tw`](https://google.com/search?q=Realtime.tw) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-02-24 | [`Eservices.gov.zm`](https://google.com/search?q=Eservices.gov.zm) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-02-23 | [`Shaghalni`](https://google.com/search?q=Shaghalni) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2025-02-23 | [`Novi Community School District`](https://google.com/search?q=Novi+Community+School+District) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
