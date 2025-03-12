@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-12 | [`rocketstores.com\$738.9M\USA\3.2TB\&lt;1% DISCLOSED`](https://google.com/search?q=rocketstores.com%5C%24738.9M%5CUSA%5C3.2TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-12 | [`www.hexosys.com`](https://google.com/search?q=www.hexosys.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-12 | [`dccsagroup.com&amp;csahome.com`](https://google.com/search?q=dccsagroup.com%26amp%3Bcsahome.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-12 | [`Edesur Dominicana`](https://google.com/search?q=Edesur+Dominicana) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-23 | [`Shaghalni`](https://google.com/search?q=Shaghalni) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-23 | [`Novi Community School District`](https://google.com/search?q=Novi+Community+School+District) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-23 | [`www.famcomachine.com`](https://google.com/search?q=www.famcomachine.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-23 | [`ondaralogistica.com`](https://google.com/search?q=ondaralogistica.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
