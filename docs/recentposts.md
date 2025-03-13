@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-13 | [`Best Cheer Stone`](https://google.com/search?q=Best+Cheer+Stone) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-13 | [`Backes`](https://google.com/search?q=Backes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-13 | [`www.raymond.in`](https://google.com/search?q=www.raymond.in) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-13 | [`RJ IT Solutions`](https://google.com/search?q=RJ+IT+Solutions) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-25 | [`Nichino Ryokka Co Ltd`](https://google.com/search?q=Nichino+Ryokka+Co+Ltd) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-02-25 | [`neatem.fr - Update!`](https://google.com/search?q=neatem.fr+-+Update%21) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2025-02-25 | [`denbyco.co.uk`](https://google.com/search?q=denbyco.co.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-25 | [`compactmould.com`](https://google.com/search?q=compactmould.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
