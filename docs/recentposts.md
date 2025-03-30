@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-30 | [`www.assisi.nl`](https://google.com/search?q=www.assisi.nl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-29 | [`importantsteps.com`](https://google.com/search?q=importantsteps.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-03-29 | [`bahnlog.com`](https://google.com/search?q=bahnlog.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-03-29 | [`Martin Mechanical (martin.local)`](https://google.com/search?q=Martin+Mechanical+%28martin.local%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-12 | [`wog-kaiserbaeder.de`](https://google.com/search?q=wog-kaiserbaeder.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-03-12 | [`wmk-hvb.de`](https://google.com/search?q=wmk-hvb.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-03-11 | [`williampevear.com`](https://google.com/search?q=williampevear.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-03-11 | [`emperors.edu`](https://google.com/search?q=emperors.edu) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
