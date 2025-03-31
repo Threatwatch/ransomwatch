@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-31 | [`test1234.com`](https://google.com/search?q=test1234.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-03-31 | [` SIRIUS S.R.L.`](https://google.com/search?q=+SIRIUS+S.R.L.) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-03-31 | [`AKTO`](https://google.com/search?q=AKTO) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-03-30 | [`www.assisi.nl`](https://google.com/search?q=www.assisi.nl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-12 | [`www.hexosys.com`](https://google.com/search?q=www.hexosys.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-12 | [`dccsagroup.com&amp;csahome.com`](https://google.com/search?q=dccsagroup.com%26amp%3Bcsahome.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-12 | [`Edesur Dominicana`](https://google.com/search?q=Edesur+Dominicana) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2025-03-12 | [`wog-kaiserbaeder.de`](https://google.com/search?q=wog-kaiserbaeder.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
