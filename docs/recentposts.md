@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-01 | [`delta-life.com`](https://google.com/search?q=delta-life.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-04-01 | [`intellioan.com`](https://google.com/search?q=intellioan.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-04-01 | [`jackpotjunction.com`](https://google.com/search?q=jackpotjunction.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-31 | [`CMC Technology Group`](https://google.com/search?q=CMC+Technology+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-12 | [`www.visualisation.one`](https://google.com/search?q=www.visualisation.one) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-12 | [`TUV India Pvt. Ltd.`](https://google.com/search?q=TUV+India+Pvt.+Ltd.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-03-12 | [`urban1.com\$460.3M\USA\2.5TB\&lt;1% DISCLOSED`](https://google.com/search?q=urban1.com%5C%24460.3M%5CUSA%5C2.5TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2025-03-12 | [`thermoid.com\$183.2M\USA\199GB\&lt;1% DISCLOSED`](https://google.com/search?q=thermoid.com%5C%24183.2M%5CUSA%5C199GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
