@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-02 | [`Adval Tech`](https://google.com/search?q=Adval+Tech) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-04-02 | [`The Hoff Brand SL Data Leak`](https://google.com/search?q=The+Hoff+Brand+SL+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2025-04-01 | [`The Loretto Hospital`](https://google.com/search?q=The+Loretto+Hospital) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-04-01 | [`State&#39;s Attorney Office`](https://google.com/search?q=State%26%2339%3Bs+Attorney+Office) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-13 | [`chfindustries.com\$253.8M\USA\2.5TB\100% DISCLOSED`](https://google.com/search?q=chfindustries.com%5C%24253.8M%5CUSA%5C2.5TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-13 | [`HYPERNOVA TELECOM`](https://google.com/search?q=HYPERNOVA+TELECOM) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-03-13 | [`Salemerode.com`](https://google.com/search?q=Salemerode.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2025-03-13 | [`Skyward Specialty Insurance`](https://google.com/search?q=Skyward+Specialty+Insurance) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
