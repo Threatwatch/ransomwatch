@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-02 | [`Clarity Ventures`](https://google.com/search?q=Clarity+Ventures) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-04-02 | [`crownlaboratories.com`](https://google.com/search?q=crownlaboratories.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2025-04-02 | [`Adval Tech`](https://google.com/search?q=Adval+Tech) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-04-02 | [`The Hoff Brand SL Data Leak`](https://google.com/search?q=The+Hoff+Brand+SL+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-13 | [`University Diagnostic Medical Imaging, PC (udmi.net)`](https://google.com/search?q=University+Diagnostic+Medical+Imaging%2C+PC+%28udmi.net%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-03-13 | [`HYPONAMIRU`](https://google.com/search?q=HYPONAMIRU) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-03-13 | [`chfindustries.com\$253.8M\USA\2.5TB\100% DISCLOSED`](https://google.com/search?q=chfindustries.com%5C%24253.8M%5CUSA%5C2.5TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2025-03-13 | [`HYPERNOVA TELECOM`](https://google.com/search?q=HYPERNOVA+TELECOM) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
