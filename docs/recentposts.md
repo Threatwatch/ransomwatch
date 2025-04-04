@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-04 | [`Fraser Trebilcock`](https://google.com/search?q=Fraser+Trebilcock) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-04 | [`Engine Power Source`](https://google.com/search?q=Engine+Power+Source) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-04-04 | [`Sansone Group`](https://google.com/search?q=Sansone+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-04 | [`National Sign corp`](https://google.com/search?q=National+Sign+corp) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-14 | [`Bancroft Wines`](https://google.com/search?q=Bancroft+Wines) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-03-14 | [`Wilkinson Rogers (wilkinsonrogers.com)`](https://google.com/search?q=Wilkinson+Rogers+%28wilkinsonrogers.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-03-14 | [`mdm-insurance.com`](https://google.com/search?q=mdm-insurance.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2025-03-14 | [`rixos.com`](https://google.com/search?q=rixos.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
