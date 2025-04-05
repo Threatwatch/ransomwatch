@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-05 | [`Industrial Corona de México`](https://google.com/search?q=Industrial+Corona+de+M%C3%A9xico) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-04-05 | [`TEDOM`](https://google.com/search?q=TEDOM) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-05 | [`Nexia Poyiadjis IT`](https://google.com/search?q=Nexia+Poyiadjis+IT) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-05 | [`Blackmon Mooring`](https://google.com/search?q=Blackmon+Mooring) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-15 | [`yeanshalle.de`](https://google.com/search?q=yeanshalle.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-03-14 | [`Fulcrum Lifting`](https://google.com/search?q=Fulcrum+Lifting) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-03-14 | [`Tryon`](https://google.com/search?q=Tryon) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-03-14 | [`Indiv Usa`](https://google.com/search?q=Indiv+Usa) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
