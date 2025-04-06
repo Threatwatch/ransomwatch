@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-06 | [`Hofmann Fördertechnik GmbH`](https://google.com/search?q=Hofmann+F%C3%B6rdertechnik+GmbH) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-06 | [`Groupe Delcourt`](https://google.com/search?q=Groupe+Delcourt) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-06 | [`grupotersa.com.mx`](https://google.com/search?q=grupotersa.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-04-06 | [`graphiquedefrance.com`](https://google.com/search?q=graphiquedefrance.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-15 | [` Research Electronics International `](https://google.com/search?q=+Research+Electronics+International+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-03-15 | [`SIRIUS S.R.L.`](https://google.com/search?q=SIRIUS+S.R.L.) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-03-15 | [`Casale Del Giglio`](https://google.com/search?q=Casale+Del+Giglio) | [orca](https://ransomwatch.telemetry.ltd/#/profiles?id=orca) |
-| 2025-03-15 | [`Engineering Mechanics`](https://google.com/search?q=Engineering+Mechanics) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
