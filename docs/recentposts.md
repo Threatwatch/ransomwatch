@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-06 | [`graphiquedefrance.com`](https://google.com/search?q=graphiquedefrance.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-04-06 | [`Swiss Capitals Group`](https://google.com/search?q=Swiss+Capitals+Group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-04-06 | [`L&amp;S Mechanical (Reuploaded)`](https://google.com/search?q=L%26amp%3BS+Mechanical+%28Reuploaded%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-04-05 | [`Hawk Technology`](https://google.com/search?q=Hawk+Technology) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-15 | [`Engineering Mechanics`](https://google.com/search?q=Engineering+Mechanics) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-03-15 | [`Springfield Water and Sewer Commission`](https://google.com/search?q=Springfield+Water+and+Sewer+Commission) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-03-15 | [`ACTi Corporation`](https://google.com/search?q=ACTi+Corporation) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-03-15 | [`PPS Services Group`](https://google.com/search?q=PPS+Services+Group) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
