@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-07 | [`[DISCLOSED]Cell C`](https://google.com/search?q=%5BDISCLOSED%5DCell+C) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-04-07 | [`IDS Infotech`](https://google.com/search?q=IDS+Infotech) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-06 | [`asiapacificex.com`](https://google.com/search?q=asiapacificex.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-04-06 | [`Hofmann Fördertechnik GmbH`](https://google.com/search?q=Hofmann+F%C3%B6rdertechnik+GmbH) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-16 | [`Arcandco`](https://google.com/search?q=Arcandco) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-03-16 | [`Rooks Rider Solicitors`](https://google.com/search?q=Rooks+Rider+Solicitors) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-03-15 | [`Perrigo Company`](https://google.com/search?q=Perrigo+Company) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
-| 2025-03-15 | [` Research Electronics International `](https://google.com/search?q=+Research+Electronics+International+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
