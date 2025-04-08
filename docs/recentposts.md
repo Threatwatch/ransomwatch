@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-08 | [`physiciansmedicalbilling.net`](https://google.com/search?q=physiciansmedicalbilling.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-04-08 | [`RFMS, Inc.`](https://google.com/search?q=RFMS%2C+Inc.) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-04-08 | [`https://www.thirdave.com`](https://google.com/search?q=https%3A%2F%2Fwww.thirdave.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2025-04-08 | [`Thiekon Constructie`](https://google.com/search?q=Thiekon+Constructie) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-16 | [`Toi Toi USA`](https://google.com/search?q=Toi+Toi+USA) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-03-16 | [`Fireplace Warehouse`](https://google.com/search?q=Fireplace+Warehouse) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-03-16 | [`www.ameda.com`](https://google.com/search?q=www.ameda.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-03-16 | [`Fred Salvucci`](https://google.com/search?q=Fred+Salvucci) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
