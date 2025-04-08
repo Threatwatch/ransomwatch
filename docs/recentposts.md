@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-08 | [`Coop57`](https://google.com/search?q=Coop57) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-04-08 | [`shengyusteel.com`](https://google.com/search?q=shengyusteel.com) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
 | 2025-04-07 | [`Galesburg Area Chamber of Commerce`](https://google.com/search?q=Galesburg+Area+Chamber+of+Commerce) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-04-07 | [`Telecontrol`](https://google.com/search?q=Telecontrol) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-16 | [`Vitenas Cosmetic Surgery`](https://google.com/search?q=Vitenas+Cosmetic+Surgery) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-03-16 | [`Ligentia`](https://google.com/search?q=Ligentia) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-03-16 | [`CESI`](https://google.com/search?q=CESI) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
-| 2025-03-16 | [`Genea`](https://google.com/search?q=Genea) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
