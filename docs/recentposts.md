@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-12 | [`acimfunds.com`](https://google.com/search?q=acimfunds.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-04-12 | [`Dimension Composite`](https://google.com/search?q=Dimension+Composite) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-04-12 | [`bilbie.com.au`](https://google.com/search?q=bilbie.com.au) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-04-12 | [`On IT`](https://google.com/search?q=On+IT) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-19 | [`alphaoil.ca`](https://google.com/search?q=alphaoil.ca) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-03-19 | [`newhollandwood.com`](https://google.com/search?q=newhollandwood.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-03-19 | [`CD`](https://google.com/search?q=CD) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2025-03-18 | [`Gloria Cales`](https://google.com/search?q=Gloria+Cales) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
