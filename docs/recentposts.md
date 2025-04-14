@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-14 | [`Cortez Resources`](https://google.com/search?q=Cortez+Resources) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-14 | [`Comport Technology Solutions`](https://google.com/search?q=Comport+Technology+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-14 | [`Calmont Group`](https://google.com/search?q=Calmont+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-14 | [`Orthopaedic Specialists of Connecticut`](https://google.com/search?q=Orthopaedic+Specialists+of+Connecticut) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-19 | [`RAE (Real Academia Española) (rae.es)`](https://google.com/search?q=RAE+%28Real+Academia+Espa%C3%B1ola%29+%28rae.es%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-03-19 | [`Q railing`](https://google.com/search?q=Q+railing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-19 | [`controlledair.com`](https://google.com/search?q=controlledair.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-03-19 | [`Coopertruni`](https://google.com/search?q=Coopertruni) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
