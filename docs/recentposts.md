@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-16 | [`McElwee Firm`](https://google.com/search?q=McElwee+Firm) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-04-16 | [`semex.com`](https://google.com/search?q=semex.com) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
 | 2025-04-16 | [`toolsign.com`](https://google.com/search?q=toolsign.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-04-16 | [`iblinfo.de`](https://google.com/search?q=iblinfo.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-21 | [`Officio Medical`](https://google.com/search?q=Officio+Medical) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-03-21 | [`Newtown Friends School (newtownfriends.org)`](https://google.com/search?q=Newtown+Friends+School+%28newtownfriends.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-03-21 | [`L&amp;S Mechanical`](https://google.com/search?q=L%26amp%3BS+Mechanical) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-03-21 | [`Whittaker &amp; Company`](https://google.com/search?q=Whittaker+%26amp%3B+Company) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
