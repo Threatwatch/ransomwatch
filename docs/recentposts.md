@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-16 | [`aeamg.org.br`](https://google.com/search?q=aeamg.org.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-04-16 | [`Seneca Gaming &amp; Entertainment `](https://google.com/search?q=Seneca+Gaming+%26amp%3B+Entertainment+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-04-16 | [`McElwee Firm`](https://google.com/search?q=McElwee+Firm) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-04-16 | [`semex.com`](https://google.com/search?q=semex.com) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-21 | [`www.oneupinnovations.com`](https://google.com/search?q=www.oneupinnovations.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-21 | [`Cayman National Bank`](https://google.com/search?q=Cayman+National+Bank) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-03-21 | [`Officio Medical`](https://google.com/search?q=Officio+Medical) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2025-03-21 | [`Newtown Friends School (newtownfriends.org)`](https://google.com/search?q=Newtown+Friends+School+%28newtownfriends.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
