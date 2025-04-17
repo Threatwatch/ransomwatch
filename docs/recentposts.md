@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-17 | [`Hyalogic`](https://google.com/search?q=Hyalogic) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-04-17 | [`VIÑUELAS ABOGADOS`](https://google.com/search?q=VI%C3%91UELAS+ABOGADOS) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-04-17 | [`EVERTECH INSTRUMENTAL CO., LTD`](https://google.com/search?q=EVERTECH+INSTRUMENTAL+CO.%2C+LTD) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-04-17 | [`Koninklijke Ahold Delhaize N.V.`](https://google.com/search?q=Koninklijke+Ahold+Delhaize+N.V.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-22 | [`www.parklandmanufacturing.com`](https://google.com/search?q=www.parklandmanufacturing.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-22 | [`www.solinst.com`](https://google.com/search?q=www.solinst.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-22 | [`www.njcalwe.com`](https://google.com/search?q=www.njcalwe.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-03-22 | [`www.gcsnet.com`](https://google.com/search?q=www.gcsnet.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
