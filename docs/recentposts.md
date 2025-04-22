@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-22 | [`Acos Favorit`](https://google.com/search?q=Acos+Favorit) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-04-21 | [`C-Mec`](https://google.com/search?q=C-Mec) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-04-21 | [`Pharma Force`](https://google.com/search?q=Pharma+Force) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-21 | [`tuttoperlufficio.eu`](https://google.com/search?q=tuttoperlufficio.eu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-23 | [`Precision Accounting Intl`](https://google.com/search?q=Precision+Accounting+Intl) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-03-23 | [`www.scpautomation.com`](https://google.com/search?q=www.scpautomation.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-23 | [`www.gestionquintessence.com`](https://google.com/search?q=www.gestionquintessence.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-03-23 | [`abeyor.fr`](https://google.com/search?q=abeyor.fr) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
