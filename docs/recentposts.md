@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-06 | [`Novosit`](https://google.com/search?q=Novosit) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-06 | [`Marine Technical Surveyors`](https://google.com/search?q=Marine+Technical+Surveyors) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-06 | [`Downtown Travel`](https://google.com/search?q=Downtown+Travel) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-05 | [`Breen Construction Services`](https://google.com/search?q=Breen+Construction+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-04 | [`Royal Glass`](https://google.com/search?q=Royal+Glass) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-04 | [`Fraser Trebilcock`](https://google.com/search?q=Fraser+Trebilcock) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-04 | [`Engine Power Source`](https://google.com/search?q=Engine+Power+Source) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-04-04 | [`Sansone Group`](https://google.com/search?q=Sansone+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
