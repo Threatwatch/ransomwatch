@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-06 | [`Technical Die-Casting`](https://google.com/search?q=Technical+Die-Casting) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-06 | [`Sugar Lake Lodge`](https://google.com/search?q=Sugar+Lake+Lodge) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-06 | [`Rand Technology`](https://google.com/search?q=Rand+Technology) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-06 | [`Novosit`](https://google.com/search?q=Novosit) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-05 | [`Nexia Poyiadjis IT`](https://google.com/search?q=Nexia+Poyiadjis+IT) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-05 | [`Blackmon Mooring`](https://google.com/search?q=Blackmon+Mooring) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-05 | [`https://www.mmwec.org`](https://google.com/search?q=https%3A%2F%2Fwww.mmwec.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2025-04-04 | [`Royal Glass`](https://google.com/search?q=Royal+Glass) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
