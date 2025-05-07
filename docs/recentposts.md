@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-07 | [`LGM`](https://google.com/search?q=LGM) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-05-07 | [`Transport Lutztulln`](https://google.com/search?q=Transport+Lutztulln) | [orca](https://ransomwatch.telemetry.ltd/#/profiles?id=orca) |
 | 2025-05-07 | [`Sioux Chief`](https://google.com/search?q=Sioux+Chief) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-05-06 | [`GPF Lewis`](https://google.com/search?q=GPF+Lewis) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-06 | [`graphiquedefrance.com`](https://google.com/search?q=graphiquedefrance.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-04-06 | [`Swiss Capitals Group`](https://google.com/search?q=Swiss+Capitals+Group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-04-06 | [`L&amp;S Mechanical (Reuploaded)`](https://google.com/search?q=L%26amp%3BS+Mechanical+%28Reuploaded%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-04-05 | [`Hawk Technology`](https://google.com/search?q=Hawk+Technology) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
