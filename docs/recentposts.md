@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-17 | [`Lamina Dielectrics, United Kingdom`](https://google.com/search?q=Lamina+Dielectrics%2C+United+Kingdom) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-17 | [`Durant City`](https://google.com/search?q=Durant+City) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-17 | [`Academic Urology & Urogynecology of Arizona`](https://google.com/search?q=Academic+Urology+%26+Urogynecology+of+Arizona) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-17 | [`VERTEL`](https://google.com/search?q=VERTEL) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-05 | [`pbw-`](https://google.com/search?q=pbw-) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-05-05 | [`Hire Velocity (lan.hirevelocity.com)`](https://google.com/search?q=Hire+Velocity+%28lan.hirevelocity.com%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-05-05 | [`OeTTINGER Brauerei`](https://google.com/search?q=OeTTINGER+Brauerei) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2025-05-04 | [`CabinC.com`](https://google.com/search?q=CabinC.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
