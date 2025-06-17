@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-17 | [`Evans Pharmacy`](https://google.com/search?q=Evans+Pharmacy) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-06-17 | [`Sandhill View County School_UK`](https://google.com/search?q=Sandhill+View+County+School_UK) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-17 | [`Lamina Dielectrics, United Kingdom`](https://google.com/search?q=Lamina+Dielectrics%2C+United+Kingdom) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-17 | [`Durant City`](https://google.com/search?q=Durant+City) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-05 | [`Alberta Construction Safety Association`](https://google.com/search?q=Alberta+Construction+Safety+Association) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-05 | [`ATI Systems`](https://google.com/search?q=ATI+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-05 | [`pbw-`](https://google.com/search?q=pbw-) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2025-05-05 | [`Hire Velocity (lan.hirevelocity.com)`](https://google.com/search?q=Hire+Velocity+%28lan.hirevelocity.com%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
