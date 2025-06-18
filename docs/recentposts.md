@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-18 | [`Coreix`](https://google.com/search?q=Coreix) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-06-18 | [`Mor-logistics Hacked`](https://google.com/search?q=Mor-logistics+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-18 | [`Weizmann Institute of Science Hacked`](https://google.com/search?q=Weizmann+Institute+of+Science+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-18 | [`West Texas Oral and Facial Surgery`](https://google.com/search?q=West+Texas+Oral+and+Facial+Surgery) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-06 | [`Novosit`](https://google.com/search?q=Novosit) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-06 | [`Marine Technical Surveyors`](https://google.com/search?q=Marine+Technical+Surveyors) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-06 | [`Downtown Travel`](https://google.com/search?q=Downtown+Travel) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-05-06 | [`Breen Construction Services`](https://google.com/search?q=Breen+Construction+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
