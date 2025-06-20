@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-20 | [`YHD Group Hacked`](https://google.com/search?q=YHD+Group+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-20 | [`Saban Systems Hacked`](https://google.com/search?q=Saban+Systems+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-19 | [`Vacation Myrtle Beach`](https://google.com/search?q=Vacation+Myrtle+Beach) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-19 | [`Place Homes`](https://google.com/search?q=Place+Homes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-07 | [`Sioux Chief`](https://google.com/search?q=Sioux+Chief) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-05-07 | [`GPF Lewis`](https://google.com/search?q=GPF+Lewis) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-05-06 | [`Mediprobe Research`](https://google.com/search?q=Mediprobe+Research) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-05-06 | [`Webcor`](https://google.com/search?q=Webcor) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
