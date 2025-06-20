@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-20 | [`Kibbutz Almog Hacked`](https://google.com/search?q=Kibbutz+Almog+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-20 | [`Taos County`](https://google.com/search?q=Taos+County) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-06-20 | [`YHD Group Hacked`](https://google.com/search?q=YHD+Group+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-20 | [`Saban Systems Hacked`](https://google.com/search?q=Saban+Systems+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-07 | [`LGM`](https://google.com/search?q=LGM) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-05-07 | [`Transport Lutztulln`](https://google.com/search?q=Transport+Lutztulln) | [orca](https://ransomwatch.telemetry.ltd/#/profiles?id=orca) |
 | 2025-05-07 | [`Sioux Chief`](https://google.com/search?q=Sioux+Chief) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2025-05-07 | [`GPF Lewis`](https://google.com/search?q=GPF+Lewis) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
