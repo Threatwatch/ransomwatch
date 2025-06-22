@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-22 | [`Ben Horin &#038; Alexandrovitz Ltd Hacked`](https://google.com/search?q=Ben+Horin+%26%23038%3B+Alexandrovitz+Ltd+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-21 | [`Zacharia Levi Ltd Hacked`](https://google.com/search?q=Zacharia+Levi+Ltd+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-21 | [`candelasyasoc`](https://google.com/search?q=candelasyasoc) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-06-21 | [`OAK PARK & RIVER FOREST HIGH SCHOOL`](https://google.com/search?q=OAK+PARK+%26+RIVER+FOREST+HIGH+SCHOOL) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-09 | [`Gistic Research`](https://google.com/search?q=Gistic+Research) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-09 | [`EMX Enterprises`](https://google.com/search?q=EMX+Enterprises) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-09 | [`hennessyfunds.com`](https://google.com/search?q=hennessyfunds.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2025-05-09 | [`Mountain View Mushrooms`](https://google.com/search?q=Mountain+View+Mushrooms) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
