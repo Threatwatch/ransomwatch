@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-23 | [`Israel Job Info Ltd Hacked`](https://google.com/search?q=Israel+Job+Info+Ltd+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-23 | [`Ovalstrapping`](https://google.com/search?q=Ovalstrapping) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-22 | [`Fisher59`](https://google.com/search?q=Fisher59) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-22 | [`Dairy Farmers of America`](https://google.com/search?q=Dairy+Farmers+of+America) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-10 | [`statesmanbiz.com`](https://google.com/search?q=statesmanbiz.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-10 | [`American Eagle Logistics - Full Leak`](https://google.com/search?q=American+Eagle+Logistics+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2025-05-10 | [`Verrex`](https://google.com/search?q=Verrex) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-05-09 | [`Sweet Shop USA`](https://google.com/search?q=Sweet+Shop+USA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
