@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-25 | [`GMORS Co., Ltd`](https://google.com/search?q=GMORS+Co.%2C+Ltd) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
 | 2025-06-25 | [`Fund for Reformed Companies (FONPER)`](https://google.com/search?q=Fund+for+Reformed+Companies+%28FONPER%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-23 | [`Scherzinger`](https://google.com/search?q=Scherzinger) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-06-23 | [`Shelter Locations in Israel`](https://google.com/search?q=Shelter+Locations+in+Israel) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-11 | [`www.setpointsystems.com`](https://google.com/search?q=www.setpointsystems.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-11 | [`www.irisid.com`](https://google.com/search?q=www.irisid.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-10 | [`www.cityofgroveok.gov`](https://google.com/search?q=www.cityofgroveok.gov) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2025-05-10 | [`citrusmagic.com`](https://google.com/search?q=citrusmagic.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
