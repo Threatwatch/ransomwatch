@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-25 | [`JobPlace Ltd Hacked`](https://google.com/search?q=JobPlace+Ltd+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-25 | [`Medical Center of Marin`](https://google.com/search?q=Medical+Center+of+Marin) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-25 | [`GMORS Co., Ltd`](https://google.com/search?q=GMORS+Co.%2C+Ltd) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
 | 2025-06-25 | [`Fund for Reformed Companies (FONPER)`](https://google.com/search?q=Fund+for+Reformed+Companies+%28FONPER%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-11 | [`pryor-morrow.com`](https://google.com/search?q=pryor-morrow.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-11 | [`pratthomes.com`](https://google.com/search?q=pratthomes.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-11 | [`www.setpointsystems.com`](https://google.com/search?q=www.setpointsystems.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2025-05-11 | [`www.irisid.com`](https://google.com/search?q=www.irisid.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
