@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-27 | [`The Kingdom of Tonga's Ministry of Health`](https://google.com/search?q=The+Kingdom+of+Tonga%27s+Ministry+of+Health) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-26 | [`McParlane & Associates`](https://google.com/search?q=McParlane+%26+Associates) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-06-26 | [`Merlin Industries`](https://google.com/search?q=Merlin+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-26 | [`QHR Ltd Hacked`](https://google.com/search?q=QHR+Ltd+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-11 | [`stitaly.it`](https://google.com/search?q=stitaly.it) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-11 | [`www.harrissteelco.com`](https://google.com/search?q=www.harrissteelco.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-11 | [`ossman.co.uk`](https://google.com/search?q=ossman.co.uk) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2025-05-11 | [`kraftkisarna.se`](https://google.com/search?q=kraftkisarna.se) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
