@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-27 | [`CGP&H`](https://google.com/search?q=CGP%26H) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-27 | [`Associated Packaging`](https://google.com/search?q=Associated+Packaging) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-27 | [`Weizmann New Leak`](https://google.com/search?q=Weizmann+New+Leak) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-27 | [`The Kingdom of Tonga's Ministry of Health`](https://google.com/search?q=The+Kingdom+of+Tonga%27s+Ministry+of+Health) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-11 | [`www.precisiontextiles-usa.com`](https://google.com/search?q=www.precisiontextiles-usa.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-11 | [`dac-law.com`](https://google.com/search?q=dac-law.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-11 | [`millercaggiano.com`](https://google.com/search?q=millercaggiano.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2025-05-11 | [`stitaly.it`](https://google.com/search?q=stitaly.it) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
