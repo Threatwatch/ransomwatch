@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-28 | [`iteam`](https://google.com/search?q=iteam) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-06-28 | [`View Zuellig Industrial`](https://google.com/search?q=View+Zuellig+Industrial) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-28 | [`Sunrise Springs Spa Resort`](https://google.com/search?q=Sunrise+Springs+Spa+Resort) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-28 | [`Islington Golf Club`](https://google.com/search?q=Islington+Golf+Club) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-12 | [`industrialdynamics.com`](https://google.com/search?q=industrialdynamics.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-12 | [`www.dermatologysolutions.com`](https://google.com/search?q=www.dermatologysolutions.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-12 | [`net-move.com`](https://google.com/search?q=net-move.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2025-05-12 | [`altara.com`](https://google.com/search?q=altara.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
