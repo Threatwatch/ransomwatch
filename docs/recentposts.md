@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-29 | [`ClockWorkAdmin Hacked`](https://google.com/search?q=ClockWorkAdmin+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-29 | [`Welthungerhilfe`](https://google.com/search?q=Welthungerhilfe) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-06-28 | [`iteam`](https://google.com/search?q=iteam) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-06-28 | [`View Zuellig Industrial`](https://google.com/search?q=View+Zuellig+Industrial) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-12 | [`jtalleycorp.com`](https://google.com/search?q=jtalleycorp.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-12 | [`southernavionics.com`](https://google.com/search?q=southernavionics.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-12 | [`industrialdynamics.com`](https://google.com/search?q=industrialdynamics.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2025-05-12 | [`www.dermatologysolutions.com`](https://google.com/search?q=www.dermatologysolutions.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
