@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-01 | [`GlobaLinks Hacked`](https://google.com/search?q=GlobaLinks+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-07-01 | [`coruzcitywndata+`](https://google.com/search?q=coruzcitywndata%2B) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-30 | [`I*******n.com`](https://google.com/search?q=I%2A%2A%2A%2A%2A%2A%2An.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-06-30 | [`O&G Adelaide`](https://google.com/search?q=O%26G+Adelaide) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-13 | [`thaonlesvosges.fr`](https://google.com/search?q=thaonlesvosges.fr) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-13 | [`Overhead Door of Nova Scotia`](https://google.com/search?q=Overhead+Door+of+Nova+Scotia) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-13 | [`Operative`](https://google.com/search?q=Operative) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-05-12 | [`Just Concrete & Masonry`](https://google.com/search?q=Just+Concrete+%26+Masonry) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
