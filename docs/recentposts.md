@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-02 | [`Ivri, Kerner &#038; Co Hacked`](https://google.com/search?q=Ivri%2C+Kerner+%26%23038%3B+Co+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-07-02 | [`alereon.com`](https://google.com/search?q=alereon.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-01 | [`GlobaLinks Hacked`](https://google.com/search?q=GlobaLinks+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-07-01 | [`coruzcitywndata+`](https://google.com/search?q=coruzcitywndata%2B) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-13 | [`www.colemanmaterials.com`](https://google.com/search?q=www.colemanmaterials.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-13 | [`architekturbuero-heller.de`](https://google.com/search?q=architekturbuero-heller.de) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-13 | [`thaonlesvosges.fr`](https://google.com/search?q=thaonlesvosges.fr) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2025-05-13 | [`Overhead Door of Nova Scotia`](https://google.com/search?q=Overhead+Door+of+Nova+Scotia) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
