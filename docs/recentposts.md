@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-03 | [`Universal Softare Solutions`](https://google.com/search?q=Universal+Softare+Solutions) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-07-02 | [`Insurance Office of America (US)`](https://google.com/search?q=Insurance+Office+of+America+%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2025-07-02 | [`Ivri, Kerner &#038; Co Hacked`](https://google.com/search?q=Ivri%2C+Kerner+%26%23038%3B+Co+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-07-02 | [`alereon.com`](https://google.com/search?q=alereon.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-13 | [`Nedved Architekti`](https://google.com/search?q=Nedved+Architekti) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-05-13 | [`First Choice Courier &amp; Messenger`](https://google.com/search?q=First+Choice+Courier+%26amp%3B+Messenger) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-05-13 | [`www.colemanmaterials.com`](https://google.com/search?q=www.colemanmaterials.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2025-05-13 | [`architekturbuero-heller.de`](https://google.com/search?q=architekturbuero-heller.de) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
