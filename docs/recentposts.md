@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-03 | [`Kirkor Architects and Planners `](https://google.com/search?q=Kirkor+Architects+and+Planners+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-07-03 | [`Vynopsis Hacked`](https://google.com/search?q=Vynopsis+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-07-03 | [`Universal Softare Solutions`](https://google.com/search?q=Universal+Softare+Solutions) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-07-02 | [`Insurance Office of America (US)`](https://google.com/search?q=Insurance+Office+of+America+%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-13 | [`Dishaka`](https://google.com/search?q=Dishaka) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-13 | [`Looper Goodwine`](https://google.com/search?q=Looper+Goodwine) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-05-13 | [`Nedved Architekti`](https://google.com/search?q=Nedved+Architekti) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-05-13 | [`First Choice Courier &amp; Messenger`](https://google.com/search?q=First+Choice+Courier+%26amp%3B+Messenger) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
