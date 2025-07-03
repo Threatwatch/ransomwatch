@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-03 | [`JFC Electric`](https://google.com/search?q=JFC+Electric) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-07-03 | [`Biofloral`](https://google.com/search?q=Biofloral) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-07-03 | [`All Choice Rentals`](https://google.com/search?q=All+Choice+Rentals) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-07-03 | [` Coweta County School System `](https://google.com/search?q=+Coweta+County+School+System+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-14 | [`Grafton Technologies`](https://google.com/search?q=Grafton+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-14 | [`Sao Camilo Cachoeiro de Itapemirim`](https://google.com/search?q=Sao+Camilo+Cachoeiro+de+Itapemirim) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-05-14 | [`Kingsmen Creatives Ltd. `](https://google.com/search?q=Kingsmen+Creatives+Ltd.+) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
-| 2025-05-14 | [`Redirecting...`](https://google.com/search?q=Redirecting...) | [hellcat](https://ransomwatch.telemetry.ltd/#/profiles?id=hellcat) |
