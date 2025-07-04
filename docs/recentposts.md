@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-04 | [`C B King Memorial School(branch)`](https://google.com/search?q=C+B+King+Memorial+School%28branch%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-04 | [`Metric`](https://google.com/search?q=Metric) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-07-04 | [`Lydig Construction`](https://google.com/search?q=Lydig+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-07-03 | [`JFC Electric`](https://google.com/search?q=JFC+Electric) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-15 | [`GARDNER ORTHOPEDICS`](https://google.com/search?q=GARDNER+ORTHOPEDICS) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-05-14 | [`Royal Chemical`](https://google.com/search?q=Royal+Chemical) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-05-14 | [`Regal Ideas`](https://google.com/search?q=Regal+Ideas) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-05-14 | [`Grafton Technologies`](https://google.com/search?q=Grafton+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
