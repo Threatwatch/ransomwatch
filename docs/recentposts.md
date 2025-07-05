@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-05 | [`BD Group`](https://google.com/search?q=BD+Group) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-07-05 | [`RG Mexico`](https://google.com/search?q=RG+Mexico) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-07-05 | [`S******h.com`](https://google.com/search?q=S%2A%2A%2A%2A%2A%2Ah.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-07-04 | [`cityofgardendale.com`](https://google.com/search?q=cityofgardendale.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-16 | [`alpha-steuer.de`](https://google.com/search?q=alpha-steuer.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-05-16 | [`ccrcda.org`](https://google.com/search?q=ccrcda.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-05-16 | [`Triple Jump`](https://google.com/search?q=Triple+Jump) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2025-05-16 | [`south african airways (flysaa.com)`](https://google.com/search?q=south+african+airways+%28flysaa.com%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
