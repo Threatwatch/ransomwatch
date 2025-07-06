@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-06 | [`Freedom Wood Doors Ltd Hacked`](https://google.com/search?q=Freedom+Wood+Doors+Ltd+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-07-06 | [`Whim Hospitality`](https://google.com/search?q=Whim+Hospitality) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-07-05 | [`Assetlabs`](https://google.com/search?q=Assetlabs) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-07-05 | [`BD Group`](https://google.com/search?q=BD+Group) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-17 | [`nissi-beach.com`](https://google.com/search?q=nissi-beach.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-05-16 | [`Carney Badley Spellman`](https://google.com/search?q=Carney+Badley+Spellman) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-16 | [`finanzconsult-immobilien.de`](https://google.com/search?q=finanzconsult-immobilien.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-05-16 | [`alpha-steuer.de`](https://google.com/search?q=alpha-steuer.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
