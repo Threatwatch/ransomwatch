@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-07 | [`tsaworld.com`](https://google.com/search?q=tsaworld.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-07 | [`jubileejobs.org`](https://google.com/search?q=jubileejobs.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-06 | [`Freedom Wood Doors Ltd Hacked`](https://google.com/search?q=Freedom+Wood+Doors+Ltd+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-07-06 | [`Whim Hospitality`](https://google.com/search?q=Whim+Hospitality) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-17 | [`ros.eu`](https://google.com/search?q=ros.eu) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-05-17 | [`npfy.org`](https://google.com/search?q=npfy.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-05-17 | [`nissi-beach.com`](https://google.com/search?q=nissi-beach.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-05-16 | [`Carney Badley Spellman`](https://google.com/search?q=Carney+Badley+Spellman) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
