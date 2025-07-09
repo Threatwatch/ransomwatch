@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-09 | [`Majestic`](https://google.com/search?q=Majestic) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-09 | [`Wood, Patel & Associates`](https://google.com/search?q=Wood%2C+Patel+%26+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-07-09 | [`Lamberts Business Systems`](https://google.com/search?q=Lamberts+Business+Systems) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-09 | [`Leaked Documents Reveal Identities of Iran International Staff`](https://google.com/search?q=Leaked+Documents+Reveal+Identities+of+Iran+International+Staff) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-20 | [`Florida Lung`](https://google.com/search?q=Florida+Lung) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-05-20 | [`Durham Arts Council`](https://google.com/search?q=Durham+Arts+Council) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-05-20 | [`The Vascular Experts`](https://google.com/search?q=The+Vascular+Experts) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-05-20 | [`Tri State Electric`](https://google.com/search?q=Tri+State+Electric) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
