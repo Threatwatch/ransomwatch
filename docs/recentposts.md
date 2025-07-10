@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-10 | [`Yinon Magal Hacked`](https://google.com/search?q=Yinon+Magal+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-07-09 | [`TBC`](https://google.com/search?q=TBC) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-09 | [`Majestic`](https://google.com/search?q=Majestic) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-09 | [`Wood, Patel & Associates`](https://google.com/search?q=Wood%2C+Patel+%26+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-21 | [`cultivarnet.co`](https://google.com/search?q=cultivarnet.co) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-05-21 | [`Rivers Academy West London`](https://google.com/search?q=Rivers+Academy+West+London) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-05-20 | [`Florida Lung`](https://google.com/search?q=Florida+Lung) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-05-20 | [`Durham Arts Council`](https://google.com/search?q=Durham+Arts+Council) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
