@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-14 | [`dwllp.ca/ Leaked by www.etornetworks.com`](https://google.com/search?q=dwllp.ca%2F+Leaked+by+www.etornetworks.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-14 | [`Trilinklogistics Inc / Leacked by www.etornetworks.com/`](https://google.com/search?q=Trilinklogistics+Inc+%2F+Leacked+by+www.etornetworks.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-14 | [`National Institute of Water Resources`](https://google.com/search?q=National+Institute+of+Water+Resources) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-12 | [`k12albemarle.org`](https://google.com/search?q=k12albemarle.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-24 | [`T******p.ae`](https://google.com/search?q=T%2A%2A%2A%2A%2A%2Ap.ae) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-05-24 | [`Vernon Milling`](https://google.com/search?q=Vernon+Milling) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-23 | [`South Atlantic Federal Credit Union`](https://google.com/search?q=South+Atlantic+Federal+Credit+Union) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-05-23 | [`AKJ Energiteknik`](https://google.com/search?q=AKJ+Energiteknik) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
