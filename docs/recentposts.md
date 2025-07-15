@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-15 | [` Kirkor Architects and Planners `](https://google.com/search?q=+Kirkor+Architects+and+Planners+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-07-15 | [`Progressive Auto Group `](https://google.com/search?q=Progressive+Auto+Group+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-07-15 | [`Otjiwarongo Municipality`](https://google.com/search?q=Otjiwarongo+Municipality) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-15 | [`Cardinal Services`](https://google.com/search?q=Cardinal+Services) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-27 | [`Corantioquia`](https://google.com/search?q=Corantioquia) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-05-27 | [`WAT Supplies`](https://google.com/search?q=WAT+Supplies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-26 | [`Media Links`](https://google.com/search?q=Media+Links) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-05-26 | [`Frederick's Machine & Tool Shop`](https://google.com/search?q=Frederick%27s+Machine+%26+Tool+Shop) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
