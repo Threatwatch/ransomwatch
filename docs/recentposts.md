@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-15 | [`CF Construction Ltd`](https://google.com/search?q=CF+Construction+Ltd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-15 | [`G*********************y.org`](https://google.com/search?q=G%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2Ay.org) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-07-14 | [`www.inspiredbeauty.com`](https://google.com/search?q=www.inspiredbeauty.com) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-07-14 | [`Rockrose Development`](https://google.com/search?q=Rockrose+Development) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-26 | [`Antea Luce`](https://google.com/search?q=Antea+Luce) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-05-26 | [`allstarflooring.com`](https://google.com/search?q=allstarflooring.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2025-05-25 | [`oxparkrec.org`](https://google.com/search?q=oxparkrec.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-05-25 | [`D****v.org`](https://google.com/search?q=D%2A%2A%2A%2Av.org) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
