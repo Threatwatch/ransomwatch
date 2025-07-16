@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-16 | [`C3 Group `](https://google.com/search?q=C3+Group+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-07-16 | [`Morrison Companies`](https://google.com/search?q=Morrison+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-07-16 | [`IMSSA Manufacturing`](https://google.com/search?q=IMSSA+Manufacturing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-07-15 | [`Young Adjustment Company`](https://google.com/search?q=Young+Adjustment+Company) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-28 | [`Fujipoly  Ltd`](https://google.com/search?q=Fujipoly++Ltd) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-05-27 | [`Wrap & Send Services`](https://google.com/search?q=Wrap+%26+Send+Services) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-05-27 | [`Eight8Ate Holdings, Inc`](https://google.com/search?q=Eight8Ate+Holdings%2C+Inc) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2025-05-27 | [`http://www.iptelecom.at`](https://google.com/search?q=http%3A%2F%2Fwww.iptelecom.at) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
