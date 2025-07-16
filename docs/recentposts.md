@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-16 | [`IMSSA Manufacturing`](https://google.com/search?q=IMSSA+Manufacturing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-07-15 | [`Young Adjustment Company`](https://google.com/search?q=Young+Adjustment+Company) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2025-07-15 | [` Kirkor Architects and Planners `](https://google.com/search?q=+Kirkor+Architects+and+Planners+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-07-15 | [`Progressive Auto Group `](https://google.com/search?q=Progressive+Auto+Group+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-27 | [`Eight8Ate Holdings, Inc`](https://google.com/search?q=Eight8Ate+Holdings%2C+Inc) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-05-27 | [`http://www.iptelecom.at`](https://google.com/search?q=http%3A%2F%2Fwww.iptelecom.at) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
 | 2025-05-27 | [`Corantioquia`](https://google.com/search?q=Corantioquia) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2025-05-27 | [`WAT Supplies`](https://google.com/search?q=WAT+Supplies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
