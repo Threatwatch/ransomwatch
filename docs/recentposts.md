@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-17 | [`Crompton Lamps, UK`](https://google.com/search?q=Crompton+Lamps%2C+UK) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-17 | [`Secountryvets_AU`](https://google.com/search?q=Secountryvets_AU) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-16 | [` Progressive Auto Group `](https://google.com/search?q=+Progressive+Auto+Group+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-07-16 | [`C3 Group `](https://google.com/search?q=C3+Group+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-28 | [`Eliel Cycling`](https://google.com/search?q=Eliel+Cycling) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-28 | [`Cator Ruma & Associates`](https://google.com/search?q=Cator+Ruma+%26+Associates) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-05-28 | [`l*s.com.vn`](https://google.com/search?q=l%2As.com.vn) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2025-05-28 | [`Fujipoly  Ltd`](https://google.com/search?q=Fujipoly++Ltd) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
