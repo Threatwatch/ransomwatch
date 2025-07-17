@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-17 | [`Vitec`](https://google.com/search?q=Vitec) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-17 | [`TERENCE C RINGLAND & CO PTY LTD`](https://google.com/search?q=TERENCE+C+RINGLAND+%26+CO+PTY+LTD) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-17 | [`Huize Sint-Augustinus_BE`](https://google.com/search?q=Huize+Sint-Augustinus_BE) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-17 | [`HTC_Högtryckscenter_Sweden`](https://google.com/search?q=HTC_H%C3%B6gtryckscenter_Sweden) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-29 | [`http://www.innsofaurora.com`](https://google.com/search?q=http%3A%2F%2Fwww.innsofaurora.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2025-05-29 | [`http://metromont.com`](https://google.com/search?q=http%3A%2F%2Fmetromont.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2025-05-29 | [`Mulia Raya`](https://google.com/search?q=Mulia+Raya) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
-| 2025-05-28 | [`KDV Label`](https://google.com/search?q=KDV+Label) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
