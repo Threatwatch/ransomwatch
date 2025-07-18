@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-18 | [`Сomet-strip-enterprises-ltd`](https://google.com/search?q=%D0%A1omet-strip-enterprises-ltd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-17 | [`Wingpoh_SG`](https://google.com/search?q=Wingpoh_SG) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-17 | [`Vitec`](https://google.com/search?q=Vitec) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-17 | [`TERENCE C RINGLAND & CO PTY LTD`](https://google.com/search?q=TERENCE+C+RINGLAND+%26+CO+PTY+LTD) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-30 | [`M&amp;H Electric Fabricators`](https://google.com/search?q=M%26amp%3BH+Electric+Fabricators) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2025-05-30 | [`Jordan Drug`](https://google.com/search?q=Jordan+Drug) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-05-29 | [`http://www.innsofaurora.com`](https://google.com/search?q=http%3A%2F%2Fwww.innsofaurora.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2025-05-29 | [`http://metromont.com`](https://google.com/search?q=http%3A%2F%2Fmetromont.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
