@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-22 | [`neues-leben.de`](https://google.com/search?q=neues-leben.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-22 | [`TOMEI GROUP Inc. `](https://google.com/search?q=TOMEI+GROUP+Inc.+) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-22 | [`nboat.com`](https://google.com/search?q=nboat.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-22 | [`hitachi-tds.com`](https://google.com/search?q=hitachi-tds.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-06-02 | [`valuestoreit`](https://google.com/search?q=valuestoreit) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-02 | [`Universidad Técnica del Norte Ecuador`](https://google.com/search?q=Universidad+T%C3%A9cnica+del+Norte+Ecuador) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-01 | [`netspectrum.c`](https://google.com/search?q=netspectrum.c) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2025-06-01 | [`Dcsdev.org`](https://google.com/search?q=Dcsdev.org) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
