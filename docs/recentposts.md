@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-23 | [`Palm Bay International `](https://google.com/search?q=Palm+Bay+International+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-07-23 | [`Ka Logistics`](https://google.com/search?q=Ka+Logistics) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-07-23 | [`DA Whitacre Construction`](https://google.com/search?q=DA+Whitacre+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-07-23 | [`Protech Medical`](https://google.com/search?q=Protech+Medical) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-06-03 | [`Sandhills Medical Foundation`](https://google.com/search?q=Sandhills+Medical+Foundation) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-03 | [`Jericho Fire Department`](https://google.com/search?q=Jericho+Fire+Department) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-06-03 | [`FLOE Internationa`](https://google.com/search?q=FLOE+Internationa) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-06-02 | [`Capital Trade`](https://google.com/search?q=Capital+Trade) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
