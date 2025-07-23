@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-23 | [`Protech Medical`](https://google.com/search?q=Protech+Medical) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-07-22 | [`SubsCorp`](https://google.com/search?q=SubsCorp) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-07-22 | [`www.reliablecontrols.com`](https://google.com/search?q=www.reliablecontrols.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-22 | [`reizenlaw.com`](https://google.com/search?q=reizenlaw.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-06-02 | [`Capital Trade`](https://google.com/search?q=Capital+Trade) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-02 | [`Vinda Group`](https://google.com/search?q=Vinda+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-06-02 | [`http://www.kcac.com`](https://google.com/search?q=http%3A%2F%2Fwww.kcac.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2025-06-02 | [`jdbchina`](https://google.com/search?q=jdbchina) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
