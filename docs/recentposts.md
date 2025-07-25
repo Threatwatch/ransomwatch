@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-25 | [`Bouey & Black LLP`](https://google.com/search?q=Bouey+%26+Black+LLP) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-07-25 | [`jorgefernandez.es`](https://google.com/search?q=jorgefernandez.es) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2025-07-25 | [`teampostop.net`](https://google.com/search?q=teampostop.net) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-25 | [`seasonsfour.com`](https://google.com/search?q=seasonsfour.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-06-05 | [`Lts.com.vn`](https://google.com/search?q=Lts.com.vn) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-06-04 | [`https://devimco.com/`](https://google.com/search?q=https%3A%2F%2Fdevimco.com%2F) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2025-06-04 | [`cemeteries.local`](https://google.com/search?q=cemeteries.local) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-06-04 | [`Funktel GmbH`](https://google.com/search?q=Funktel+GmbH) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
