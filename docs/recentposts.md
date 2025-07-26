@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-26 | [`hptc.org`](https://google.com/search?q=hptc.org) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2025-07-26 | [`I.P. One LTD`](https://google.com/search?q=I.P.+One+LTD) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-07-25 | [`Bouey & Black LLP`](https://google.com/search?q=Bouey+%26+Black+LLP) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-07-25 | [`jorgefernandez.es`](https://google.com/search?q=jorgefernandez.es) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-06-05 | [`A*****e.gov.ae`](https://google.com/search?q=A%2A%2A%2A%2A%2Ae.gov.ae) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-06-05 | [`iscamen`](https://google.com/search?q=iscamen) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-05 | [`Lts.com.vn`](https://google.com/search?q=Lts.com.vn) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2025-06-04 | [`https://devimco.com/`](https://google.com/search?q=https%3A%2F%2Fdevimco.com%2F) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
