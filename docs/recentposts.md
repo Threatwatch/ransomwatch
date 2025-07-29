@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-29 | [`First Baptist Church of Hammond`](https://google.com/search?q=First+Baptist+Church+of+Hammond) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-07-28 | [`VIRTUALWEB.US`](https://google.com/search?q=VIRTUALWEB.US) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2025-07-28 | [`Mortensen Law Offices`](https://google.com/search?q=Mortensen+Law+Offices) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-07-28 | [`CCI Torrevieja`](https://google.com/search?q=CCI+Torrevieja) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-06-06 | [`Nunez Dental`](https://google.com/search?q=Nunez+Dental) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-06 | [`MTTEXPERTISES.COM`](https://google.com/search?q=MTTEXPERTISES.COM) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-06 | [`Kittery Police Department`](https://google.com/search?q=Kittery+Police+Department) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-06-05 | [`Triumph Construction`](https://google.com/search?q=Triumph+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
