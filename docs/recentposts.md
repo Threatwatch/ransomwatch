@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-31 | [`Quartus Engineering`](https://google.com/search?q=Quartus+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-07-31 | [`H**u.i*v.tw`](https://google.com/search?q=H%2A%2Au.i%2Av.tw) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-07-31 | [`T***********p.com`](https://google.com/search?q=T%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2Ap.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-07-31 | [`Devon`](https://google.com/search?q=Devon) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-06-10 | [`Mount Rogers Community Services`](https://google.com/search?q=Mount+Rogers+Community+Services) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-09 | [`Homestead Gardens`](https://google.com/search?q=Homestead+Gardens) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-09 | [`Community Choice Credit Union`](https://google.com/search?q=Community+Choice+Credit+Union) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-06-09 | [`EUC Sjlland`](https://google.com/search?q=EUC+Sjlland) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
