@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-08-01 | [`deliastamales.com`](https://google.com/search?q=deliastamales.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-01 | [`carolynmyoung.com`](https://google.com/search?q=carolynmyoung.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-31 | [`Thern`](https://google.com/search?q=Thern) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-07-31 | [`Quartus Engineering`](https://google.com/search?q=Quartus+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-06-12 | [`Ajmanre.gov.ae`](https://google.com/search?q=Ajmanre.gov.ae) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-06-12 | [`alleray-labrouste`](https://google.com/search?q=alleray-labrouste) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-11 | [`AP Lettering`](https://google.com/search?q=AP+Lettering) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-06-10 | [`Mount Rogers Community Services`](https://google.com/search?q=Mount+Rogers+Community+Services) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
