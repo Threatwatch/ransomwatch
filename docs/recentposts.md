@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-08-01 | [`lynkspot.com`](https://google.com/search?q=lynkspot.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-01 | [`firstpresatl.org`](https://google.com/search?q=firstpresatl.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-01 | [`erichschleichgmbh.de`](https://google.com/search?q=erichschleichgmbh.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-01 | [`deliastamales.com`](https://google.com/search?q=deliastamales.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-06-14 | [`Israel’s fuel supply system Hacked`](https://google.com/search?q=Israel%E2%80%99s+fuel+supply+system+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-14 | [`Israel&#8217;s fuel supply system Hacked`](https://google.com/search?q=Israel%26%238217%3Bs+fuel+supply+system+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-14 | [`Aerodreams Hacked`](https://google.com/search?q=Aerodreams+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2025-06-12 | [`Ajmanre.gov.ae`](https://google.com/search?q=Ajmanre.gov.ae) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
