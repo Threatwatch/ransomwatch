@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-08-05 | [`DA Whitacre Construction`](https://google.com/search?q=DA+Whitacre+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-05 | [`CyberlinkASP`](https://google.com/search?q=CyberlinkASP) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-05 | [`Backstage Library Works`](https://google.com/search?q=Backstage+Library+Works) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-05 | [`Insurance Office of America (US)`](https://google.com/search?q=Insurance+Office+of+America+%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-04 | [`CabinC.com`](https://google.com/search?q=CabinC.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-05-04 | [`valedolobo.com`](https://google.com/search?q=valedolobo.com) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2025-05-04 | [`soundtransit.org`](https://google.com/search?q=soundtransit.org) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
-| 2025-05-03 | [`ruizre.es`](https://google.com/search?q=ruizre.es) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
