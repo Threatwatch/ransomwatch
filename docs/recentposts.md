@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-08-07 | [`Looking for pentesters`](https://google.com/search?q=Looking+for+pentesters) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2025-08-07 | [`The Magni Group`](https://google.com/search?q=The+Magni+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-07 | [`Jamco Aerospace`](https://google.com/search?q=Jamco+Aerospace) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-06 | [`Emprise`](https://google.com/search?q=Emprise) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-06 | [`Mediprobe Research`](https://google.com/search?q=Mediprobe+Research) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-05-06 | [`Webcor`](https://google.com/search?q=Webcor) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-06 | [`ehlers-inc.com`](https://google.com/search?q=ehlers-inc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2025-05-06 | [`Commune de Jemeppe-sur-Sambre`](https://google.com/search?q=Commune+de+Jemeppe-sur-Sambre) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
