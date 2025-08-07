@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-08-07 | [`Coreix`](https://google.com/search?q=Coreix) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-08-07 | [`Welthungerhilfe`](https://google.com/search?q=Welthungerhilfe) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-08-07 | [`Florida Hand Center`](https://google.com/search?q=Florida+Hand+Center) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-08-07 | [`Cardinal Services`](https://google.com/search?q=Cardinal+Services) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-07 | [`Amtech Software`](https://google.com/search?q=Amtech+Software) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2025-05-07 | [`LGM`](https://google.com/search?q=LGM) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-05-07 | [`Transport Lutztulln`](https://google.com/search?q=Transport+Lutztulln) | [orca](https://ransomwatch.telemetry.ltd/#/profiles?id=orca) |
-| 2025-05-07 | [`Sioux Chief`](https://google.com/search?q=Sioux+Chief) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
