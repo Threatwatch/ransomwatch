@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-08-09 | [`GMORS Co., Ltd`](https://google.com/search?q=GMORS+Co.%2C+Ltd) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
 | 2025-08-09 | [`www.miatech.net`](https://google.com/search?q=www.miatech.net) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
 | 2025-08-09 | [`track.html`](https://google.com/search?q=track.html) | [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) |
 | 2025-08-08 | [`bot2.html`](https://google.com/search?q=bot2.html) | [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-11 | [`www.harrissteelco.com`](https://google.com/search?q=www.harrissteelco.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-11 | [`ossman.co.uk`](https://google.com/search?q=ossman.co.uk) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-11 | [`kraftkisarna.se`](https://google.com/search?q=kraftkisarna.se) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2025-05-11 | [`pryor-morrow.com`](https://google.com/search?q=pryor-morrow.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
