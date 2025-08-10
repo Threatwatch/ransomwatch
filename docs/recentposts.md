@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-08-10 | [`Protech Medical`](https://google.com/search?q=Protech+Medical) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-08-10 | [`Howard Financial & Associates`](https://google.com/search?q=Howard+Financial+%26+Associates) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-10 | [`SubsCorp`](https://google.com/search?q=SubsCorp) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-08-10 | [`I.P. One LTD`](https://google.com/search?q=I.P.+One+LTD) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-12 | [`Just Concrete & Masonry`](https://google.com/search?q=Just+Concrete+%26+Masonry) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-12 | [`EIZO Rugged Solutions`](https://google.com/search?q=EIZO+Rugged+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-12 | [`www.philsmithauto.com`](https://google.com/search?q=www.philsmithauto.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2025-05-12 | [`atlplasticsurgeon.com`](https://google.com/search?q=atlplasticsurgeon.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
