@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-08-10 | [`BD Group`](https://google.com/search?q=BD+Group) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-08-10 | [`Alascom`](https://google.com/search?q=Alascom) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-08-10 | [`RG Mexico`](https://google.com/search?q=RG+Mexico) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-08-10 | [`Protech Medical`](https://google.com/search?q=Protech+Medical) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-13 | [`thaonlesvosges.fr`](https://google.com/search?q=thaonlesvosges.fr) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-13 | [`Overhead Door of Nova Scotia`](https://google.com/search?q=Overhead+Door+of+Nova+Scotia) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-13 | [`Operative`](https://google.com/search?q=Operative) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-05-12 | [`Just Concrete & Masonry`](https://google.com/search?q=Just+Concrete+%26+Masonry) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
