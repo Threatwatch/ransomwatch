@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-08-11 | [`Louis Tieu DDS MD`](https://google.com/search?q=Louis+Tieu+DDS+MD) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-11 | [`Iran Internation WhatsApp and Internal Access PoC`](https://google.com/search?q=Iran+Internation+WhatsApp+and+Internal+Access+PoC) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-08-11 | [`GlobaLinks Hacked`](https://google.com/search?q=GlobaLinks+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-08-11 | [`Freedom Wood Doors Ltd Hacked`](https://google.com/search?q=Freedom+Wood+Doors+Ltd+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-14 | [`Kingsmen Creatives Ltd. `](https://google.com/search?q=Kingsmen+Creatives+Ltd.+) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2025-05-14 | [`Redirecting...`](https://google.com/search?q=Redirecting...) | [hellcat](https://ransomwatch.telemetry.ltd/#/profiles?id=hellcat) |
 | 2025-05-13 | [`Dishaka`](https://google.com/search?q=Dishaka) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-05-13 | [`Looper Goodwine`](https://google.com/search?q=Looper+Goodwine) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
