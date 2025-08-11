@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-08-11 | [`Bluewater Yacht Sales`](https://google.com/search?q=Bluewater+Yacht+Sales) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-11 | [`JobPlace Ltd Hacked`](https://google.com/search?q=JobPlace+Ltd+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-08-11 | [`Iran International Hacked`](https://google.com/search?q=Iran+International+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-08-11 | [`Louis Tieu DDS MD`](https://google.com/search?q=Louis+Tieu+DDS+MD) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-14 | [`Regal Ideas`](https://google.com/search?q=Regal+Ideas) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-14 | [`Grafton Technologies`](https://google.com/search?q=Grafton+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-14 | [`Sao Camilo Cachoeiro de Itapemirim`](https://google.com/search?q=Sao+Camilo+Cachoeiro+de+Itapemirim) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-05-14 | [`Kingsmen Creatives Ltd. `](https://google.com/search?q=Kingsmen+Creatives+Ltd.+) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
