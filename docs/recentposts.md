@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-08-12 | [`QHR Ltd Hacked`](https://google.com/search?q=QHR+Ltd+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-08-12 | [`Official Statement from Handala`](https://google.com/search?q=Official+Statement+from+Handala) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-08-12 | [`Trans-Tex`](https://google.com/search?q=Trans-Tex) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-08-12 | [`New Telegram Channel`](https://google.com/search?q=New+Telegram+Channel) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-16 | [`alpha-steuer.de`](https://google.com/search?q=alpha-steuer.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-05-16 | [`ccrcda.org`](https://google.com/search?q=ccrcda.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-05-16 | [`Triple Jump`](https://google.com/search?q=Triple+Jump) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2025-05-16 | [`south african airways (flysaa.com)`](https://google.com/search?q=south+african+airways+%28flysaa.com%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
