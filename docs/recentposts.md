@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-08-13 | [`Mortensen Law Offices`](https://google.com/search?q=Mortensen+Law+Offices) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-08-13 | [`Melland High School`](https://google.com/search?q=Melland+High+School) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-08-13 | [` Coweta County School System `](https://google.com/search?q=+Coweta+County+School+System+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-08-13 | [`EB Farmacutica`](https://google.com/search?q=EB+Farmacutica) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-18 | [`Grupo Boulevard`](https://google.com/search?q=Grupo+Boulevard) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-05-17 | [`Maruichi Leavitt Pipe & Tube`](https://google.com/search?q=Maruichi+Leavitt+Pipe+%26+Tube) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-05-17 | [`Gearhiser Peters Elliott & Cannon`](https://google.com/search?q=Gearhiser+Peters+Elliott+%26+Cannon) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-05-17 | [`diyar.com`](https://google.com/search?q=diyar.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
