@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-08-13 | [`EB Farmacutica`](https://google.com/search?q=EB+Farmacutica) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-08-12 | [` Kirkor Architects and Planners `](https://google.com/search?q=+Kirkor+Architects+and+Planners+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-08-12 | [` C3 Group `](https://google.com/search?q=+C3+Group+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-08-12 | [` Palm Bay International `](https://google.com/search?q=+Palm+Bay+International+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-17 | [`diyar.com`](https://google.com/search?q=diyar.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-05-17 | [`www.davisdavisco.com`](https://google.com/search?q=www.davisdavisco.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-05-17 | [`ros.eu`](https://google.com/search?q=ros.eu) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-05-17 | [`npfy.org`](https://google.com/search?q=npfy.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
