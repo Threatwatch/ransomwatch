@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-08-20 | [`Omega Global Technologies`](https://google.com/search?q=Omega+Global+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-20 | [`CBG Surveying Texas`](https://google.com/search?q=CBG+Surveying+Texas) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-20 | [`Greater Pittsburgh Orthopaedic Associates`](https://google.com/search?q=Greater+Pittsburgh+Orthopaedic+Associates) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-08-20 | [`Elkhart Independent School District`](https://google.com/search?q=Elkhart+Independent+School+District) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-24 | [`T******p.ae`](https://google.com/search?q=T%2A%2A%2A%2A%2A%2Ap.ae) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-05-24 | [`Vernon Milling`](https://google.com/search?q=Vernon+Milling) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-23 | [`South Atlantic Federal Credit Union`](https://google.com/search?q=South+Atlantic+Federal+Credit+Union) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-05-23 | [`AKJ Energiteknik`](https://google.com/search?q=AKJ+Energiteknik) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
