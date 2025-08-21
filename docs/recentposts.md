@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-08-21 | [`Ambitek`](https://google.com/search?q=Ambitek) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-08-21 | [`Vitec`](https://google.com/search?q=Vitec) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-21 | [`EUROFILM ΜΑΝΤΖΑΡΗΣ Α.Ε`](https://google.com/search?q=EUROFILM+%CE%9C%CE%91%CE%9D%CE%A4%CE%96%CE%91%CE%A1%CE%97%CE%A3+%CE%91.%CE%95) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-20 | [`Omega Global Technologies`](https://google.com/search?q=Omega+Global+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-25 | [`D****v.org`](https://google.com/search?q=D%2A%2A%2A%2Av.org) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-05-25 | [` Seneca Gaming &amp; Entertainment `](https://google.com/search?q=+Seneca+Gaming+%26amp%3B+Entertainment+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-05-24 | [`Coweta County School System `](https://google.com/search?q=Coweta+County+School+System+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2025-05-24 | [`T******p.ae`](https://google.com/search?q=T%2A%2A%2A%2A%2A%2Ap.ae) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
