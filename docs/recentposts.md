@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-08-21 | [`All Truck Transportation Co`](https://google.com/search?q=All+Truck+Transportation+Co) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-08-21 | [`Universal Group For Engineering and Consulting`](https://google.com/search?q=Universal+Group+For+Engineering+and+Consulting) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-21 | [`Ambitek`](https://google.com/search?q=Ambitek) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-08-21 | [`Vitec`](https://google.com/search?q=Vitec) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-26 | [`allstarflooring.com`](https://google.com/search?q=allstarflooring.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2025-05-25 | [`oxparkrec.org`](https://google.com/search?q=oxparkrec.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-05-25 | [`D****v.org`](https://google.com/search?q=D%2A%2A%2A%2Av.org) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2025-05-25 | [` Seneca Gaming &amp; Entertainment `](https://google.com/search?q=+Seneca+Gaming+%26amp%3B+Entertainment+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
