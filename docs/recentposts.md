@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-08-25 | [`https://www.woodlore.ca`](https://google.com/search?q=https%3A%2F%2Fwww.woodlore.ca) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2025-08-25 | [`Trico`](https://google.com/search?q=Trico) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-08-25 | [`DLCOSMETICS O.E.`](https://google.com/search?q=DLCOSMETICS+O.E.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-08-22 | [`Quadrangle Imaging Center`](https://google.com/search?q=Quadrangle+Imaging+Center) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-27 | [`Corantioquia`](https://google.com/search?q=Corantioquia) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-05-27 | [`WAT Supplies`](https://google.com/search?q=WAT+Supplies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-26 | [`Media Links`](https://google.com/search?q=Media+Links) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-05-26 | [`Frederick's Machine & Tool Shop`](https://google.com/search?q=Frederick%27s+Machine+%26+Tool+Shop) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
