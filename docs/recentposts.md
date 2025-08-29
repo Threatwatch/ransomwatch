@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-08-29 | [`Kafka Conveyors & Equipment Inc`](https://google.com/search?q=Kafka+Conveyors+%26+Equipment+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-28 | [`CPK Interior Products Inc`](https://google.com/search?q=CPK+Interior+Products+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-28 | [`Firelands Scientific`](https://google.com/search?q=Firelands+Scientific) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-08-28 | [`Summit College`](https://google.com/search?q=Summit+College) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-30 | [`UnigazJordan`](https://google.com/search?q=UnigazJordan) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2025-05-30 | [`M&amp;H Electric Fabricators`](https://google.com/search?q=M%26amp%3BH+Electric+Fabricators) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2025-05-30 | [`Jordan Drug`](https://google.com/search?q=Jordan+Drug) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-05-29 | [`http://www.innsofaurora.com`](https://google.com/search?q=http%3A%2F%2Fwww.innsofaurora.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
