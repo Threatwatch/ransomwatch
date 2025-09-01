@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-01 | [`All States Materials Group`](https://google.com/search?q=All+States+Materials+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-30 | [`OB GYN Associates`](https://google.com/search?q=OB+GYN+Associates) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-29 | [`www.sbdl.net`](https://google.com/search?q=www.sbdl.net) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-29 | [`Manesa`](https://google.com/search?q=Manesa) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-30 | [`Tri-Point Solutions`](https://google.com/search?q=Tri-Point+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-30 | [`Anchor Industries`](https://google.com/search?q=Anchor+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-30 | [`STANDBYTE`](https://google.com/search?q=STANDBYTE) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2025-05-30 | [`Acorn Sales`](https://google.com/search?q=Acorn+Sales) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
