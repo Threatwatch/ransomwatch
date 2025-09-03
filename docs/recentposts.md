@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-03 | [`CESCONSULT`](https://google.com/search?q=CESCONSULT) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-02 | [`Bartek Ingredients`](https://google.com/search?q=Bartek+Ingredients) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-01 | [`TAK Communications, Inc`](https://google.com/search?q=TAK+Communications%2C+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-01 | [`Vanderpool Construction`](https://google.com/search?q=Vanderpool+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-06-02 | [`Universidad Técnica del Norte Ecuador`](https://google.com/search?q=Universidad+T%C3%A9cnica+del+Norte+Ecuador) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-01 | [`Dcsdev.org`](https://google.com/search?q=Dcsdev.org) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-05-31 | [`Trustgrp.ae`](https://google.com/search?q=Trustgrp.ae) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2025-05-31 | [`sitro.com.au`](https://google.com/search?q=sitro.com.au) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
