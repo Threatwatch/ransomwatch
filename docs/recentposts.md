@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-04 | [`https://ipathpr.com`](https://google.com/search?q=https%3A%2F%2Fipathpr.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2025-09-04 | [`sandg.local`](https://google.com/search?q=sandg.local) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-04 | [`omegabiotek.com`](https://google.com/search?q=omegabiotek.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-04 | [`CANDhenterprises.com`](https://google.com/search?q=CANDhenterprises.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-06-03 | [`Jericho Fire Department`](https://google.com/search?q=Jericho+Fire+Department) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-06-03 | [`FLOE Internationa`](https://google.com/search?q=FLOE+Internationa) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-02 | [`Capital Trade`](https://google.com/search?q=Capital+Trade) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-06-02 | [`Vinda Group`](https://google.com/search?q=Vinda+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
