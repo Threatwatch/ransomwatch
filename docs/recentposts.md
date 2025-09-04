@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-04 | [`CANDhenterprises.com`](https://google.com/search?q=CANDhenterprises.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-03 | [`stthom.edu`](https://google.com/search?q=stthom.edu) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-03 | [`Commission scolaire des Appalaches`](https://google.com/search?q=Commission+scolaire+des+Appalaches) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-03 | [`CESCONSULT`](https://google.com/search?q=CESCONSULT) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-06-02 | [`Vinda Group`](https://google.com/search?q=Vinda+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-06-02 | [`http://www.kcac.com`](https://google.com/search?q=http%3A%2F%2Fwww.kcac.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2025-06-02 | [`valuestoreit`](https://google.com/search?q=valuestoreit) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-06-02 | [`Universidad Técnica del Norte Ecuador`](https://google.com/search?q=Universidad+T%C3%A9cnica+del+Norte+Ecuador) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
