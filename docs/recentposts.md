@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-08 | [`nubox.com & sumasaas.com`](https://google.com/search?q=nubox.com+%26+sumasaas.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2025-09-08 | [`https://gazomet.pl & https://cgas.pl`](https://google.com/search?q=https%3A%2F%2Fgazomet.pl+%26+https%3A%2F%2Fcgas.pl) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2025-09-06 | [`schuler-service-group.de`](https://google.com/search?q=schuler-service-group.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-05 | [`Elite Trailers`](https://google.com/search?q=Elite+Trailers) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-06-04 | [`https://devimco.com/`](https://google.com/search?q=https%3A%2F%2Fdevimco.com%2F) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2025-06-04 | [`cemeteries.local`](https://google.com/search?q=cemeteries.local) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-04 | [`Funktel GmbH`](https://google.com/search?q=Funktel+GmbH) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-06-03 | [`Sorter Construction`](https://google.com/search?q=Sorter+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
