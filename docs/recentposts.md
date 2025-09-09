@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-09 | [`Miesa`](https://google.com/search?q=Miesa) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-09 | [`Promark Partners`](https://google.com/search?q=Promark+Partners) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-09 | [`Energy Fishing`](https://google.com/search?q=Energy+Fishing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-09 | [`BDE Computer Services`](https://google.com/search?q=BDE+Computer+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-06-05 | [`Ebac`](https://google.com/search?q=Ebac) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-05 | [`A*****e.gov.ae`](https://google.com/search?q=A%2A%2A%2A%2A%2Ae.gov.ae) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-06-05 | [`iscamen`](https://google.com/search?q=iscamen) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-06-05 | [`Lts.com.vn`](https://google.com/search?q=Lts.com.vn) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
