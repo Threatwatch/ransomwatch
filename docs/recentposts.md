@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-10 | [`Gagosian(US, UK)`](https://google.com/search?q=Gagosian%28US%2C+UK%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2025-09-10 | [`Rising Star Hydraulics`](https://google.com/search?q=Rising+Star+Hydraulics) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-10 | [`Reliable Roofing`](https://google.com/search?q=Reliable+Roofing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-10 | [`M8 Group`](https://google.com/search?q=M8+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-06-14 | [`Aerodreams Hacked`](https://google.com/search?q=Aerodreams+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-12 | [`Ajmanre.gov.ae`](https://google.com/search?q=Ajmanre.gov.ae) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-06-12 | [`alleray-labrouste`](https://google.com/search?q=alleray-labrouste) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-06-11 | [`AP Lettering`](https://google.com/search?q=AP+Lettering) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
