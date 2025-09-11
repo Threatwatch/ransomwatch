@@ -4619,7 +4619,7 @@ document.addEventListener("DOMContentLoaded", function() {
                                       </cont>
                                     </in>
                                   </card>                                    </brief>
-              <discls><disc id="d-BGrQHc9sTfx0gHjw7F80kn5Y" stat="1"><indicator><icn></icn></indicator><cont><top><l><span>All Data</span></l><r><span>Awaiting&nbsp;<span id="d1757944500">--:--:--</span></span><script>docount(document.getElementById("d1757944500"), 1757944500, "-BGrQHc9sTfx0gHjw7F80kn5Y", 0, false);</script></r></top><cat></cat><p>If you are an authorized representative to negotiate on behalf of this company, submit your application via the session messenger.</p><gallery id="gallery-8xhrg8mYZtvyIwihd4UgnwsQ"><img src="
+              <discls><disc id="d-4C3AbpEXDPL4qUAxGb538ihF" stat="1"><indicator><icn></icn></indicator><cont><top><l><span>All Data</span></l><r><span>Awaiting&nbsp;<span id="d1757944500">--:--:--</span></span><script>docount(document.getElementById("d1757944500"), 1757944500, "-4C3AbpEXDPL4qUAxGb538ihF", 0, false);</script></r></top><cat></cat><p>If you are an authorized representative to negotiate on behalf of this company, submit your application via the session messenger.</p><gallery id="gallery-t1S3d08oMlAuJqCIXUnixkxH"><img src="
 http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/img/sample/0b46b198a8d0525a.png"><img src="
 http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/img/sample/23b7eaeb3ee26b79.jpg"><img src="
 http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/img/sample/7241081307d06195.jpg"><img src="
@@ -4638,7 +4638,7 @@ http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/img/sample
 http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/img/sample/7a26190181fb43c4.png"><img src="
 http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/img/sample/41b1dbb4de71d91c.png"><img src="
 http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/img/sample/459568b8df11a590.png"><img src="
-http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/img/sample/52d7330178ea312e.png"></gallery><script>new Viewer(document.getElementById("gallery-8xhrg8mYZtvyIwihd4UgnwsQ"));</script></cont></disc></discls>          </vpost>
+http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/img/sample/52d7330178ea312e.png"></gallery><script>new Viewer(document.getElementById("gallery-t1S3d08oMlAuJqCIXUnixkxH"));</script></cont></disc></discls>          </vpost>
         <script>
       // Function to check if a URL is a directory by examining the Content-Type of a HEAD request
       async function isDirectory(url) {
@@ -4775,50 +4775,44 @@ http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/img/sample
         ul.style.listStyle = 'none';
         ul.style.minHeight = '90%';
         ul.style.overflowY = 'auto';
-        // Show all entries (files and directories)
+
+        // Show all entries (files and directories) with no filters
         entries.forEach(entry => {
           const li = document.createElement('li');
           li.classList.add('tree-item');
           const lihd = document.createElement('lihd');
-
-          // Icon based on type
+          
+          // Define icon: folder for directories, file icon for files
           const icon = document.createElement('i');
           icon.className = entry.type === 'directory' ? 'fa fa-folder' : 'fa fa-file';
-
+        
           // Create formatted item text
           const itemText = document.createElement('span');
           itemText.style.marginLeft = '5px';
           itemText.style.width = '100%';
           itemText.style.fontFamily = '"Roboto Mono", "Anonymous Pro", monospace';
           itemText.textContent = entry.name;
-
+        
           const details = document.createElement('span');
           details.className = 'tree-details';
           details.innerHTML = ` ${entry.date} - ${entry.size}`;
-
+        
           lihd.appendChild(icon);
           lihd.appendChild(itemText);
           lihd.appendChild(details);
           li.appendChild(lihd);
-
-          // Click behavior
+        
+          // Add click functionality
           itemText.style.cursor = 'pointer';
           if (entry.type === 'directory') {
-            itemText.onclick = () => {
-              const existing = li.querySelector('ul');
-              if (existing) {
-                existing.remove();
-              } else {
-                showdir(`${url}${entry.href}`, li);
-              }
-            };
+            itemText.onclick = () => showdir(`${url}${entry.href}`, li);
           } else {
             itemText.onclick = () => downloadFile(`${url}${entry.href}`);
           }
-
+        
           ul.appendChild(li);
         });
-
+      
         return ul;
       }
       // Initialize directory tree with the specified root URL
