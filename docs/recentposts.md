@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-15 | [`jsgroup`](https://google.com/search?q=jsgroup) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-15 | [`Venlogistics`](https://google.com/search?q=Venlogistics) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-15 | [`Technology Assurance Group`](https://google.com/search?q=Technology+Assurance+Group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-15 | [`www.roscovision.com`](https://google.com/search?q=www.roscovision.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-05 | [`IMSSA Manufacturing`](https://google.com/search?q=IMSSA+Manufacturing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-05 | [`Hulberg & Associates`](https://google.com/search?q=Hulberg+%26+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-05 | [`DA Whitacre Construction`](https://google.com/search?q=DA+Whitacre+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-08-05 | [`CyberlinkASP`](https://google.com/search?q=CyberlinkASP) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
