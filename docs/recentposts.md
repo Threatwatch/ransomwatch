@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-16 | [`Rochester Optical`](https://google.com/search?q=Rochester+Optical) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-16 | [`RGR Sportswear`](https://google.com/search?q=RGR+Sportswear) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-16 | [`RFI`](https://google.com/search?q=RFI) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-16 | [`Pathfinder`](https://google.com/search?q=Pathfinder) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-06 | [`Brad's Bedding Plants`](https://google.com/search?q=Brad%27s+Bedding+Plants) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-06 | [`Cookeville Regional Medical Center`](https://google.com/search?q=Cookeville+Regional+Medical+Center) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-08-06 | [`Bucks County Opportunity Council, INC.`](https://google.com/search?q=Bucks+County+Opportunity+Council%2C+INC.) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
-| 2025-08-06 | [`hptc.org`](https://google.com/search?q=hptc.org) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
