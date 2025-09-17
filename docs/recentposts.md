@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-17 | [`https://www.cnh.com/`](https://google.com/search?q=https%3A%2F%2Fwww.cnh.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-17 | [`Humax Holdings`](https://google.com/search?q=Humax+Holdings) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-16 | [`grupozeta.com & www.grupozetajalisco.com`](https://google.com/search?q=grupozeta.com+%26+www.grupozetajalisco.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2025-09-16 | [`https://www.trailertransit.com`](https://google.com/search?q=https%3A%2F%2Fwww.trailertransit.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-07 | [`First Baptist Church of Hammond`](https://google.com/search?q=First+Baptist+Church+of+Hammond) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-08-07 | [`Looking for pentesters`](https://google.com/search?q=Looking+for+pentesters) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2025-08-07 | [`The Magni Group`](https://google.com/search?q=The+Magni+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-08-07 | [`Jamco Aerospace`](https://google.com/search?q=Jamco+Aerospace) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
