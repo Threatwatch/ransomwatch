@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-17 | [`RAC Consultoria`](https://google.com/search?q=RAC+Consultoria) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-09-17 | [`Tunad`](https://google.com/search?q=Tunad) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-09-17 | [`Accflex ERP`](https://google.com/search?q=Accflex+ERP) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-09-17 | [`https://www.cnh.com/`](https://google.com/search?q=https%3A%2F%2Fwww.cnh.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-07 | [`Welthungerhilfe`](https://google.com/search?q=Welthungerhilfe) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-08-07 | [`Florida Hand Center`](https://google.com/search?q=Florida+Hand+Center) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-08-07 | [`Cardinal Services`](https://google.com/search?q=Cardinal+Services) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-08-07 | [`First Baptist Church of Hammond`](https://google.com/search?q=First+Baptist+Church+of+Hammond) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
