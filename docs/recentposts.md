@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-17 | [`Thomas Safran & Associates`](https://google.com/search?q=Thomas+Safran+%26+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-17 | [`thepropertybusiness.com`](https://google.com/search?q=thepropertybusiness.com) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-09-17 | [`ekonomipoolen.se`](https://google.com/search?q=ekonomipoolen.se) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-09-17 | [`News-Press &amp; Gazette Co.`](https://google.com/search?q=News-Press+%26amp%3B+Gazette+Co.) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-08 | [`Secountryvets_AU`](https://google.com/search?q=Secountryvets_AU) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-08 | [`Radford City Schools`](https://google.com/search?q=Radford+City+Schools) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-07 | [`Crompton Lamps, UK`](https://google.com/search?q=Crompton+Lamps%2C+UK) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-08-07 | [`Consumer Electronics & Computers Retail Retail`](https://google.com/search?q=Consumer+Electronics+%26+Computers+Retail+Retail) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
