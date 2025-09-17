@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-17 | [`News-Press &amp; Gazette Co.`](https://google.com/search?q=News-Press+%26amp%3B+Gazette+Co.) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-09-17 | [`bmsi.org`](https://google.com/search?q=bmsi.org) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2025-09-17 | [`Announcement 16-09-2025`](https://google.com/search?q=Announcement+16-09-2025) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-09-17 | [`Grup Gestio`](https://google.com/search?q=Grup+Gestio) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-07 | [`Consumer Electronics & Computers Retail Retail`](https://google.com/search?q=Consumer+Electronics+%26+Computers+Retail+Retail) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-07 | [`Carrollton Ear Nose and Throat`](https://google.com/search?q=Carrollton+Ear+Nose+and+Throat) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-07 | [`Afpa`](https://google.com/search?q=Afpa) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-08-07 | [`Coreix`](https://google.com/search?q=Coreix) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
