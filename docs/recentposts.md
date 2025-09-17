@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-17 | [`Grup Gestio`](https://google.com/search?q=Grup+Gestio) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-09-17 | [`RAC Consultoria`](https://google.com/search?q=RAC+Consultoria) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-09-17 | [`Tunad`](https://google.com/search?q=Tunad) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-09-17 | [`Accflex ERP`](https://google.com/search?q=Accflex+ERP) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-07 | [`Coreix`](https://google.com/search?q=Coreix) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-08-07 | [`Welthungerhilfe`](https://google.com/search?q=Welthungerhilfe) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-08-07 | [`Florida Hand Center`](https://google.com/search?q=Florida+Hand+Center) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-08-07 | [`Cardinal Services`](https://google.com/search?q=Cardinal+Services) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
