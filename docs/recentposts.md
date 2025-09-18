@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-18 | [`Heidelberg Golf Club`](https://google.com/search?q=Heidelberg+Golf+Club) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-09-18 | [`lindenlaw.com`](https://google.com/search?q=lindenlaw.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-18 | [`grupogid.com`](https://google.com/search?q=grupogid.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-18 | [`cardinal-services.com`](https://google.com/search?q=cardinal-services.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-08 | [`erichschleichgmbh.de`](https://google.com/search?q=erichschleichgmbh.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-08 | [`carolynmyoung.com`](https://google.com/search?q=carolynmyoung.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-08 | [`Wingpoh_SG`](https://google.com/search?q=Wingpoh_SG) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-08-08 | [`TERENCE C RINGLAND & CO PTY LTD`](https://google.com/search?q=TERENCE+C+RINGLAND+%26+CO+PTY+LTD) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
