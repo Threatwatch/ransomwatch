@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-22 | [`APG`](https://google.com/search?q=APG) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-22 | [`CPK Interior`](https://google.com/search?q=CPK+Interior) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-22 | [`optimumdesign.com`](https://google.com/search?q=optimumdesign.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2025-09-22 | [`Batesky Law Office (BLO)`](https://google.com/search?q=Batesky+Law+Office+%28BLO%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-09 | [`track.html`](https://google.com/search?q=track.html) | [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) |
 | 2025-08-08 | [`bot2.html`](https://google.com/search?q=bot2.html) | [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) |
 | 2025-08-08 | [`Сomet-strip-enterprises-ltd`](https://google.com/search?q=%D0%A1omet-strip-enterprises-ltd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-08-08 | [`wvpca.org`](https://google.com/search?q=wvpca.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
