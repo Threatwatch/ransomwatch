@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-22 | [`Batesky Law Office (BLO)`](https://google.com/search?q=Batesky+Law+Office+%28BLO%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-09-21 | [`Pennsylvania Office of Attorney General`](https://google.com/search?q=Pennsylvania+Office+of+Attorney+General) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-19 | [`United Machine`](https://google.com/search?q=United+Machine) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-18 | [`cardiofocus.com`](https://google.com/search?q=cardiofocus.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-08 | [`wvpca.org`](https://google.com/search?q=wvpca.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-08 | [`whiteconlee.com`](https://google.com/search?q=whiteconlee.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-08 | [`multichem.net`](https://google.com/search?q=multichem.net) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-08-08 | [`firstpresatl.org`](https://google.com/search?q=firstpresatl.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
