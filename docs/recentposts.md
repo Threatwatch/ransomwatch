@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-23 | [`GrammaTech`](https://google.com/search?q=GrammaTech) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-23 | [`DHM Properties`](https://google.com/search?q=DHM+Properties) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-23 | [`Combined Services HVAC`](https://google.com/search?q=Combined+Services+HVAC) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-22 | [`Agility CIS`](https://google.com/search?q=Agility+CIS) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-09 | [`Universal Software Solutions`](https://google.com/search?q=Universal+Software+Solutions) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-08-09 | [`Triveneta Vetro`](https://google.com/search?q=Triveneta+Vetro) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-08-09 | [`GMORS Co., Ltd`](https://google.com/search?q=GMORS+Co.%2C+Ltd) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
-| 2025-08-09 | [`www.miatech.net`](https://google.com/search?q=www.miatech.net) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
