@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-24 | [`The Maryland Department of Transportation`](https://google.com/search?q=The+Maryland+Department+of+Transportation) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-09-24 | [`Milk Agro`](https://google.com/search?q=Milk+Agro) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-09-24 | [`Edro Real Estate`](https://google.com/search?q=Edro+Real+Estate) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-09-23 | [`Speed Art Museum`](https://google.com/search?q=Speed+Art+Museum) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-10 | [`I.P. One LTD`](https://google.com/search?q=I.P.+One+LTD) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-08-10 | [`CCI Torrevieja`](https://google.com/search?q=CCI+Torrevieja) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-08-10 | [`College stjb`](https://google.com/search?q=College+stjb) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2025-08-10 | [`Idgcayman.com`](https://google.com/search?q=Idgcayman.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
