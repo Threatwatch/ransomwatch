@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-26 | [`SOP. Sistema Odontológico Privado`](https://google.com/search?q=SOP.+Sistema+Odontol%C3%B3gico+Privado) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-09-25 | [`Fattore Cosméticos Ltda`](https://google.com/search?q=Fattore+Cosm%C3%A9ticos+Ltda) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-09-24 | [`awo-ka-land.de`](https://google.com/search?q=awo-ka-land.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-24 | [`TLD Law.com`](https://google.com/search?q=TLD+Law.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-10 | [`RG Mexico`](https://google.com/search?q=RG+Mexico) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-08-10 | [`Protech Medical`](https://google.com/search?q=Protech+Medical) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-08-10 | [`Howard Financial & Associates`](https://google.com/search?q=Howard+Financial+%26+Associates) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-08-10 | [`SubsCorp`](https://google.com/search?q=SubsCorp) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
