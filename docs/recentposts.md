@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-28 | [`List of Spacecom employees`](https://google.com/search?q=List+of+Spacecom+employees) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-09-28 | [`Steve Basso Plumbing Heating`](https://google.com/search?q=Steve+Basso+Plumbing+Heating) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-28 | [`Pangborn`](https://google.com/search?q=Pangborn) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-28 | [`Earthadelic`](https://google.com/search?q=Earthadelic) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-11 | [`Iran International Hacked`](https://google.com/search?q=Iran+International+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-08-11 | [`Louis Tieu DDS MD`](https://google.com/search?q=Louis+Tieu+DDS+MD) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-11 | [`Iran Internation WhatsApp and Internal Access PoC`](https://google.com/search?q=Iran+Internation+WhatsApp+and+Internal+Access+PoC) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2025-08-11 | [`GlobaLinks Hacked`](https://google.com/search?q=GlobaLinks+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
