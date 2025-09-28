@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-28 | [`ComTec Systems`](https://google.com/search?q=ComTec+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-27 | [`Atlas Pressed Metals`](https://google.com/search?q=Atlas+Pressed+Metals) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-27 | [`Amelia Overhead Doors`](https://google.com/search?q=Amelia+Overhead+Doors) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-27 | [`Amos Spacecom Hacked`](https://google.com/search?q=Amos+Spacecom+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-11 | [`Freedom Wood Doors Ltd Hacked`](https://google.com/search?q=Freedom+Wood+Doors+Ltd+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-08-11 | [`Evidence of cooperation between the Mossad and Mojtaba Pourmohsen`](https://google.com/search?q=Evidence+of+cooperation+between+the+Mossad+and+Mojtaba+Pourmohsen) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-08-11 | [`jorgefernandez.es`](https://google.com/search?q=jorgefernandez.es) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
-| 2025-08-11 | [`VIRTUALWEB.US`](https://google.com/search?q=VIRTUALWEB.US) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
