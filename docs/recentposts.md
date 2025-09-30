@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-30 | [`Komar Industries`](https://google.com/search?q=Komar+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-30 | [`News-Press and Gazette Co.`](https://google.com/search?q=News-Press+and+Gazette+Co.) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-09-29 | [`www.sonoshowmoveis.com.br`](https://google.com/search?q=www.sonoshowmoveis.com.br) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2025-09-29 | [`Peavey Electronics Corporation`](https://google.com/search?q=Peavey+Electronics+Corporation) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-12 | [`Leaked Documents Reveal Identities of Iran International Staff`](https://google.com/search?q=Leaked+Documents+Reveal+Identities+of+Iran+International+Staff) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-08-12 | [`Travancore Analytics`](https://google.com/search?q=Travancore+Analytics) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-11 | [`The Scharine Group`](https://google.com/search?q=The+Scharine+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-08-11 | [`Rite Track`](https://google.com/search?q=Rite+Track) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
