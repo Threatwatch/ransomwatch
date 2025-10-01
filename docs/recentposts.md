@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-01 | [`Smiles By Steedman`](https://google.com/search?q=Smiles+By+Steedman) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-10-01 | [`LAMMCO.NET`](https://google.com/search?q=LAMMCO.NET) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-01 | [`idealbathrooms.ie`](https://google.com/search?q=idealbathrooms.ie) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-01 | [`Nacsworld.com`](https://google.com/search?q=Nacsworld.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-12 | [`QHR Ltd Hacked`](https://google.com/search?q=QHR+Ltd+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-08-12 | [`Official Statement from Handala`](https://google.com/search?q=Official+Statement+from+Handala) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-08-12 | [`Trans-Tex`](https://google.com/search?q=Trans-Tex) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-08-12 | [`New Telegram Channel`](https://google.com/search?q=New+Telegram+Channel) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
