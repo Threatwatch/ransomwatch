@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-02 | [`Wilsenergy`](https://google.com/search?q=Wilsenergy) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-10-02 | [`Weber Flavors`](https://google.com/search?q=Weber+Flavors) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-10-02 | [`Gesimde Asociados / Ausil Systems / Esnova`](https://google.com/search?q=Gesimde+Asociados+%2F+Ausil+Systems+%2F+Esnova) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-10-02 | [`Gesimde Asociados / Ausil Systems / Esnova Software, Esnova Racks S.A`](https://google.com/search?q=Gesimde+Asociados+%2F+Ausil+Systems+%2F+Esnova+Software%2C+Esnova+Racks+S.A) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-13 | [`Bouey & Black LLP`](https://google.com/search?q=Bouey+%26+Black+LLP) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-08-13 | [`Mortensen Law Offices`](https://google.com/search?q=Mortensen+Law+Offices) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-08-13 | [`Melland High School`](https://google.com/search?q=Melland+High+School) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2025-08-13 | [` Coweta County School System `](https://google.com/search?q=+Coweta+County+School+System+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
