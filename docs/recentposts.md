@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-03 | [`stockmeier-urethanes.com`](https://google.com/search?q=stockmeier-urethanes.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-02 | [`GWP Engineering`](https://google.com/search?q=GWP+Engineering) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-10-02 | [`Wilsenergy`](https://google.com/search?q=Wilsenergy) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-10-02 | [`Weber Flavors`](https://google.com/search?q=Weber+Flavors) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-13 | [`Taos County`](https://google.com/search?q=Taos+County) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-08-13 | [`www.inspiredbeauty.com`](https://google.com/search?q=www.inspiredbeauty.com) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-08-13 | [`Bouey & Black LLP`](https://google.com/search?q=Bouey+%26+Black+LLP) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2025-08-13 | [`Mortensen Law Offices`](https://google.com/search?q=Mortensen+Law+Offices) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
