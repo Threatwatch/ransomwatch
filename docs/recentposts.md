@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-05 | [`https://www.libertydentaltown.com`](https://google.com/search?q=https%3A%2F%2Fwww.libertydentaltown.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2025-10-05 | [`hillsidelibrary.org`](https://google.com/search?q=hillsidelibrary.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-05 | [`stalkerradar.com`](https://google.com/search?q=stalkerradar.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-05 | [`ocmaine.com`](https://google.com/search?q=ocmaine.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-15 | [`Greenscape Pump Services`](https://google.com/search?q=Greenscape+Pump+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-14 | [`ABcom`](https://google.com/search?q=ABcom) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-14 | [`www.reliablecontrols.com`](https://google.com/search?q=www.reliablecontrols.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-08-13 | [`Evans Pharmacy`](https://google.com/search?q=Evans+Pharmacy) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
