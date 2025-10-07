@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-07 | [`NurtureCare`](https://google.com/search?q=NurtureCare) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-10-06 | [`Dataforth`](https://google.com/search?q=Dataforth) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-10-06 | [`AES Clean Technology`](https://google.com/search?q=AES+Clean+Technology) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-10-06 | [`WELLSLANDSCAPING.COM`](https://google.com/search?q=WELLSLANDSCAPING.COM) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-15 | [`SFA Engineering`](https://google.com/search?q=SFA+Engineering) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
 | 2025-08-15 | [`We are the shadow you thought was a mirage`](https://google.com/search?q=We+are+the+shadow+you+thought+was+a+mirage) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-08-15 | [`eShipGlobal`](https://google.com/search?q=eShipGlobal) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-08-15 | [`NextLabs`](https://google.com/search?q=NextLabs) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
