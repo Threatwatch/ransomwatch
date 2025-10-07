@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-07 | [`Handala RedWanted`](https://google.com/search?q=Handala+RedWanted) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-10-07 | [`Statement of Establishment  Of the Grassroots Resistance Front  Of Right-Seekers – Handala`](https://google.com/search?q=Statement+of+Establishment++Of+the+Grassroots+Resistance+Front++Of+Right-Seekers+%E2%80%93+Handala) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-10-07 | [`NurtureCare`](https://google.com/search?q=NurtureCare) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-10-06 | [`Dataforth`](https://google.com/search?q=Dataforth) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-15 | [`Töller`](https://google.com/search?q=T%C3%B6ller) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-15 | [`MJets`](https://google.com/search?q=MJets) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-15 | [`SFA Engineering`](https://google.com/search?q=SFA+Engineering) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
-| 2025-08-15 | [`We are the shadow you thought was a mirage`](https://google.com/search?q=We+are+the+shadow+you+thought+was+a+mirage) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
