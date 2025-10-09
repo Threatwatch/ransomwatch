@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-09 | [`THE FIRST SHAMING`](https://google.com/search?q=THE+FIRST+SHAMING) | [nullbulge](https://ransomwatch.telemetry.ltd/#/profiles?id=nullbulge) |
 | 2025-10-09 | [`ROXU`](https://google.com/search?q=ROXU) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-10-08 | [`Chapter 13 Texas`](https://google.com/search?q=Chapter+13+Texas) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-08 | [`Acuna Fombona (AFOM)`](https://google.com/search?q=Acuna+Fombona+%28AFOM%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-20 | [`Elkhart Independent School District`](https://google.com/search?q=Elkhart+Independent+School+District) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-08-20 | [`Netstar_South_Africa`](https://google.com/search?q=Netstar_South_Africa) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-19 | [`Maxell Asia`](https://google.com/search?q=Maxell+Asia) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2025-08-17 | [`Panorama`](https://google.com/search?q=Panorama) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
