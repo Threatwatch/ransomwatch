@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-09 | [`Elmer W. Davis`](https://google.com/search?q=Elmer+W.+Davis) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-10-09 | [`Accelerated`](https://google.com/search?q=Accelerated) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-10-09 | [`Sdii Global`](https://google.com/search?q=Sdii+Global) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-10-09 | [`THE FIRST SHAMING`](https://google.com/search?q=THE+FIRST+SHAMING) | [nullbulge](https://ransomwatch.telemetry.ltd/#/profiles?id=nullbulge) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-20 | [`Omega Global Technologies`](https://google.com/search?q=Omega+Global+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-20 | [`CBG Surveying Texas`](https://google.com/search?q=CBG+Surveying+Texas) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-20 | [`Greater Pittsburgh Orthopaedic Associates`](https://google.com/search?q=Greater+Pittsburgh+Orthopaedic+Associates) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2025-08-20 | [`Elkhart Independent School District`](https://google.com/search?q=Elkhart+Independent+School+District) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
