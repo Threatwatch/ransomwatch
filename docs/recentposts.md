@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-10 | [`MS Security & Personnel<br />`](https://google.com/search?q=MS+Security+%26+Personnel%3Cbr+%2F%3E) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-10-10 | [`Israel Fuel System Hacked`](https://google.com/search?q=Israel+Fuel+System+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-10-10 | [`https://www.tongapower.to/`](https://google.com/search?q=https%3A%2F%2Fwww.tongapower.to%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-10 | [`georgetown-brewing-co`](https://google.com/search?q=georgetown-brewing-co) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-21 | [`Ocean Edge Resort &amp; Golf Club `](https://google.com/search?q=Ocean+Edge+Resort+%26amp%3B+Golf+Club+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-08-21 | [`All Truck Transportation Co`](https://google.com/search?q=All+Truck+Transportation+Co) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-08-21 | [`Universal Group For Engineering and Consulting`](https://google.com/search?q=Universal+Group+For+Engineering+and+Consulting) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-08-21 | [`Ambitek`](https://google.com/search?q=Ambitek) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
