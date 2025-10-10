@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-10 | [`georgetown-brewing-co`](https://google.com/search?q=georgetown-brewing-co) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-10 | [`NextGen Mold Technologies`](https://google.com/search?q=NextGen+Mold+Technologies) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-10 | [`Benedict Industries`](https://google.com/search?q=Benedict+Industries) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-09 | [`Elmer W. Davis`](https://google.com/search?q=Elmer+W.+Davis) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-21 | [`Ambitek`](https://google.com/search?q=Ambitek) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-08-21 | [`Vitec`](https://google.com/search?q=Vitec) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-21 | [`EUROFILM ΜΑΝΤΖΑΡΗΣ Α.Ε`](https://google.com/search?q=EUROFILM+%CE%9C%CE%91%CE%9D%CE%A4%CE%96%CE%91%CE%A1%CE%97%CE%A3+%CE%91.%CE%95) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-08-20 | [`Omega Global Technologies`](https://google.com/search?q=Omega+Global+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
