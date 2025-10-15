@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-15 | [`Koch & White Heating & Cooling`](https://google.com/search?q=Koch+%26+White+Heating+%26+Cooling) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-10-15 | [`Global Shop Solutions`](https://google.com/search?q=Global+Shop+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-10-15 | [`Cellucap Manufacturing`](https://google.com/search?q=Cellucap+Manufacturing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-10-14 | [`baronespecialtysteel.com`](https://google.com/search?q=baronespecialtysteel.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-26 | [`marlboroughpartners.com`](https://google.com/search?q=marlboroughpartners.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-25 | [`Security First Credit Union`](https://google.com/search?q=Security+First+Credit+Union) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-25 | [`https://www.woodlore.ca`](https://google.com/search?q=https%3A%2F%2Fwww.woodlore.ca) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
-| 2025-08-25 | [`Trico`](https://google.com/search?q=Trico) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
