@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-16 | [`BMP Worldwide`](https://google.com/search?q=BMP+Worldwide) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-10-16 | [`Sibbalds`](https://google.com/search?q=Sibbalds) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-10-16 | [`Tex-Tube`](https://google.com/search?q=Tex-Tube) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-10-16 | [`Royal Thai`](https://google.com/search?q=Royal+Thai) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-27 | [`Premier Realty Group`](https://google.com/search?q=Premier+Realty+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-27 | [`Logan & Mencuccini`](https://google.com/search?q=Logan+%26+Mencuccini) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-26 | [`Galaxy Freightline`](https://google.com/search?q=Galaxy+Freightline) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-08-26 | [`Edward J McKarski`](https://google.com/search?q=Edward+J+McKarski) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
