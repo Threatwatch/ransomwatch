@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-19 | [`Commemoration of Commander Martyr Reza Awada`](https://google.com/search?q=Commemoration+of+Commander+Martyr+Reza+Awada) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-10-19 | [`summitgolfbrands.com`](https://google.com/search?q=summitgolfbrands.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-18 | [`Saturday Reckoning`](https://google.com/search?q=Saturday+Reckoning) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-10-18 | [`Shadrix & Parmer, P.C.`](https://google.com/search?q=Shadrix+%26+Parmer%2C+P.C.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-29 | [`BDO Perú`](https://google.com/search?q=BDO+Per%C3%BA) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-29 | [`Kafka Conveyors & Equipment Inc`](https://google.com/search?q=Kafka+Conveyors+%26+Equipment+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-28 | [`CPK Interior Products Inc`](https://google.com/search?q=CPK+Interior+Products+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-08-28 | [`Firelands Scientific`](https://google.com/search?q=Firelands+Scientific) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
