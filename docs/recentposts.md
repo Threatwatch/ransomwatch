@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-22 | [`Kumwell`](https://google.com/search?q=Kumwell) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-22 | [`Peraso`](https://google.com/search?q=Peraso) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-10-21 | [`Nelligan White Architects`](https://google.com/search?q=Nelligan+White+Architects) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-10-21 | [`National Coatings`](https://google.com/search?q=National+Coatings) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-02 | [`Bartek Ingredients`](https://google.com/search?q=Bartek+Ingredients) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-01 | [`TAK Communications, Inc`](https://google.com/search?q=TAK+Communications%2C+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-01 | [`Vanderpool Construction`](https://google.com/search?q=Vanderpool+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-09-01 | [`Juggernaut`](https://google.com/search?q=Juggernaut) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
