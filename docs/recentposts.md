@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-23 | [`OCI International Holdings`](https://google.com/search?q=OCI+International+Holdings) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-10-23 | [`S Food Co., Ltd.`](https://google.com/search?q=S+Food+Co.%2C+Ltd.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-10-22 | [`United Lube Oil`](https://google.com/search?q=United+Lube+Oil) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-10-22 | [`Kumwell`](https://google.com/search?q=Kumwell) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-03 | [`stthom.edu`](https://google.com/search?q=stthom.edu) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-03 | [`Commission scolaire des Appalaches`](https://google.com/search?q=Commission+scolaire+des+Appalaches) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-03 | [`CESCONSULT`](https://google.com/search?q=CESCONSULT) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-09-02 | [`Bartek Ingredients`](https://google.com/search?q=Bartek+Ingredients) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
