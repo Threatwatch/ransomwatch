@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-25 | [`Saturday Unveilings – Shadows Have Names`](https://google.com/search?q=Saturday+Unveilings+%E2%80%93+Shadows+Have+Names) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-10-24 | [`[DISCLOSED]WEBER`](https://google.com/search?q=%5BDISCLOSED%5DWEBER) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-10-23 | [`Kurogane Kasei Co.`](https://google.com/search?q=Kurogane+Kasei+Co.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-10-23 | [`OCI International Holdings`](https://google.com/search?q=OCI+International+Holdings) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-04 | [`sandg.local`](https://google.com/search?q=sandg.local) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-04 | [`omegabiotek.com`](https://google.com/search?q=omegabiotek.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-04 | [`CANDhenterprises.com`](https://google.com/search?q=CANDhenterprises.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-09-03 | [`stthom.edu`](https://google.com/search?q=stthom.edu) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
