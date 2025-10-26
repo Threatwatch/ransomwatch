@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-26 | [`auge.com`](https://google.com/search?q=auge.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-25 | [`northerncas`](https://google.com/search?q=northerncas) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-10-25 | [`Saturday Unveilings – Shadows Have Names`](https://google.com/search?q=Saturday+Unveilings+%E2%80%93+Shadows+Have+Names) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-10-24 | [`[DISCLOSED]WEBER`](https://google.com/search?q=%5BDISCLOSED%5DWEBER) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-04 | [`cphcorp.com`](https://google.com/search?q=cphcorp.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-04 | [`https://ipathpr.com`](https://google.com/search?q=https%3A%2F%2Fipathpr.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2025-09-04 | [`sandg.local`](https://google.com/search?q=sandg.local) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-09-04 | [`omegabiotek.com`](https://google.com/search?q=omegabiotek.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
