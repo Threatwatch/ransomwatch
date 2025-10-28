@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-28 | [`Fast Freight`](https://google.com/search?q=Fast+Freight) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-10-28 | [`Evogence`](https://google.com/search?q=Evogence) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-10-28 | [`Aphase II`](https://google.com/search?q=Aphase+II) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-10-28 | [`Bellflower Unified School District`](https://google.com/search?q=Bellflower+Unified+School+District) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-09 | [`Miesa`](https://google.com/search?q=Miesa) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-09 | [`Promark Partners`](https://google.com/search?q=Promark+Partners) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-09 | [`Energy Fishing`](https://google.com/search?q=Energy+Fishing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-09-09 | [`BDE Computer Services`](https://google.com/search?q=BDE+Computer+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
