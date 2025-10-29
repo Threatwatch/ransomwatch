@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-29 | [`Phillips Printing Company `](https://google.com/search?q=Phillips+Printing+Company+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-10-29 | [`Alios Finance Group`](https://google.com/search?q=Alios+Finance+Group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-29 | [`Gemini Group`](https://google.com/search?q=Gemini+Group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-10-29 | [`Sylvester Roofing`](https://google.com/search?q=Sylvester+Roofing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-10 | [`JIT Energy Services`](https://google.com/search?q=JIT+Energy+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-10 | [`HD Media Systems`](https://google.com/search?q=HD+Media+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-10 | [`GL Veneer`](https://google.com/search?q=GL+Veneer) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-09-10 | [`GDZ Computer Services`](https://google.com/search?q=GDZ+Computer+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
