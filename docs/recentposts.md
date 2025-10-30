@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-30 | [`semag.fr`](https://google.com/search?q=semag.fr) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2025-10-30 | [`fsbgroup.ca`](https://google.com/search?q=fsbgroup.ca) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2025-10-30 | [`Evolve Mortgage Services`](https://google.com/search?q=Evolve+Mortgage+Services) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-30 | [`axxia.fr`](https://google.com/search?q=axxia.fr) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-11 | [`Royal Machine & Tool`](https://google.com/search?q=Royal+Machine+%26+Tool) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-10 | [`Gagosian(US, UK)`](https://google.com/search?q=Gagosian%28US%2C+UK%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2025-09-10 | [`Rising Star Hydraulics`](https://google.com/search?q=Rising+Star+Hydraulics) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-09-10 | [`Reliable Roofing`](https://google.com/search?q=Reliable+Roofing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
