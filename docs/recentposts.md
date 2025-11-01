@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-01 | [`TMF Logistics`](https://google.com/search?q=TMF+Logistics) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-01 | [`DILOSA FOOD COMPANIES`](https://google.com/search?q=DILOSA+FOOD+COMPANIES) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-31 | [`aa-llp.com (aa.law)`](https://google.com/search?q=aa-llp.com+%28aa.law%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-31 | [`VZW Avalon`](https://google.com/search?q=VZW+Avalon) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-12 | [` Ocean Edge Resort &amp; Golf Club `](https://google.com/search?q=+Ocean+Edge+Resort+%26amp%3B+Golf+Club+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-09-12 | [`Heffner Toyota &amp; Lexus `](https://google.com/search?q=Heffner+Toyota+%26amp%3B+Lexus+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-09-11 | [`Northland Auto Solutions`](https://google.com/search?q=Northland+Auto+Solutions) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-09-11 | [`moinian.com`](https://google.com/search?q=moinian.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
