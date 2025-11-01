@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-01 | [`Tavo Packaging Inc`](https://google.com/search?q=Tavo+Packaging+Inc) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-01 | [`Professional's Choice Sports`](https://google.com/search?q=Professional%27s+Choice+Sports) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-01 | [`Encore Repair Services`](https://google.com/search?q=Encore+Repair+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-01 | [`The Saturday Files`](https://google.com/search?q=The+Saturday+Files) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-15 | [`http://www.hiec.com/`](https://google.com/search?q=http%3A%2F%2Fwww.hiec.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-15 | [`Baum Precision Machining`](https://google.com/search?q=Baum+Precision+Machining) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-14 | [`usenergy`](https://google.com/search?q=usenergy) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
-| 2025-09-13 | [`BRIGHT SYSTEM JAPAN CO., LTD`](https://google.com/search?q=BRIGHT+SYSTEM+JAPAN+CO.%2C+LTD) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
