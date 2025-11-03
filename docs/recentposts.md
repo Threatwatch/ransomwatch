@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-03 | [`afton.loc`](https://google.com/search?q=afton.loc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-03 | [`Irwin Car`](https://google.com/search?q=Irwin+Car) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-03 | [`Vitalmex`](https://google.com/search?q=Vitalmex) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-03 | [`UnitedLayer`](https://google.com/search?q=UnitedLayer) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-16 | [`Energenecs`](https://google.com/search?q=Energenecs) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-15 | [`Eau Palm Beach Resort & Spa`](https://google.com/search?q=Eau+Palm+Beach+Resort+%26+Spa) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-15 | [`Crestone Group`](https://google.com/search?q=Crestone+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-09-15 | [`jsgroup`](https://google.com/search?q=jsgroup) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
