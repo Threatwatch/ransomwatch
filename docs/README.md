@@ -4,11 +4,11 @@ _november 4th, 2025_
 
 ransomwatch is currently crawling `492` sites belonging to `216` unique groups
 
-⏲ there have been `9` posts within the `last 24 hours`
+⏲ there have been `8` posts within the `last 24 hours`
 
 🦈 there have been `17` posts within the `month of november`
 
-🪐 there have been `398` posts within the `last 90 days`
+🪐 there have been `397` posts within the `last 90 days`
 
 🏚 there have been `1847` posts within the `year of 2025`
 
