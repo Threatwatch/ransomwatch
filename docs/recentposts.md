@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-05 | [`Sellars Absorbent Materials`](https://google.com/search?q=Sellars+Absorbent+Materials) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-04 | [`ConvExx`](https://google.com/search?q=ConvExx) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-04 | [`American PowerNet`](https://google.com/search?q=American+PowerNet) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-04 | [`Invacare`](https://google.com/search?q=Invacare) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-16 | [`Rochester Optical`](https://google.com/search?q=Rochester+Optical) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-16 | [`RGR Sportswear`](https://google.com/search?q=RGR+Sportswear) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-16 | [`RFI`](https://google.com/search?q=RFI) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-09-16 | [`Pathfinder`](https://google.com/search?q=Pathfinder) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
