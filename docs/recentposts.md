@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-06 | [`Ketat Grundstücksverwertungs GmbH`](https://google.com/search?q=Ketat+Grundst%C3%BCcksverwertungs+GmbH) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-06 | [`pmsp.at`](https://google.com/search?q=pmsp.at) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-06 | [`First Resources`](https://google.com/search?q=First+Resources) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-06 | [`Black Hills Bentonite `](https://google.com/search?q=Black+Hills+Bentonite+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-17 | [`RAC Consultoria`](https://google.com/search?q=RAC+Consultoria) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-09-17 | [`Tunad`](https://google.com/search?q=Tunad) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-09-17 | [`Accflex ERP`](https://google.com/search?q=Accflex+ERP) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2025-09-17 | [`https://www.cnh.com/`](https://google.com/search?q=https%3A%2F%2Fwww.cnh.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
