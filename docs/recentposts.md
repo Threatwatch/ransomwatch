@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-07 | [`elektroanlagen`](https://google.com/search?q=elektroanlagen) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-06 | [`MusikComputer GmbH`](https://google.com/search?q=MusikComputer+GmbH) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-06 | [`Ketat Grundstücksverwertungs GmbH`](https://google.com/search?q=Ketat+Grundst%C3%BCcksverwertungs+GmbH) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-06 | [`pmsp.at`](https://google.com/search?q=pmsp.at) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-17 | [`Announcement 16-09-2025`](https://google.com/search?q=Announcement+16-09-2025) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-09-17 | [`Grup Gestio`](https://google.com/search?q=Grup+Gestio) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-09-17 | [`RAC Consultoria`](https://google.com/search?q=RAC+Consultoria) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-09-17 | [`Tunad`](https://google.com/search?q=Tunad) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
