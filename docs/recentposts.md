@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-10 | [`LMHT Associates`](https://google.com/search?q=LMHT+Associates) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-11-10 | [`[DISCLOSED]S Food Co., Ltd.`](https://google.com/search?q=%5BDISCLOSED%5DS+Food+Co.%2C+Ltd.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-10 | [`[EVIDENCE PACK 2]ASKUL`](https://google.com/search?q=%5BEVIDENCE+PACK+2%5DASKUL) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-08 | [`Saturday Spotlight`](https://google.com/search?q=Saturday+Spotlight) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-18 | [`grupogid.com`](https://google.com/search?q=grupogid.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-18 | [`cardinal-services.com`](https://google.com/search?q=cardinal-services.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-17 | [`Thomas Safran & Associates`](https://google.com/search?q=Thomas+Safran+%26+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-09-17 | [`thepropertybusiness.com`](https://google.com/search?q=thepropertybusiness.com) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
