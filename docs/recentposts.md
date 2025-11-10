@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-10 | [`Darvin Furniture`](https://google.com/search?q=Darvin+Furniture) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-10 | [`[DISCLOSED]Kurogane Kasei Co.`](https://google.com/search?q=%5BDISCLOSED%5DKurogane+Kasei+Co.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-10 | [`MARCK Industries`](https://google.com/search?q=MARCK+Industries) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-10 | [`Weintraub Traub Tracy & Virk Cra's LLP`](https://google.com/search?q=Weintraub+Traub+Tracy+%26+Virk+Cra%27s+LLP) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-19 | [`United Machine`](https://google.com/search?q=United+Machine) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-18 | [`cardiofocus.com`](https://google.com/search?q=cardiofocus.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-18 | [`Heidelberg Golf Club`](https://google.com/search?q=Heidelberg+Golf+Club) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2025-09-18 | [`lindenlaw.com`](https://google.com/search?q=lindenlaw.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
