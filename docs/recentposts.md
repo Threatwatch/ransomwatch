@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-10 | [`[EVIDENCE PACK 2]ASKUL`](https://google.com/search?q=%5BEVIDENCE+PACK+2%5DASKUL) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-08 | [`Saturday Spotlight`](https://google.com/search?q=Saturday+Spotlight) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-11-07 | [` Phillips Printing Company `](https://google.com/search?q=+Phillips+Printing+Company+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-11-07 | [`zebra.or.at`](https://google.com/search?q=zebra.or.at) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-17 | [`Thomas Safran & Associates`](https://google.com/search?q=Thomas+Safran+%26+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-17 | [`thepropertybusiness.com`](https://google.com/search?q=thepropertybusiness.com) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-09-17 | [`ekonomipoolen.se`](https://google.com/search?q=ekonomipoolen.se) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2025-09-17 | [`News-Press &amp; Gazette Co.`](https://google.com/search?q=News-Press+%26amp%3B+Gazette+Co.) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
