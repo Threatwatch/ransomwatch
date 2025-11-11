@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-11 | [`Sarulla Operation`](https://google.com/search?q=Sarulla+Operation) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-11 | [`Easterseals Arc of Northeast Indiana`](https://google.com/search?q=Easterseals+Arc+of+Northeast+Indiana) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-11 | [`Public Safety Mutual Benefit Fund`](https://google.com/search?q=Public+Safety+Mutual+Benefit+Fund) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-11 | [`Octomeca Oy`](https://google.com/search?q=Octomeca+Oy) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-23 | [`PTR`](https://google.com/search?q=PTR) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-23 | [`New England Waterproofing`](https://google.com/search?q=New+England+Waterproofing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-23 | [`Hilldun`](https://google.com/search?q=Hilldun) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-09-23 | [`GrammaTech`](https://google.com/search?q=GrammaTech) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
