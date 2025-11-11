@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-11 | [`Ioxo & Stream Computers`](https://google.com/search?q=Ioxo+%26+Stream+Computers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-10 | [`Garvin Promotion Group`](https://google.com/search?q=Garvin+Promotion+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-10 | [`Darvin Furniture`](https://google.com/search?q=Darvin+Furniture) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-10 | [`[DISCLOSED]Kurogane Kasei Co.`](https://google.com/search?q=%5BDISCLOSED%5DKurogane+Kasei+Co.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-22 | [`Batesky Law Office (BLO)`](https://google.com/search?q=Batesky+Law+Office+%28BLO%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-09-21 | [`Pennsylvania Office of Attorney General`](https://google.com/search?q=Pennsylvania+Office+of+Attorney+General) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-19 | [`United Machine`](https://google.com/search?q=United+Machine) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-09-18 | [`cardiofocus.com`](https://google.com/search?q=cardiofocus.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
