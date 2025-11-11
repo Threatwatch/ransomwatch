@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-11 | [`Public Safety Mutual Benefit Fund`](https://google.com/search?q=Public+Safety+Mutual+Benefit+Fund) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-11 | [`Octomeca Oy`](https://google.com/search?q=Octomeca+Oy) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-11 | [`Polidano Group`](https://google.com/search?q=Polidano+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-11 | [`Community Unit School District 201`](https://google.com/search?q=Community+Unit+School+District+201) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-23 | [`Hilldun`](https://google.com/search?q=Hilldun) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-23 | [`GrammaTech`](https://google.com/search?q=GrammaTech) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-23 | [`DHM Properties`](https://google.com/search?q=DHM+Properties) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-09-23 | [`Combined Services HVAC`](https://google.com/search?q=Combined+Services+HVAC) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
