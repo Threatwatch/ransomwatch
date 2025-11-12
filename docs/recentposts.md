@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-12 | [`Grupo Via Argentina`](https://google.com/search?q=Grupo+Via+Argentina) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-12 | [`Vennerhus Weine AG`](https://google.com/search?q=Vennerhus+Weine+AG) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-12 | [`Soleol`](https://google.com/search?q=Soleol) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-12 | [`Wiraswasta Gemilang`](https://google.com/search?q=Wiraswasta+Gemilang) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-23 | [`P&P Industries`](https://google.com/search?q=P%26P+Industries) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-23 | [`Vcinity`](https://google.com/search?q=Vcinity) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-23 | [`Takeuchi US`](https://google.com/search?q=Takeuchi+US) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-09-23 | [`Roth & Scholl`](https://google.com/search?q=Roth+%26+Scholl) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
