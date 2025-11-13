@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-13 | [`forensicmed.com`](https://google.com/search?q=forensicmed.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-13 | [`bridge-housing-corp`](https://google.com/search?q=bridge-housing-corp) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-12 | [`Znojma Czechia`](https://google.com/search?q=Znojma+Czechia) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-12 | [`partitio.com`](https://google.com/search?q=partitio.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-24 | [`TLD Law.com`](https://google.com/search?q=TLD+Law.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-24 | [`The Maryland Department of Transportation`](https://google.com/search?q=The+Maryland+Department+of+Transportation) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-09-24 | [`Milk Agro`](https://google.com/search?q=Milk+Agro) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2025-09-24 | [`Edro Real Estate`](https://google.com/search?q=Edro+Real+Estate) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
