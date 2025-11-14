@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-14 | [`wafergrind.com`](https://google.com/search?q=wafergrind.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-14 | [`rosemontexpo.com`](https://google.com/search?q=rosemontexpo.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-14 | [`kellylegal.com.au`](https://google.com/search?q=kellylegal.com.au) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-14 | [`facadeinnovations.com.au`](https://google.com/search?q=facadeinnovations.com.au) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-27 | [`Atlas Pressed Metals`](https://google.com/search?q=Atlas+Pressed+Metals) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-27 | [`Amelia Overhead Doors`](https://google.com/search?q=Amelia+Overhead+Doors) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-27 | [`Amos Spacecom Hacked`](https://google.com/search?q=Amos+Spacecom+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2025-09-27 | [`A space surprise soon!`](https://google.com/search?q=A+space+surprise+soon%21) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
