@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-14 | [`Kaan Cronenberg & Partners Law `](https://google.com/search?q=Kaan+Cronenberg+%26+Partners+Law+) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-14 | [`www.northcroftme.com`](https://google.com/search?q=www.northcroftme.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-14 | [`wafergrind.com`](https://google.com/search?q=wafergrind.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-14 | [`rosemontexpo.com`](https://google.com/search?q=rosemontexpo.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-28 | [`Earthadelic`](https://google.com/search?q=Earthadelic) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-28 | [`ComTec Systems`](https://google.com/search?q=ComTec+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-27 | [`Atlas Pressed Metals`](https://google.com/search?q=Atlas+Pressed+Metals) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-09-27 | [`Amelia Overhead Doors`](https://google.com/search?q=Amelia+Overhead+Doors) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
