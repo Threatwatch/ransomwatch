@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-14 | [`eakas.com`](https://google.com/search?q=eakas.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-14 | [`Valley Plains Equipment`](https://google.com/search?q=Valley+Plains+Equipment) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-14 | [`Sellers Publishing`](https://google.com/search?q=Sellers+Publishing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-14 | [`BK Precision`](https://google.com/search?q=BK+Precision) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-29 | [`Manjarrez Impresores`](https://google.com/search?q=Manjarrez+Impresores) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-29 | [`phi.ca`](https://google.com/search?q=phi.ca) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-28 | [`List of Spacecom employees`](https://google.com/search?q=List+of+Spacecom+employees) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2025-09-28 | [`Steve Basso Plumbing Heating`](https://google.com/search?q=Steve+Basso+Plumbing+Heating) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
