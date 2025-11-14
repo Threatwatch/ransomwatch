@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-14 | [`kellylegal.com.au`](https://google.com/search?q=kellylegal.com.au) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-14 | [`facadeinnovations.com.au`](https://google.com/search?q=facadeinnovations.com.au) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-14 | [`duboiswood.com`](https://google.com/search?q=duboiswood.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-13 | [`avrind.com`](https://google.com/search?q=avrind.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-27 | [`Amos Spacecom Hacked`](https://google.com/search?q=Amos+Spacecom+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-09-27 | [`A space surprise soon!`](https://google.com/search?q=A+space+surprise+soon%21) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-09-26 | [`News-Press &amp;amp;amp;amp; Gazette Co.`](https://google.com/search?q=News-Press+%26amp%3Bamp%3Bamp%3Bamp%3B+Gazette+Co.) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
-| 2025-09-26 | [`News-Press &amp;amp;amp; Gazette Co.`](https://google.com/search?q=News-Press+%26amp%3Bamp%3Bamp%3B+Gazette+Co.) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
