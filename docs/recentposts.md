@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-15 | [`Smile for the Camera &#8211; Handala Is Watching`](https://google.com/search?q=Smile+for+the+Camera+%26%238211%3B+Handala+Is+Watching) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-11-15 | [`dun`](https://google.com/search?q=dun) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-11-14 | [`eakas.com`](https://google.com/search?q=eakas.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-14 | [`Valley Plains Equipment`](https://google.com/search?q=Valley+Plains+Equipment) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-29 | [`www.sonoshowmoveis.com.br`](https://google.com/search?q=www.sonoshowmoveis.com.br) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2025-09-29 | [`Peavey Electronics Corporation`](https://google.com/search?q=Peavey+Electronics+Corporation) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-09-29 | [`Manjarrez Impresores`](https://google.com/search?q=Manjarrez+Impresores) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-09-29 | [`phi.ca`](https://google.com/search?q=phi.ca) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
