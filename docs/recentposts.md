@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-18 | [`baisyaakov.ca`](https://google.com/search?q=baisyaakov.ca) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-18 | [`datenlotsen.de`](https://google.com/search?q=datenlotsen.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-18 | [`Smoll & Banning, CPAs`](https://google.com/search?q=Smoll+%26+Banning%2C+CPAs) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-11-18 | [`dulay.ca`](https://google.com/search?q=dulay.ca) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-10-01 | [`Climatron`](https://google.com/search?q=Climatron) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-01 | [`Cholakyan Chiropractic`](https://google.com/search?q=Cholakyan+Chiropractic) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-01 | [`Smiles By Steedman`](https://google.com/search?q=Smiles+By+Steedman) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-10-01 | [`LAMMCO.NET`](https://google.com/search?q=LAMMCO.NET) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
