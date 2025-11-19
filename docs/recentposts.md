@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-19 | [`zadroinc.com`](https://google.com/search?q=zadroinc.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-19 | [`ripleyacademy.org`](https://google.com/search?q=ripleyacademy.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-19 | [`grandeprairie.org`](https://google.com/search?q=grandeprairie.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-19 | [`continuumindia.com`](https://google.com/search?q=continuumindia.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-10-01 | [`https://www.adhunikpower.com`](https://google.com/search?q=https%3A%2F%2Fwww.adhunikpower.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2025-10-01 | [`icc-nw.net`](https://google.com/search?q=icc-nw.net) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-01 | [`The Plainview Volunteer FD`](https://google.com/search?q=The+Plainview+Volunteer+FD) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2025-10-01 | [`callhci.com`](https://google.com/search?q=callhci.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
