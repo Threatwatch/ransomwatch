@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-19 | [`grandeprairie.org`](https://google.com/search?q=grandeprairie.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-19 | [`continuumindia.com`](https://google.com/search?q=continuumindia.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-18 | [`baisyaakov.ca`](https://google.com/search?q=baisyaakov.ca) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-18 | [`datenlotsen.de`](https://google.com/search?q=datenlotsen.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-10-01 | [`The Plainview Volunteer FD`](https://google.com/search?q=The+Plainview+Volunteer+FD) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-10-01 | [`callhci.com`](https://google.com/search?q=callhci.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-01 | [`Climatron`](https://google.com/search?q=Climatron) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-10-01 | [`Cholakyan Chiropractic`](https://google.com/search?q=Cholakyan+Chiropractic) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
