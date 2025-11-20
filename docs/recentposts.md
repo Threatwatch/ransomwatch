@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-20 | [`naffco.com`](https://google.com/search?q=naffco.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-19 | [`reidhurstnagy.com`](https://google.com/search?q=reidhurstnagy.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-19 | [`zadroinc.com`](https://google.com/search?q=zadroinc.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-19 | [`ripleyacademy.org`](https://google.com/search?q=ripleyacademy.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-10-02 | [`Gesimde Asociados / Ausil Systems / Esnova Software, Esnova Racks S.A`](https://google.com/search?q=Gesimde+Asociados+%2F+Ausil+Systems+%2F+Esnova+Software%2C+Esnova+Racks+S.A) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-10-01 | [`suntreeinternalmedicine.com`](https://google.com/search?q=suntreeinternalmedicine.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-01 | [`https://www.adhunikpower.com`](https://google.com/search?q=https%3A%2F%2Fwww.adhunikpower.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
-| 2025-10-01 | [`icc-nw.net`](https://google.com/search?q=icc-nw.net) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
