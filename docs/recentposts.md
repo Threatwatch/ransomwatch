@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-22 | [`Turkstra Trusses`](https://google.com/search?q=Turkstra+Trusses) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-22 | [`Keystone Fabricating`](https://google.com/search?q=Keystone+Fabricating) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-22 | [`Katch Kan`](https://google.com/search?q=Katch+Kan) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-22 | [`St. Joseph's Healthcare Hamilton`](https://google.com/search?q=St.+Joseph%27s+Healthcare+Hamilton) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-10-07 | [`NurtureCare`](https://google.com/search?q=NurtureCare) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-10-06 | [`Dataforth`](https://google.com/search?q=Dataforth) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-10-06 | [`AES Clean Technology`](https://google.com/search?q=AES+Clean+Technology) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-10-06 | [`WELLSLANDSCAPING.COM`](https://google.com/search?q=WELLSLANDSCAPING.COM) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
