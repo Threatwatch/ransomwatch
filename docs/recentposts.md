@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-12-02 | [`Cleveland County Sheriff's Office`](https://google.com/search?q=Cleveland+County+Sheriff%27s+Office) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-12-02 | [`University Loft`](https://google.com/search?q=University+Loft) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-02 | [`South Island Public Service District`](https://google.com/search?q=South+Island+Public+Service+District) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-02 | [`Hall Aluminum Products`](https://google.com/search?q=Hall+Aluminum+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-10-16 | [`Sibbalds`](https://google.com/search?q=Sibbalds) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-10-16 | [`Tex-Tube`](https://google.com/search?q=Tex-Tube) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-10-16 | [`Royal Thai`](https://google.com/search?q=Royal+Thai) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-10-16 | [`Legacy Manufacturing`](https://google.com/search?q=Legacy+Manufacturing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
