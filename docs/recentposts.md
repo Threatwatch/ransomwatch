@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-12-02 | [`South Island Public Service District`](https://google.com/search?q=South+Island+Public+Service+District) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-02 | [`Hall Aluminum Products`](https://google.com/search?q=Hall+Aluminum+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-02 | [`Clark & Sullivan Constructors`](https://google.com/search?q=Clark+%26+Sullivan+Constructors) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-01 | [`Aspen Distribution`](https://google.com/search?q=Aspen+Distribution) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-10-16 | [`Royal Thai`](https://google.com/search?q=Royal+Thai) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-10-16 | [`Legacy Manufacturing`](https://google.com/search?q=Legacy+Manufacturing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-10-15 | [`Koch & White Heating & Cooling`](https://google.com/search?q=Koch+%26+White+Heating+%26+Cooling) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-10-15 | [`Global Shop Solutions`](https://google.com/search?q=Global+Shop+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
