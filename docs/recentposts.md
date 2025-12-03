@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-12-03 | [`bisonfamilymedical.com`](https://google.com/search?q=bisonfamilymedical.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-03 | [`instyle.com.au`](https://google.com/search?q=instyle.com.au) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-03 | [`www.precipiodx.com`](https://google.com/search?q=www.precipiodx.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-02 | [`www.marvimundo.com`](https://google.com/search?q=www.marvimundo.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-10-19 | [`Commemoration of Commander Martyr Reza Awada`](https://google.com/search?q=Commemoration+of+Commander+Martyr+Reza+Awada) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-10-19 | [`summitgolfbrands.com`](https://google.com/search?q=summitgolfbrands.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-18 | [`Saturday Reckoning`](https://google.com/search?q=Saturday+Reckoning) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2025-10-18 | [`Shadrix & Parmer, P.C.`](https://google.com/search?q=Shadrix+%26+Parmer%2C+P.C.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
