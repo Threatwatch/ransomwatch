@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-12-03 | [`www.precipiodx.com`](https://google.com/search?q=www.precipiodx.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-02 | [`www.marvimundo.com`](https://google.com/search?q=www.marvimundo.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-02 | [`n`](https://google.com/search?q=n) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-12-02 | [`www.enea.com`](https://google.com/search?q=www.enea.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-10-18 | [`Saturday Reckoning`](https://google.com/search?q=Saturday+Reckoning) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-10-18 | [`Shadrix & Parmer, P.C.`](https://google.com/search?q=Shadrix+%26+Parmer%2C+P.C.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-17 | [`Hematology Oncology Consultants`](https://google.com/search?q=Hematology+Oncology+Consultants) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-10-17 | [`Cottage`](https://google.com/search?q=Cottage) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
