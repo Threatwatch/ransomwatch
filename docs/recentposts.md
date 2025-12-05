@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-12-05 | [`AvtechTyee `](https://google.com/search?q=AvtechTyee+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-12-05 | [`new blog domain lockbit 5.0`](https://google.com/search?q=new+blog+domain+lockbit+5.0) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-12-05 | [`Slimsoft`](https://google.com/search?q=Slimsoft) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-12-04 | [`Quasar Inc`](https://google.com/search?q=Quasar+Inc) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-10-22 | [`Kumwell`](https://google.com/search?q=Kumwell) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-22 | [`Peraso`](https://google.com/search?q=Peraso) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-10-21 | [`Nelligan White Architects`](https://google.com/search?q=Nelligan+White+Architects) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-10-21 | [`National Coatings`](https://google.com/search?q=National+Coatings) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
