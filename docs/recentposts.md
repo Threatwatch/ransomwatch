@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-12-07 | [`YAZAKI Corp`](https://google.com/search?q=YAZAKI+Corp) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-07 | [`Kane's Furniture`](https://google.com/search?q=Kane%27s+Furniture) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-12-06 | [`www.mylawcompany.com`](https://google.com/search?q=www.mylawcompany.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-06 | [`From Shield to Shame`](https://google.com/search?q=From+Shield+to+Shame) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-10-25 | [`Saturday Unveilings – Shadows Have Names`](https://google.com/search?q=Saturday+Unveilings+%E2%80%93+Shadows+Have+Names) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-10-24 | [`[DISCLOSED]WEBER`](https://google.com/search?q=%5BDISCLOSED%5DWEBER) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-10-23 | [`Kurogane Kasei Co.`](https://google.com/search?q=Kurogane+Kasei+Co.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2025-10-23 | [`OCI International Holdings`](https://google.com/search?q=OCI+International+Holdings) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
