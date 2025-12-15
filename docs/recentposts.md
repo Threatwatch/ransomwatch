@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-12-15 | [`beycelik`](https://google.com/search?q=beycelik) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-15 | [`Diaz Gill Medicina Laboratorial S.A.`](https://google.com/search?q=Diaz+Gill+Medicina+Laboratorial+S.A.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-12-15 | [`steelworksinc.ca`](https://google.com/search?q=steelworksinc.ca) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-15 | [`cityofsignalhill.org`](https://google.com/search?q=cityofsignalhill.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-10-30 | [`semag.fr`](https://google.com/search?q=semag.fr) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2025-10-30 | [`fsbgroup.ca`](https://google.com/search?q=fsbgroup.ca) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2025-10-30 | [`Evolve Mortgage Services`](https://google.com/search?q=Evolve+Mortgage+Services) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-10-30 | [`axxia.fr`](https://google.com/search?q=axxia.fr) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
