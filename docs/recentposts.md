@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-12-16 | [`Maypay Farms Inc`](https://google.com/search?q=Maypay+Farms+Inc) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-16 | [`Fairgrove Oil`](https://google.com/search?q=Fairgrove+Oil) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-16 | [`Allure Home Creation`](https://google.com/search?q=Allure+Home+Creation) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-16 | [`Walters Group Inc `](https://google.com/search?q=Walters+Group+Inc+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-11-01 | [`TMF Logistics`](https://google.com/search?q=TMF+Logistics) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-01 | [`DILOSA FOOD COMPANIES`](https://google.com/search?q=DILOSA+FOOD+COMPANIES) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-31 | [`aa-llp.com (aa.law)`](https://google.com/search?q=aa-llp.com+%28aa.law%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-10-31 | [`VZW Avalon`](https://google.com/search?q=VZW+Avalon) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
