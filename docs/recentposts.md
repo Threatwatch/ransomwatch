@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-12-29 | [`Esquire Brands`](https://google.com/search?q=Esquire+Brands) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-29 | [`C&r Electric`](https://google.com/search?q=C%26r+Electric) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-29 | [`selp`](https://google.com/search?q=selp) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-29 | [`Arkan`](https://google.com/search?q=Arkan) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-11-10 | [`[DISCLOSED]S Food Co., Ltd.`](https://google.com/search?q=%5BDISCLOSED%5DS+Food+Co.%2C+Ltd.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-10 | [`[EVIDENCE PACK 2]ASKUL`](https://google.com/search?q=%5BEVIDENCE+PACK+2%5DASKUL) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-08 | [`Saturday Spotlight`](https://google.com/search?q=Saturday+Spotlight) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2025-11-07 | [` Phillips Printing Company `](https://google.com/search?q=+Phillips+Printing+Company+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
