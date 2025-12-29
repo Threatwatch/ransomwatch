@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-12-29 | [`ESSPL`](https://google.com/search?q=ESSPL) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-12-29 | [`omrania`](https://google.com/search?q=omrania) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-28 | [`klingele`](https://google.com/search?q=klingele) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-28 | [`Braverman Files Unleashed: Every Secret Now Exposed`](https://google.com/search?q=Braverman+Files+Unleashed%3A+Every+Secret+Now+Exposed) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-11-07 | [`zebra.or.at`](https://google.com/search?q=zebra.or.at) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-07 | [`prutsch-ra.at`](https://google.com/search?q=prutsch-ra.at) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-07 | [`elektroanlagen`](https://google.com/search?q=elektroanlagen) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-11-06 | [`MusikComputer GmbH`](https://google.com/search?q=MusikComputer+GmbH) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
