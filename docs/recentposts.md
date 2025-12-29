@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-12-29 | [`selp`](https://google.com/search?q=selp) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-29 | [`Arkan`](https://google.com/search?q=Arkan) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-12-29 | [`ESSPL`](https://google.com/search?q=ESSPL) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-12-29 | [`omrania`](https://google.com/search?q=omrania) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-11-08 | [`Saturday Spotlight`](https://google.com/search?q=Saturday+Spotlight) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-11-07 | [` Phillips Printing Company `](https://google.com/search?q=+Phillips+Printing+Company+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-11-07 | [`zebra.or.at`](https://google.com/search?q=zebra.or.at) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-11-07 | [`prutsch-ra.at`](https://google.com/search?q=prutsch-ra.at) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
