@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-12-30 | [`Firmengruppe Hoffmann`](https://google.com/search?q=Firmengruppe+Hoffmann) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-12-30 | [`MP Filtri`](https://google.com/search?q=MP+Filtri) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-30 | [`JZ Russell Industries`](https://google.com/search?q=JZ+Russell+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-30 | [`Genoa Lakes`](https://google.com/search?q=Genoa+Lakes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-11-10 | [`[DISCLOSED]Kurogane Kasei Co.`](https://google.com/search?q=%5BDISCLOSED%5DKurogane+Kasei+Co.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-10 | [`MARCK Industries`](https://google.com/search?q=MARCK+Industries) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-10 | [`Weintraub Traub Tracy & Virk Cra's LLP`](https://google.com/search?q=Weintraub+Traub+Tracy+%26+Virk+Cra%27s+LLP) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-11-10 | [`LMHT Associates`](https://google.com/search?q=LMHT+Associates) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
