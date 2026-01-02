@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-02 | [`Lakeside Title Company`](https://google.com/search?q=Lakeside+Title+Company) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-02 | [`Garner Foods`](https://google.com/search?q=Garner+Foods) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-02 | [`Benise-Dowling & Associates`](https://google.com/search?q=Benise-Dowling+%26+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-31 | [`Infinite Computing Systems`](https://google.com/search?q=Infinite+Computing+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-11-11 | [`Community Unit School District 201`](https://google.com/search?q=Community+Unit+School+District+201) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-11 | [`Heart South Cardiovascular Group`](https://google.com/search?q=Heart+South+Cardiovascular+Group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-11-11 | [`Land Title Guaranty`](https://google.com/search?q=Land+Title+Guaranty) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-11-11 | [`Kwik Mix Materials`](https://google.com/search?q=Kwik+Mix+Materials) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
