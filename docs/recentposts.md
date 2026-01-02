@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-02 | [`Benise-Dowling & Associates`](https://google.com/search?q=Benise-Dowling+%26+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-31 | [`Infinite Computing Systems`](https://google.com/search?q=Infinite+Computing+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-31 | [`Burnham Brown`](https://google.com/search?q=Burnham+Brown) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-31 | [`3GH Informatica Integral`](https://google.com/search?q=3GH+Informatica+Integral) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-11-11 | [`Land Title Guaranty`](https://google.com/search?q=Land+Title+Guaranty) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-11 | [`Kwik Mix Materials`](https://google.com/search?q=Kwik+Mix+Materials) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-11 | [`Jean-Georges`](https://google.com/search?q=Jean-Georges) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-11-11 | [`Ioxo & Stream Computers`](https://google.com/search?q=Ioxo+%26+Stream+Computers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
