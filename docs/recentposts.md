@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-03 | [`Wardell Builders`](https://google.com/search?q=Wardell+Builders) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-02 | [`Stoughton Steel`](https://google.com/search?q=Stoughton+Steel) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-02 | [`Rockport Technology Group`](https://google.com/search?q=Rockport+Technology+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-02 | [`Pewarchuk CPA`](https://google.com/search?q=Pewarchuk+CPA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-11-11 | [`Easterseals Arc of Northeast Indiana`](https://google.com/search?q=Easterseals+Arc+of+Northeast+Indiana) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-11 | [`Public Safety Mutual Benefit Fund`](https://google.com/search?q=Public+Safety+Mutual+Benefit+Fund) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-11 | [`Octomeca Oy`](https://google.com/search?q=Octomeca+Oy) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2025-11-11 | [`Polidano Group`](https://google.com/search?q=Polidano+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
