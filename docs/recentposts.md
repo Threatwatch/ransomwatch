@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-03 | [`15 SIGINT Agents Exposed — $50,000 Reward`](https://google.com/search?q=15+SIGINT+Agents+Exposed+%E2%80%94+%2450%2C000+Reward) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-01-03 | [`proton-system_Serbia`](https://google.com/search?q=proton-system_Serbia) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-03 | [`Automation One Business Systems Inc`](https://google.com/search?q=Automation+One+Business+Systems+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-03 | [`Unveiling the Secrets: Inside the WhatsApp Chats of a Minister`](https://google.com/search?q=Unveiling+the+Secrets%3A+Inside+the+WhatsApp+Chats+of+a+Minister) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-11-12 | [`Grupo Via Argentina`](https://google.com/search?q=Grupo+Via+Argentina) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-12 | [`Vennerhus Weine AG`](https://google.com/search?q=Vennerhus+Weine+AG) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-12 | [`Soleol`](https://google.com/search?q=Soleol) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2025-11-12 | [`Wiraswasta Gemilang`](https://google.com/search?q=Wiraswasta+Gemilang) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
