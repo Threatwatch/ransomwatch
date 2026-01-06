@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-06 | [`Due Doyle Fanning`](https://google.com/search?q=Due+Doyle+Fanning) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-06 | [`Autohaus Pichel GmbH`](https://google.com/search?q=Autohaus+Pichel+GmbH) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-03 | [`Ayelet Shaked Contact List`](https://google.com/search?q=Ayelet+Shaked+Contact+List) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-01-03 | [`Borough of Moonachie`](https://google.com/search?q=Borough+of+Moonachie) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-11-13 | [`bridge-housing-corp`](https://google.com/search?q=bridge-housing-corp) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-12 | [`Znojma Czechia`](https://google.com/search?q=Znojma+Czechia) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-12 | [`partitio.com`](https://google.com/search?q=partitio.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-11-12 | [`KohaFoods Hawaii`](https://google.com/search?q=KohaFoods+Hawaii) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
