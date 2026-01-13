@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-13 | [`Rodney's Sign Company`](https://google.com/search?q=Rodney%27s+Sign+Company) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-13 | [`Fit-Line Global`](https://google.com/search?q=Fit-Line+Global) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-13 | [`Cape Fear Country Club`](https://google.com/search?q=Cape+Fear+Country+Club) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-12 | [`Harrison Design`](https://google.com/search?q=Harrison+Design) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-11-15 | [`dun`](https://google.com/search?q=dun) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-11-14 | [`eakas.com`](https://google.com/search?q=eakas.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-14 | [`Valley Plains Equipment`](https://google.com/search?q=Valley+Plains+Equipment) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-11-14 | [`Sellers Publishing`](https://google.com/search?q=Sellers+Publishing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
