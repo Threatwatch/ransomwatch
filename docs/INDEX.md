@@ -68,7 +68,7 @@
 | [haron](https://ransomwatch.telemetry.ltd/#/profiles?id=haron) | Clients page | 🔴 | 2022-01-31 | ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion |
 | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) | Dark Leak Market | 🔴 | 2021-10-07 | 54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion |
 | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) | Security Check | 🔴 | 2025-12-10 | aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd.onion |
-| [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) | Dark Leak Market | 🟢 |  | darklmmmfuonklpy6s3tmvk5mrcdi7iapaw6eka45esmoryiiuug6aid.onion |
+| [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) | Dark Leak Market | 🔴 | 2026-01-14 | darklmmmfuonklpy6s3tmvk5mrcdi7iapaw6eka45esmoryiiuug6aid.onion |
 | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) | Dark Leak Market | 🔴 | 2023-07-11 | darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd.onion |
 | [prometheus](https://ransomwatch.telemetry.ltd/#/profiles?id=prometheus) |  | 🔴 | 2021-05-01 | promethw27cbrcot.onion |
 | [blackmatter](https://ransomwatch.telemetry.ltd/#/profiles?id=blackmatter) | BlackMatter | 🔴 | 2021-11-04 | blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion |
@@ -310,7 +310,7 @@
 | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |  Mallox - Data Leaks | 🔴 | 2024-04-04 | wtyafjyizleuw4yhepmdsrcfjwmtiysunos6ixchw3r5d7eeimw2rrid.onion |
 | [projectrelic](https://ransomwatch.telemetry.ltd/#/profiles?id=projectrelic) | Project Relic. Dumps, leaks, news, announcements | 🔴 | 2023-06-03 | relic5zqwemjnu4veilml6prgyedj6phs7de3udhicuq53z37klxm6qd.onion |
 | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) | PLAY NEWS | 🔴 | 2026-01-14 | k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion |
-| [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) | PLAY NEWS | 🔴 | 2026-01-14 | mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion |
+| [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) | PLAY NEWS | 🟢 |  | mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion |
 | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) | PLAY NEWS | 🔴 | 2024-12-30 | k7kg3jqzffsxe2z53jjx4goybvxu3a557kpsqakpwi6mrvfgcdo55tid.onion |
 | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) | PLAY NEWS | 🟢 |  | ipi4tiumgzjsym6pyuzrfqrtwskokxokqannmd6sa24shvr7x5kxdvqd.onion |
 | [dataleak](https://ransomwatch.telemetry.ltd/#/profiles?id=dataleak) | DataLeak | 🔴 | 2023-02-22 | woqjumaahi662ka26jzxyx7fznbp4kg3bsjar4b52tqkxgm2pylcjlad.onion |
@@ -483,7 +483,7 @@
 | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) | Helldown Leaks | 🔴 | 2024-08-24 | onyxcgfg4pjevvp5h34zvhaj45kbft3dg5r33j5vu3nyp7xic3vrzvad.onion |
 | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) | Helldown Leaks | 🔴 | 2024-11-21 | onyxcym4mjilrsptk5uo2dhesbwntuban55mvww2olk5ygqafhu3i3yd.onion |
 | [orca](https://ransomwatch.telemetry.ltd/#/profiles?id=orca) | Leaks | 🔴 | 2026-01-07 | orca66hwnpciepupe5626k2ib6dds6zizjwuuashz67usjps2wehz4id.onion |
-| [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) | NitroBlog | 🟢 |  | nitrogenczslprh3xyw6lh5xyjvmsz7ciljoqxxknd7uymkfetfhgvqd.onion |
+| [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) | NitroBlog | 🔴 | 2026-01-14 | nitrogenczslprh3xyw6lh5xyjvmsz7ciljoqxxknd7uymkfetfhgvqd.onion |
 | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) | Sarcoma Group | 🟢 |  | sarcomawmawlhov7o5mdhz4eszxxlkyaoiyiy2b5iwxnds2dmb4jakad.onion |
 | [interlock](https://ransomwatch.telemetry.ltd/#/profiles?id=interlock) | Interlock | 🟢 |  | ebhmkoohccl45qesdbvrjqtyro2hmhkmh6vkyfyjjzfllm3ix72aqaid.onion |
 | [hellcat](https://ransomwatch.telemetry.ltd/#/profiles?id=hellcat) | This Hidden Service Has Been Seized | 🔴 | 2025-11-19 | hellcakbszllztlyqbjzwcbdhfrodx55wq77kmftp4bhnhsnn5r3odad.onion |
