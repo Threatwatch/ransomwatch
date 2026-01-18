@@ -271,7 +271,8 @@ iframe {
     padding-top: 5px;
     height: 25px;
 }
-</style>    <meta name="description" content="Dit domein kan te koop zijn!" />
+</style>    <meta name="description" content="Diese Domain steht zum Verkauf!" />
+<meta name="og:description" content="Krypto-Staking-Plattform,dezentrale Finanzkennzahlen,Blockchain-Smart-Contract-Ertragslandwirtschaft" />
     <style>
 
         :root {
@@ -348,7 +349,7 @@ iframe {
             var iframe = document.createElement('iframe');
             iframe.id = 'iframe';
             iframe.frameBorder = '0';
-            iframe.src = "http://yfdpco3.com/sk-park.php?pid=9PO15V947&dn=0mega.cc&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+rv%3A109.0%29+Gecko%2F20100101+Firefox%2F115.0&requrl=http%3A%2F%2Fww38.0mega.cc%2F%3Fsubid1%3D20260118-0923-5537-9db5-ee327c954613";
+            iframe.src = "http://yfdpco3.com/sk-park.php?pid=9PO15V947&dn=0mega.cc&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+rv%3A109.0%29+Gecko%2F20100101+Firefox%2F115.0&requrl=http%3A%2F%2Fww38.0mega.cc%2F%3Fsubid1%3D20260118-1157-294b-b4eb-03b77c04347a";
             // apply any classes or styles you need
             iframe.style.display = 'block';
             // append into the content container
@@ -368,22 +369,48 @@ iframe {
         Array.from(document.getElementsByTagName('iframe')).forEach((iframe) => iframe.remove());
     };
 </script>
-<script type="text/javascript">
-var ls = function(xhr, token) {
-    xhr.onreadystatechange = function () {
-        if (xhr.readyState === XMLHttpRequest.DONE) {
-            if (xhr.status < 200 || xhr.status >= 400) {
-                console.log('There was a problem with the request.');
-            }
-            
-            if (typeof window.onRTBFailure === 'function') { window.onRTBFailure(); }
+<script type='text/javascript'>
+fetch('/rhea?dune=eyJhbGciOiJBMTI4S1ciLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0.ktBSoPPgZFu-xKQU4PmIsu3IQCwIQlt4Th53FQHUSum2dlPWad5G5g.K0E78Kip8N0pFF5sP4bF6A.xyt04FczjsmXnaJxovu6a2fH8Yp7iidlCGU9OjGHRw1DtOvmLD1kt1JHh1K70Oh5WJfbPX93pymmQb8LDNm7nmajUOrHf1y26_O8yEQm9jLgy9E1N_zxtxfLJ0dce2RR8v6MnJPQfzbEmLo2V9CgnGe_4mfkEPEJpF-MqtlIwQFbngSkHWE7G7-2WWNh1ozVZrMJ5s-U2y0y2eaL3qvGj4o-dN8ZRszSKMJwMORsc_v5Q-RaK5CPxjg293oUiL8rEpGdmEeMKW9KjdW4l3iaet0Gx0OIJb7fziy9hYRSn8nEvu_K-VSw9AUGcek5-XB1.p-FjND-jwVfQGYcFy5QSpA&t=696c2ffa&token=ff393e9f05b298fb333e9f9550c73bf4686d91b0')
+    .then(async response => {
+        if (!response.ok && response.status >= 400) {
+            throw new Error('Network response was not ok: ' + response.statusText);
         }
-    }
-    
-    xhr.open('GET', '/munin/a/l' + 's?t=696c0bfc&token=' + encodeURI(token), true);
-    xhr.send();
-};
-ls(new XMLHttpRequest(), '866655ecdb28fdd9db7cea98292c0fcd17581b53');
+        if (response.status === 204) {
+            window.onRTBFailure();
+            return null;
+        }
+        return JSON.parse(await response.text());
+    })
+    .then(data => {
+        if (data && data.length > 0) {
+            var html = '';
+            data.forEach(function (item) {
+                var link = document.createElement('a');
+                link.href = item.location;
+                link.className = 'fallback-term-link';
+            
+                var span = document.createElement('span');
+                span.textContent = item.keyword;  // textContent prevents XSS
+                link.appendChild(span);
+                
+                html += link.outerHTML;
+            });
+            
+            document.getElementById('fallbackTerms').innerHTML = html;
+            document.getElementById('keywords-template').style.display = 'block';
+            
+            if (typeof window.onRTBSuccess === 'function') {
+                window.onRTBSuccess(data);
+            }
+        } else {
+            window.onRTBFailure();
+            console.log(data);
+        }
+    })
+    .catch(error => {
+        console.error(error);
+        window.onRTBFailure();
+    });
 </script>
 
 <div>
@@ -421,7 +448,7 @@ ls(new XMLHttpRequest(), '866655ecdb28fdd9db7cea98292c0fcd17581b53');
 
 <div id="sale_link" class="sale_link">
 			<a href="https://www.above.com/marketplace/0mega.cc" target="_blank">
-			Koop dit domein.
+			Diese Domain kaufen.
 	</a>
 </div>
 </div>
@@ -641,7 +668,7 @@ h1 {
         </div>
     </div>
 </div>
-<script async src='https://euob.youstarsbuilding.com/sxp/i/636f8b858f681acb7bfa6f583a96630a.js' data-ch='AdsDeli - iFrame' data-uvid="866655ecdb28fdd9db7cea98292c0fcd17581b53" class='ct_clicktrue_92098' data-jsonp="onCheqResponse"></script>
+<script async src='https://euob.youstarsbuilding.com/sxp/i/636f8b858f681acb7bfa6f583a96630a.js' data-ch='AdsDeli - iFrame' data-uvid="ff393e9f05b298fb333e9f9550c73bf4686d91b0" class='ct_clicktrue_92098' data-jsonp="onCheqResponse"></script>
 <noscript>
     <iframe src='https://obseu.youstarsbuilding.com/ns/636f8b858f681acb7bfa6f583a96630a.html?ch=AdsDeli%20-%20iFrame' width='0' height='0' style='display:none'></iframe>
 </noscript></body>
