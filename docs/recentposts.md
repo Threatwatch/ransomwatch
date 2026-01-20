@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-20 | [`Raymundos Food Group`](https://google.com/search?q=Raymundos+Food+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-20 | [`Eastern Ice`](https://google.com/search?q=Eastern+Ice) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-20 | [`Sandberg`](https://google.com/search?q=Sandberg) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-19 | [` Whitfield Welding Inc `](https://google.com/search?q=+Whitfield+Welding+Inc+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-11-21 | [`N C Machinery`](https://google.com/search?q=N+C+Machinery) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-20 | [`Highmark Companies`](https://google.com/search?q=Highmark+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-20 | [`Artesian Insurance`](https://google.com/search?q=Artesian+Insurance) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-11-20 | [`Applied Energy Systems`](https://google.com/search?q=Applied+Energy+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
