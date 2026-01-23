@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-23 | [`Encore Roofing`](https://google.com/search?q=Encore+Roofing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-23 | [`Warren County Sheriff’s Office`](https://google.com/search?q=Warren+County+Sheriff%E2%80%99s+Office) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-01-23 | [`goldair.gr`](https://google.com/search?q=goldair.gr) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-23 | [`OAB`](https://google.com/search?q=OAB) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-11-24 | [`Swedish Arts Council`](https://google.com/search?q=Swedish+Arts+Council) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-24 | [`Collge Superieur De Montreal`](https://google.com/search?q=Collge+Superieur+De+Montreal) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-11-22 | [`10 corpses`](https://google.com/search?q=10+corpses) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2025-11-22 | [`Turkstra Trusses`](https://google.com/search?q=Turkstra+Trusses) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
