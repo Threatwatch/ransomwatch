@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-26 | [`[Apple Data, Additional evidence]Luxshare Precision Industry Co. Ltd.`](https://google.com/search?q=%5BApple+Data%2C+Additional+evidence%5DLuxshare+Precision+Industry+Co.+Ltd.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-01-26 | [`ALLMAX`](https://google.com/search?q=ALLMAX) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-26 | [`sitoy.com`](https://google.com/search?q=sitoy.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2026-01-25 | [`Handala New Account &#8211; Sunset of the lions`](https://google.com/search?q=Handala+New+Account+%26%238211%3B+Sunset+of+the+lions) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-11-26 | [`ADC Aerospace`](https://google.com/search?q=ADC+Aerospace) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-26 | [`ITL Systemhaus`](https://google.com/search?q=ITL+Systemhaus) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-25 | [`cryopur.com`](https://google.com/search?q=cryopur.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-11-25 | [`Schmidt's`](https://google.com/search?q=Schmidt%27s) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
