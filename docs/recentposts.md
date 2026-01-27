@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-27 | [`F&B Mfg`](https://google.com/search?q=F%26B+Mfg) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-27 | [`Christine London`](https://google.com/search?q=Christine+London) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-26 | [`Aquatic Control`](https://google.com/search?q=Aquatic+Control) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-26 | [`[Apple Data, Additional evidence]Luxshare Precision Industry Co. Ltd.`](https://google.com/search?q=%5BApple+Data%2C+Additional+evidence%5DLuxshare+Precision+Industry+Co.+Ltd.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-11-27 | [`PFMI`](https://google.com/search?q=PFMI) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-26 | [`FIT`](https://google.com/search?q=FIT) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-26 | [`AGS`](https://google.com/search?q=AGS) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-11-26 | [`ADC Aerospace`](https://google.com/search?q=ADC+Aerospace) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
