@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-27 | [`Tele Plus`](https://google.com/search?q=Tele+Plus) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-27 | [`Routten & Laster Law`](https://google.com/search?q=Routten+%26+Laster+Law) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-27 | [`Quantum Fuel Systems Technologies`](https://google.com/search?q=Quantum+Fuel+Systems+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-27 | [`Joyva`](https://google.com/search?q=Joyva) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-12-01 | [`Soderstrom Architects, LTD`](https://google.com/search?q=Soderstrom+Architects%2C+LTD) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-29 | [`Dr. Isaac Gertz – Chief Nuclear Architect of the Zion Regime`](https://google.com/search?q=Dr.+Isaac+Gertz+%E2%80%93+Chief+Nuclear+Architect+of+the+Zion+Regime) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-11-29 | [`8200 Unit corpses`](https://google.com/search?q=8200+Unit+corpses) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2025-11-29 | [`vviewisd.net`](https://google.com/search?q=vviewisd.net) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
