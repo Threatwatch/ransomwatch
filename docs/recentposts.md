@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-28 | [`DeRenzis & Associates`](https://google.com/search?q=DeRenzis+%26+Associates) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-28 | [`Callagy Law Firm`](https://google.com/search?q=Callagy+Law+Firm) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-27 | [`shawhillprimaryschool.org.uk`](https://google.com/search?q=shawhillprimaryschool.org.uk) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-27 | [`newkirklaw.com`](https://google.com/search?q=newkirklaw.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-12-02 | [`South Island Public Service District`](https://google.com/search?q=South+Island+Public+Service+District) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-02 | [`Hall Aluminum Products`](https://google.com/search?q=Hall+Aluminum+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-02 | [`Clark & Sullivan Constructors`](https://google.com/search?q=Clark+%26+Sullivan+Constructors) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-12-01 | [`Aspen Distribution`](https://google.com/search?q=Aspen+Distribution) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
