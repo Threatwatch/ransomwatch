@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-28 | [`Family Partnerships of Central Florida`](https://google.com/search?q=Family+Partnerships+of+Central+Florida) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2026-01-28 | [`ttmet.co.th`](https://google.com/search?q=ttmet.co.th) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-28 | [`nbccministries.org`](https://google.com/search?q=nbccministries.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-28 | [`anagnosdoor.com`](https://google.com/search?q=anagnosdoor.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-12-02 | [`American Pools & Spas`](https://google.com/search?q=American+Pools+%26+Spas) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-02 | [`[EVIDENCE PACK 3]ASKUL`](https://google.com/search?q=%5BEVIDENCE+PACK+3%5DASKUL) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-12-02 | [`oxfordshop.com.au`](https://google.com/search?q=oxfordshop.com.au) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-12-02 | [`Cleveland County Sheriff's Office`](https://google.com/search?q=Cleveland+County+Sheriff%27s+Office) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
