@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-29 | [` QualiChem Metalworking `](https://google.com/search?q=+QualiChem+Metalworking+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-01-29 | [`distinctive-systems.com`](https://google.com/search?q=distinctive-systems.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-28 | [` Durashiloh `](https://google.com/search?q=+Durashiloh+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-01-28 | [` Connor Co `](https://google.com/search?q=+Connor+Co+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-12-03 | [`instyle.com.au`](https://google.com/search?q=instyle.com.au) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-03 | [`www.precipiodx.com`](https://google.com/search?q=www.precipiodx.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-02 | [`www.marvimundo.com`](https://google.com/search?q=www.marvimundo.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-12-02 | [`n`](https://google.com/search?q=n) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
