@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-02-01 | [`Hawk Law Group`](https://google.com/search?q=Hawk+Law+Group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-31 | [`Transaction Packing`](https://google.com/search?q=Transaction+Packing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-31 | [`NAI Plotkin`](https://google.com/search?q=NAI+Plotkin) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-31 | [`Bar S Services`](https://google.com/search?q=Bar+S+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-12-05 | [` Golden Artist Colors `](https://google.com/search?q=+Golden+Artist+Colors+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-12-05 | [`AvtechTyee `](https://google.com/search?q=AvtechTyee+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-12-05 | [`new blog domain lockbit 5.0`](https://google.com/search?q=new+blog+domain+lockbit+5.0) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2025-12-05 | [`Slimsoft`](https://google.com/search?q=Slimsoft) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
