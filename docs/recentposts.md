@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-02-03 | [`Connor Co `](https://google.com/search?q=Connor+Co+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-02-02 | [`www.pucobre.cl`](https://google.com/search?q=www.pucobre.cl) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-02 | [`ChokChey Finance`](https://google.com/search?q=ChokChey+Finance) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-02 | [`Elabs`](https://google.com/search?q=Elabs) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-12-08 | [`Foxconn Interconnect Technology Limited (FIT)`](https://google.com/search?q=Foxconn+Interconnect+Technology+Limited+%28FIT%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-08 | [`Comcast`](https://google.com/search?q=Comcast) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-12-07 | [`YAZAKI Corp`](https://google.com/search?q=YAZAKI+Corp) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-12-07 | [`Kane's Furniture`](https://google.com/search?q=Kane%27s+Furniture) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
