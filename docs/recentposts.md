@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-02-07 | [`Carlton Scale`](https://google.com/search?q=Carlton+Scale) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-07 | [`Bloom's Bus Lines`](https://google.com/search?q=Bloom%27s+Bus+Lines) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-07 | [`Leading Edge Speciali`](https://google.com/search?q=Leading+Edge+Speciali) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-02-06 | [`Associated Endocrinologists`](https://google.com/search?q=Associated+Endocrinologists) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-12-13 | [`Eastman Cooke`](https://google.com/search?q=Eastman+Cooke) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-13 | [`Choates HVAC`](https://google.com/search?q=Choates+HVAC) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-13 | [`***** ***********`](https://google.com/search?q=%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-12-13 | [`Targets Locked: The Minds Behind Arrow and David’s Sling Are Revealed`](https://google.com/search?q=Targets+Locked%3A+The+Minds+Behind+Arrow+and+David%E2%80%99s+Sling+Are+Revealed) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
