@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-02-08 | [`ESS Metron`](https://google.com/search?q=ESS+Metron) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-07 | [`De Gruyter Brill`](https://google.com/search?q=De+Gruyter+Brill) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-07 | [`Carlton Scale`](https://google.com/search?q=Carlton+Scale) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-07 | [`Bloom's Bus Lines`](https://google.com/search?q=Bloom%27s+Bus+Lines) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-12-13 | [`Viga Eatery`](https://google.com/search?q=Viga+Eatery) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-13 | [`Jabezco Industrial Group`](https://google.com/search?q=Jabezco+Industrial+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-13 | [`Eastman Cooke`](https://google.com/search?q=Eastman+Cooke) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-12-13 | [`Choates HVAC`](https://google.com/search?q=Choates+HVAC) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
