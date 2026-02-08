@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-02-08 | [`KaiserAir`](https://google.com/search?q=KaiserAir) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-08 | [`Ilderton Contracting`](https://google.com/search?q=Ilderton+Contracting) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-08 | [`ESS Metron`](https://google.com/search?q=ESS+Metron) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-07 | [`De Gruyter Brill`](https://google.com/search?q=De+Gruyter+Brill) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-12-15 | [`steelworksinc.ca`](https://google.com/search?q=steelworksinc.ca) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-15 | [`cityofsignalhill.org`](https://google.com/search?q=cityofsignalhill.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-13 | [`Viga Eatery`](https://google.com/search?q=Viga+Eatery) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-12-13 | [`Jabezco Industrial Group`](https://google.com/search?q=Jabezco+Industrial+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
