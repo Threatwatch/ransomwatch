@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-02-14 | [`UCG Associates `](https://google.com/search?q=UCG+Associates+) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-13 | [`Lusamerica Foods`](https://google.com/search?q=Lusamerica+Foods) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-13 | [`Heartland Title Services`](https://google.com/search?q=Heartland+Title+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-13 | [`HMA`](https://google.com/search?q=HMA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-12-19 | [`eagrealtyinternational.com`](https://google.com/search?q=eagrealtyinternational.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-19 | [`glasserstv.com`](https://google.com/search?q=glasserstv.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-19 | [`Larry Pitt & Associates`](https://google.com/search?q=Larry+Pitt+%26+Associates) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-12-19 | [`Lawsoft`](https://google.com/search?q=Lawsoft) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
