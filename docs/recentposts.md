@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-02-17 | [`Hiwassee Builder Supply`](https://google.com/search?q=Hiwassee+Builder+Supply) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-16 | [`Darma Henwa`](https://google.com/search?q=Darma+Henwa) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-02-16 | [`Sitran MG`](https://google.com/search?q=Sitran+MG) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-02-16 | [`ACS Accountancy`](https://google.com/search?q=ACS+Accountancy) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-12-24 | [`[DISCLOSED] Diaz Gill Medicina Laboratorial S.A.`](https://google.com/search?q=%5BDISCLOSED%5D+Diaz+Gill+Medicina+Laboratorial+S.A.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-12-24 | [`WSI`](https://google.com/search?q=WSI) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-24 | [`Autohaus Elstermann`](https://google.com/search?q=Autohaus+Elstermann) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-12-22 | [`Assolim`](https://google.com/search?q=Assolim) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
