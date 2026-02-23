@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-02-23 | [`Gulfstream Services`](https://google.com/search?q=Gulfstream+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-22 | [`Faulkner+Locke`](https://google.com/search?q=Faulkner%2BLocke) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-22 | [`Chemical Computing Group`](https://google.com/search?q=Chemical+Computing+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-22 | [`Atlantic Design Engineers`](https://google.com/search?q=Atlantic+Design+Engineers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-01-03 | [`Handala Alert: Amplifying the Voice of Resistance`](https://google.com/search?q=Handala+Alert%3A+Amplifying+the+Voice+of+Resistance) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-01-03 | [`Wardell Builders`](https://google.com/search?q=Wardell+Builders) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-02 | [`Stoughton Steel`](https://google.com/search?q=Stoughton+Steel) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-01-02 | [`Rockport Technology Group`](https://google.com/search?q=Rockport+Technology+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
