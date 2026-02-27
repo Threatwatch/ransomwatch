@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-02-27 | [`Lymphedema Therapy Specialists`](https://google.com/search?q=Lymphedema+Therapy+Specialists) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-27 | [`Neinver`](https://google.com/search?q=Neinver) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-02-27 | [`Accelerated Services`](https://google.com/search?q=Accelerated+Services) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-02-27 | [`Law Offices Taenzer & Ettenson, P.C. (tesalaw.com)`](https://google.com/search?q=Law+Offices+Taenzer+%26+Ettenson%2C+P.C.+%28tesalaw.com%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-01-13 | [`stimgroup`](https://google.com/search?q=stimgroup) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-13 | [`Rodney's Sign Company`](https://google.com/search?q=Rodney%27s+Sign+Company) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-13 | [`Fit-Line Global`](https://google.com/search?q=Fit-Line+Global) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-13 | [`Cape Fear Country Club`](https://google.com/search?q=Cape+Fear+Country+Club) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
