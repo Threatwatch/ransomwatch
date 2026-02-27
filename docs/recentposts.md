@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-02-27 | [`Tract Consulting`](https://google.com/search?q=Tract+Consulting) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-27 | [`Landmark Rehab Group`](https://google.com/search?q=Landmark+Rehab+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-26 | [`Integrity Building`](https://google.com/search?q=Integrity+Building) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-26 | [`BT Services`](https://google.com/search?q=BT+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-01-10 | [`Launie & Marino`](https://google.com/search?q=Launie+%26+Marino) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-10 | [`Denny's 5th Avenue Bakery`](https://google.com/search?q=Denny%27s+5th+Avenue+Bakery) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-10 | [`Foshee Architecture`](https://google.com/search?q=Foshee+Architecture) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-10 | [`CompactInd`](https://google.com/search?q=CompactInd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
