@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-02-28 | [`Insight Hospital and Medical Center Chicago`](https://google.com/search?q=Insight+Hospital+and+Medical+Center+Chicago) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2026-02-27 | [`en.yofc.com`](https://google.com/search?q=en.yofc.com) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
 | 2026-02-27 | [`Lymphedema Therapy Specialists`](https://google.com/search?q=Lymphedema+Therapy+Specialists) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-27 | [`Neinver`](https://google.com/search?q=Neinver) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-01-13 | [`Ju Teng International Holdings Ltd`](https://google.com/search?q=Ju+Teng+International+Holdings+Ltd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-13 | [`gbmme.com`](https://google.com/search?q=gbmme.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-13 | [`stimgroup`](https://google.com/search?q=stimgroup) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-13 | [`Rodney's Sign Company`](https://google.com/search?q=Rodney%27s+Sign+Company) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
