@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-01 | [`abramssales.com`](https://google.com/search?q=abramssales.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-28 | [`https://www.pyramisgroup.com`](https://google.com/search?q=https%3A%2F%2Fwww.pyramisgroup.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2026-02-28 | [`Insight Hospital and Medical Center Chicago`](https://google.com/search?q=Insight+Hospital+and+Medical+Center+Chicago) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2026-02-27 | [`en.yofc.com`](https://google.com/search?q=en.yofc.com) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-01-14 | [`https://acswinc.com/`](https://google.com/search?q=https%3A%2F%2Facswinc.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-14 | [`https://bellowsmfg.com/company/`](https://google.com/search?q=https%3A%2F%2Fbellowsmfg.com%2Fcompany%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-13 | [`Ju Teng International Holdings Ltd`](https://google.com/search?q=Ju+Teng+International+Holdings+Ltd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-13 | [`gbmme.com`](https://google.com/search?q=gbmme.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
