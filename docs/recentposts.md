@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-02 | [`Israel Opportunity Energy Hacked`](https://google.com/search?q=Israel+Opportunity+Energy+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-03-02 | [`Southold Town Senior Services`](https://google.com/search?q=Southold+Town+Senior+Services) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-03-02 | [`lke-group.com`](https://google.com/search?q=lke-group.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-02 | [`http://ramet-trom.co.il/`](https://google.com/search?q=http%3A%2F%2Framet-trom.co.il%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-01-18 | [`Avraham Hayyim ( Mehrdad Rahimi ) Hacked &#8211; Mossad Agent`](https://google.com/search?q=Avraham+Hayyim+%28+Mehrdad+Rahimi+%29+Hacked+%26%238211%3B+Mossad+Agent) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-01-16 | [`tni.mil.id`](https://google.com/search?q=tni.mil.id) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-01-16 | [`ecsc.org`](https://google.com/search?q=ecsc.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-16 | [`cirrusaviation`](https://google.com/search?q=cirrusaviation) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
