@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-02 | [`https://www.precisioncoating.com/`](https://google.com/search?q=https%3A%2F%2Fwww.precisioncoating.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-02 | [`Martin, Cukjati & Tom, LLP`](https://google.com/search?q=Martin%2C+Cukjati+%26+Tom%2C+LLP) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-02 | [`Israel Opportunity Energy Hacked`](https://google.com/search?q=Israel+Opportunity+Energy+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-03-02 | [`Southold Town Senior Services`](https://google.com/search?q=Southold+Town+Senior+Services) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-01-18 | [`Southern Alberta Community Living Association`](https://google.com/search?q=Southern+Alberta+Community+Living+Association) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-18 | [`MKC Customs Brokers International Inc.`](https://google.com/search?q=MKC+Customs+Brokers+International+Inc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-18 | [`Avraham Hayyim ( Mehrdad Rahimi ) Hacked &#8211; Mossad Agent`](https://google.com/search?q=Avraham+Hayyim+%28+Mehrdad+Rahimi+%29+Hacked+%26%238211%3B+Mossad+Agent) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2026-01-16 | [`tni.mil.id`](https://google.com/search?q=tni.mil.id) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
