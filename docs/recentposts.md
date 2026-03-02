@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-02 | [`Southold Town Senior Services`](https://google.com/search?q=Southold+Town+Senior+Services) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-03-02 | [`lke-group.com`](https://google.com/search?q=lke-group.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-02 | [`http://ramet-trom.co.il/`](https://google.com/search?q=http%3A%2F%2Framet-trom.co.il%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-01 | [`denmark.k12.wi.us`](https://google.com/search?q=denmark.k12.wi.us) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-01-16 | [`tni.mil.id`](https://google.com/search?q=tni.mil.id) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-01-16 | [`ecsc.org`](https://google.com/search?q=ecsc.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-16 | [`cirrusaviation`](https://google.com/search?q=cirrusaviation) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-15 | [`https://trustarholdingsllc.com/ https://vistlabs.com/`](https://google.com/search?q=https%3A%2F%2Ftrustarholdingsllc.com%2F+https%3A%2F%2Fvistlabs.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
