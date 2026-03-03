@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-03 | [`Equine Canada`](https://google.com/search?q=Equine+Canada) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-03 | [`maisonlaw.com`](https://google.com/search?q=maisonlaw.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-03 | [`mcfirm.com`](https://google.com/search?q=mcfirm.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-03 | [`WCC Technologies Group`](https://google.com/search?q=WCC+Technologies+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-01-21 | [`Ignite Chaos at Your Own Risk: i24 Channel Hacked`](https://google.com/search?q=Ignite+Chaos+at+Your+Own+Risk%3A+i24+Channel+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-01-21 | [`Jet-care International`](https://google.com/search?q=Jet-care+International) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-01-20 | [`Riverwood Golf Club`](https://google.com/search?q=Riverwood+Golf+Club) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-01-20 | [`Release Marine`](https://google.com/search?q=Release+Marine) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
