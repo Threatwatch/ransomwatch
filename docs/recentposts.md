@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-04 | [`Hersher Law`](https://google.com/search?q=Hersher+Law) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-03 | [`Brockman Injury Lawyer`](https://google.com/search?q=Brockman+Injury+Lawyer) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-03 | [`GapVax`](https://google.com/search?q=GapVax) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-03 | [`Equine Canada`](https://google.com/search?q=Equine+Canada) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-01-22 | [`Midway Windows and Doors`](https://google.com/search?q=Midway+Windows+and+Doors) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-21 | [`Cemtech`](https://google.com/search?q=Cemtech) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-21 | [`CE Electronics`](https://google.com/search?q=CE+Electronics) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-01-21 | [`Ignite Chaos at Your Own Risk: i24 Channel Hacked`](https://google.com/search?q=Ignite+Chaos+at+Your+Own+Risk%3A+i24+Channel+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
