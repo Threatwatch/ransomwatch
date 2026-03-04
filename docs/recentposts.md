@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-04 | [`Law Offices of Mark E. Lewis & Associates`](https://google.com/search?q=Law+Offices+of+Mark+E.+Lewis+%26+Associates) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-04 | [`Hopkins Law`](https://google.com/search?q=Hopkins+Law) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-04 | [`Hersher Law`](https://google.com/search?q=Hersher+Law) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-03 | [`Brockman Injury Lawyer`](https://google.com/search?q=Brockman+Injury+Lawyer) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-01-22 | [`California Tax Data`](https://google.com/search?q=California+Tax+Data) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-22 | [`Elmore Goldsmith Kelley & deHoll`](https://google.com/search?q=Elmore+Goldsmith+Kelley+%26+deHoll) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-22 | [`Midway Windows and Doors`](https://google.com/search?q=Midway+Windows+and+Doors) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-01-21 | [`Cemtech`](https://google.com/search?q=Cemtech) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
