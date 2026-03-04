@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-04 | [`The City of Hesperia, CA`](https://google.com/search?q=The+City+of+Hesperia%2C+CA) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-04 | [`https://mpapharma.com`](https://google.com/search?q=https%3A%2F%2Fmpapharma.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2026-03-04 | [`www.chrishudsonlaw.com`](https://google.com/search?q=www.chrishudsonlaw.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-04 | [`Napolin Law Firm`](https://google.com/search?q=Napolin+Law+Firm) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-01-23 | [`Warren County Sheriff’s Office`](https://google.com/search?q=Warren+County+Sheriff%E2%80%99s+Office) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-01-23 | [`goldair.gr`](https://google.com/search?q=goldair.gr) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-23 | [`OAB`](https://google.com/search?q=OAB) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-23 | [`minorsgardencenter.com`](https://google.com/search?q=minorsgardencenter.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
