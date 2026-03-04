@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-04 | [`lawofficesoferichershler.com`](https://google.com/search?q=lawofficesoferichershler.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-04 | [`hopkins-law.com`](https://google.com/search?q=hopkins-law.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-04 | [`cwpa.com`](https://google.com/search?q=cwpa.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-04 | [`brockmaninjurylawyer.com`](https://google.com/search?q=brockmaninjurylawyer.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-01-25 | [`Handala New Account &#8211; Sunset of the lions`](https://google.com/search?q=Handala+New+Account+%26%238211%3B+Sunset+of+the+lions) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-01-25 | [`Cytek Biosciences`](https://google.com/search?q=Cytek+Biosciences) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-01-23 | [`tob-bmw.sk`](https://google.com/search?q=tob-bmw.sk) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-23 | [`TREC Group`](https://google.com/search?q=TREC+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
