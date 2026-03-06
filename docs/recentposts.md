@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-06 | [`DFW Aero Mechanix`](https://google.com/search?q=DFW+Aero+Mechanix) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-06 | [`IDF in Farsi Hacked`](https://google.com/search?q=IDF+in+Farsi+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-03-06 | [`Sanzer Hasidic community Hacked`](https://google.com/search?q=Sanzer+Hasidic+community+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-03-06 | [`Sharjah National Oil Corporation Hacked`](https://google.com/search?q=Sharjah+National+Oil+Corporation+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-01-27 | [`The Sourcing Group`](https://google.com/search?q=The+Sourcing+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-27 | [`Tele Plus`](https://google.com/search?q=Tele+Plus) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-27 | [`Routten & Laster Law`](https://google.com/search?q=Routten+%26+Laster+Law) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-01-27 | [`Quantum Fuel Systems Technologies`](https://google.com/search?q=Quantum+Fuel+Systems+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
