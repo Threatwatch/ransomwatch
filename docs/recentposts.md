@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-08 | [`Byard F Brogan`](https://google.com/search?q=Byard+F+Brogan) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-08 | [`Contact Handala`](https://google.com/search?q=Contact+Handala) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-03-07 | [`Handala New Telegram`](https://google.com/search?q=Handala+New+Telegram) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-03-07 | [`City of Huntington`](https://google.com/search?q=City+of+Huntington) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-01-28 | [`anagnosdoor.com`](https://google.com/search?q=anagnosdoor.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-28 | [`LGBTQ Center Orange county`](https://google.com/search?q=LGBTQ+Center+Orange+county) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-28 | [`DeRenzis & Associates`](https://google.com/search?q=DeRenzis+%26+Associates) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-28 | [`Callagy Law Firm`](https://google.com/search?q=Callagy+Law+Firm) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
