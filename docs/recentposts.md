@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-09 | [`Infinity Systems`](https://google.com/search?q=Infinity+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-08 | [`Helen Kaminski`](https://google.com/search?q=Helen+Kaminski) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-08 | [`Facilities USA`](https://google.com/search?q=Facilities+USA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-08 | [`Byard F Brogan`](https://google.com/search?q=Byard+F+Brogan) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-01-28 | [`Family Partnerships of Central Florida`](https://google.com/search?q=Family+Partnerships+of+Central+Florida) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2026-01-28 | [`ttmet.co.th`](https://google.com/search?q=ttmet.co.th) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-28 | [`nbccministries.org`](https://google.com/search?q=nbccministries.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-28 | [`anagnosdoor.com`](https://google.com/search?q=anagnosdoor.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
