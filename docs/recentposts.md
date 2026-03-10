@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-10 | [`Estra Automotive`](https://google.com/search?q=Estra+Automotive) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-09 | [`arbd.com`](https://google.com/search?q=arbd.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-09 | [`altaortho.com`](https://google.com/search?q=altaortho.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-09 | [`Israeli Weather Stations Crippled`](https://google.com/search?q=Israeli+Weather+Stations+Crippled) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-01-29 | [`MACT Health Board`](https://google.com/search?q=MACT+Health+Board) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-01-29 | [`[Weapons License] Warren County Sheriff’s Office`](https://google.com/search?q=%5BWeapons+License%5D+Warren+County+Sheriff%E2%80%99s+Office) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-01-29 | [` QualiChem Metalworking `](https://google.com/search?q=+QualiChem+Metalworking+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2026-01-29 | [`distinctive-systems.com`](https://google.com/search?q=distinctive-systems.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
