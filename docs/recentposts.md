@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-17 | [`Knight's Site Services`](https://google.com/search?q=Knight%27s+Site+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-17 | [`Gsolutionz`](https://google.com/search?q=Gsolutionz) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-17 | [`isosl.be`](https://google.com/search?q=isosl.be) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-03-17 | [`Vahid Offline Members`](https://google.com/search?q=Vahid+Offline+Members) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-02-10 | [`PrintForm`](https://google.com/search?q=PrintForm) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-02-10 | [`moultriesheriff.com`](https://google.com/search?q=moultriesheriff.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-10 | [`Texcomp`](https://google.com/search?q=Texcomp) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2026-02-10 | [`Core Supply`](https://google.com/search?q=Core+Supply) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
