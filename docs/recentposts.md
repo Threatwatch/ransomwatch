@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-24 | [`Ascent Asset Group`](https://google.com/search?q=Ascent+Asset+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-24 | [`All Real Estate Title Solutions`](https://google.com/search?q=All+Real+Estate+Title+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-23 | [`Kiswire`](https://google.com/search?q=Kiswire) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-23 | [`JDV Products`](https://google.com/search?q=JDV+Products) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-02-12 | [`lohmann-tapes.com`](https://google.com/search?q=lohmann-tapes.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-12 | [`Phoenix Art Museum`](https://google.com/search?q=Phoenix+Art+Museum) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-02-12 | [`excavationtourigny.ca`](https://google.com/search?q=excavationtourigny.ca) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-02-12 | [`auxhomeservices.com`](https://google.com/search?q=auxhomeservices.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
