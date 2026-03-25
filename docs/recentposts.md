@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-25 | [`Capital Wholesale Drug`](https://google.com/search?q=Capital+Wholesale+Drug) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-24 | [`Block Engineering`](https://google.com/search?q=Block+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-24 | [`Ascent Asset Group`](https://google.com/search?q=Ascent+Asset+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-24 | [`All Real Estate Title Solutions`](https://google.com/search?q=All+Real+Estate+Title+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-02-12 | [`rswater.ae`](https://google.com/search?q=rswater.ae) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-12 | [`Midwestern Oil & Gas`](https://google.com/search?q=Midwestern+Oil+%26+Gas) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-12 | [`lohmann-tapes.com`](https://google.com/search?q=lohmann-tapes.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-02-12 | [`Phoenix Art Museum`](https://google.com/search?q=Phoenix+Art+Museum) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
