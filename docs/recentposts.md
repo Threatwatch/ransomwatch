@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-26 | [`2m.ma`](https://google.com/search?q=2m.ma) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-03-26 | [`TPIS Industrial Services`](https://google.com/search?q=TPIS+Industrial+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-26 | [`www.davidhelfandlaw.com`](https://google.com/search?q=www.davidhelfandlaw.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-26 | [`ETFSA`](https://google.com/search?q=ETFSA) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-02-16 | [`Sitran MG`](https://google.com/search?q=Sitran+MG) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-02-16 | [`ACS Accountancy`](https://google.com/search?q=ACS+Accountancy) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-16 | [`Ondine Biomedical`](https://google.com/search?q=Ondine+Biomedical) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-02-15 | [`Nang Kuang Pharmaceutical Co., Ltd.`](https://google.com/search?q=Nang+Kuang+Pharmaceutical+Co.%2C+Ltd.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
