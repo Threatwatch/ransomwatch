@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-27 | [`meridenct.gov`](https://google.com/search?q=meridenct.gov) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-27 | [`ires.ma`](https://google.com/search?q=ires.ma) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-03-27 | [`iam.ma`](https://google.com/search?q=iam.ma) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-03-26 | [`dpwh.gov.ph`](https://google.com/search?q=dpwh.gov.ph) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-02-17 | [`Kymco`](https://google.com/search?q=Kymco) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-02-17 | [`farbank.com (flywatertravel)`](https://google.com/search?q=farbank.com+%28flywatertravel%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-17 | [`Hiwassee Builder Supply`](https://google.com/search?q=Hiwassee+Builder+Supply) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-02-16 | [`Darma Henwa`](https://google.com/search?q=Darma+Henwa) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
