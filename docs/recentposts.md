@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-31 | [`Valley Plating Inc`](https://google.com/search?q=Valley+Plating+Inc) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-31 | [`Specflue`](https://google.com/search?q=Specflue) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-31 | [`Lucky Look`](https://google.com/search?q=Lucky+Look) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-31 | [`Kivells`](https://google.com/search?q=Kivells) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-02-19 | [`aircotedivoire.com`](https://google.com/search?q=aircotedivoire.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-19 | [`Valgo SA`](https://google.com/search?q=Valgo+SA) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-18 | [`DeWalch Technologies, Inc`](https://google.com/search?q=DeWalch+Technologies%2C+Inc) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2026-02-18 | [`[Internal database pack 4] Warren County Sheriff’s Office`](https://google.com/search?q=%5BInternal+database+pack+4%5D+Warren+County+Sheriff%E2%80%99s+Office) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
