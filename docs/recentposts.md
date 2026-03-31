@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-31 | [`domingogarcia.com`](https://google.com/search?q=domingogarcia.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-31 | [`delapazlaw.com`](https://google.com/search?q=delapazlaw.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-31 | [`barrypgoldberg.com`](https://google.com/search?q=barrypgoldberg.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-31 | [`Witt UK Group`](https://google.com/search?q=Witt+UK+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-02-19 | [`Arizona Lighting Sales`](https://google.com/search?q=Arizona+Lighting+Sales) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-19 | [`Spring Brook Country Club`](https://google.com/search?q=Spring+Brook+Country+Club) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-19 | [` PCCA `](https://google.com/search?q=+PCCA+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2026-02-19 | [` DeWalch Technologies, Inc `](https://google.com/search?q=+DeWalch+Technologies%2C+Inc+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
