@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-04-09 | [`asunim.co`](https://google.com/search?q=asunim.co) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-04-09 | [`centrum.sk`](https://google.com/search?q=centrum.sk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-04-08 | [`rxm.com.au`](https://google.com/search?q=rxm.com.au) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-08 | [`pacificwestinjury.com`](https://google.com/search?q=pacificwestinjury.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-02-24 | [`acwapower.com \ https://www.larsentoubro.com/`](https://google.com/search?q=acwapower.com+%5C+https%3A%2F%2Fwww.larsentoubro.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-23 | [`primepak.com`](https://google.com/search?q=primepak.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-23 | [`The City of Cocoa`](https://google.com/search?q=The+City+of+Cocoa) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-02-23 | [`QualiChem Metalworking`](https://google.com/search?q=QualiChem+Metalworking) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
