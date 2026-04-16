@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-04-16 | [`treelawoffice.com`](https://google.com/search?q=treelawoffice.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-14 | [`Asaniverko`](https://google.com/search?q=Asaniverko) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-04-14 | [`Ultimate Metals`](https://google.com/search?q=Ultimate+Metals) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-04-13 | [`whessoe.com.my`](https://google.com/search?q=whessoe.com.my) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-02-27 | [`Law Offices Taenzer & Ettenson, P.C. (tesalaw.com)`](https://google.com/search?q=Law+Offices+Taenzer+%26+Ettenson%2C+P.C.+%28tesalaw.com%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-27 | [`Empresa de Transportes Via Pajuçara Ltda.`](https://google.com/search?q=Empresa+de+Transportes+Via+Paju%C3%A7ara+Ltda.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-27 | [`https://daricon.com/ (military US/CA/NATO)`](https://google.com/search?q=https%3A%2F%2Fdaricon.com%2F+%28military+US%2FCA%2FNATO%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-02-27 | [`WE Fitness`](https://google.com/search?q=WE+Fitness) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
