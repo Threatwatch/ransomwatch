@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-04-17 | [`Mag. Fünder Hausverwaltungs GmbH`](https://google.com/search?q=Mag.+F%C3%BCnder+Hausverwaltungs+GmbH) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-17 | [`Winnitex (Americas) Limited`](https://google.com/search?q=Winnitex+%28Americas%29+Limited) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-04-17 | [`alupco.com`](https://google.com/search?q=alupco.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-17 | [`Millennium Dental Technologies`](https://google.com/search?q=Millennium+Dental+Technologies) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-02-28 | [`Insight Hospital and Medical Center Chicago`](https://google.com/search?q=Insight+Hospital+and+Medical+Center+Chicago) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2026-02-27 | [`en.yofc.com`](https://google.com/search?q=en.yofc.com) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
 | 2026-02-27 | [`Lymphedema Therapy Specialists`](https://google.com/search?q=Lymphedema+Therapy+Specialists) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-02-27 | [`Neinver`](https://google.com/search?q=Neinver) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
