@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-04-23 | [`trugreen.com`](https://google.com/search?q=trugreen.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-22 | [`teamster773.org`](https://google.com/search?q=teamster773.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-22 | [`krwlawyers.com`](https://google.com/search?q=krwlawyers.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-21 | [`Jiangsu Zenergy Battery Technologies Group Co., Ltd.`](https://google.com/search?q=Jiangsu+Zenergy+Battery+Technologies+Group+Co.%2C+Ltd.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-03-02 | [`lke-group.com`](https://google.com/search?q=lke-group.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-02 | [`http://ramet-trom.co.il/`](https://google.com/search?q=http%3A%2F%2Framet-trom.co.il%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-01 | [`denmark.k12.wi.us`](https://google.com/search?q=denmark.k12.wi.us) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-03-01 | [`abramssales.com`](https://google.com/search?q=abramssales.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
