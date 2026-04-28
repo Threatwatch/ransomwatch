@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-04-28 | [`sumacinc.com`](https://google.com/search?q=sumacinc.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-28 | [`Cybersecurity Vendor`](https://google.com/search?q=Cybersecurity+Vendor) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-04-27 | [`arrawdah.org.sa`](https://google.com/search?q=arrawdah.org.sa) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-04-27 | [`alx-pc.com`](https://google.com/search?q=alx-pc.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-03-03 | [`maisonlaw.com`](https://google.com/search?q=maisonlaw.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-03 | [`mcfirm.com`](https://google.com/search?q=mcfirm.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-03 | [`WCC Technologies Group`](https://google.com/search?q=WCC+Technologies+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-03-03 | [`The Kuker Group`](https://google.com/search?q=The+Kuker+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
