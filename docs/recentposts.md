@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-04-28 | [`ifmis.go.ke`](https://google.com/search?q=ifmis.go.ke) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-04-28 | [`www.durable-tech.com`](https://google.com/search?q=www.durable-tech.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-28 | [`grupo-principal.com`](https://google.com/search?q=grupo-principal.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-04-28 | [`dunav.com`](https://google.com/search?q=dunav.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-03-04 | [`Hopkins Law`](https://google.com/search?q=Hopkins+Law) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-04 | [`Hersher Law`](https://google.com/search?q=Hersher+Law) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-03 | [`Brockman Injury Lawyer`](https://google.com/search?q=Brockman+Injury+Lawyer) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-03-03 | [`GapVax`](https://google.com/search?q=GapVax) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
