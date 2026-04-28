@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-04-28 | [`medikaplaza.com`](https://google.com/search?q=medikaplaza.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-04-28 | [`jgpetrucci.com`](https://google.com/search?q=jgpetrucci.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-04-28 | [`ifmis.go.ke`](https://google.com/search?q=ifmis.go.ke) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-04-28 | [`www.durable-tech.com`](https://google.com/search?q=www.durable-tech.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-03-04 | [`Napolin Law Firm`](https://google.com/search?q=Napolin+Law+Firm) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-04 | [`Law Offices of Mark E. Lewis & Associates`](https://google.com/search?q=Law+Offices+of+Mark+E.+Lewis+%26+Associates) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-04 | [`Hopkins Law`](https://google.com/search?q=Hopkins+Law) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-03-04 | [`Hersher Law`](https://google.com/search?q=Hersher+Law) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
