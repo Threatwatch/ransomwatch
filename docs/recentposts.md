@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-04-29 | [`https://www.fulcrumre.com/`](https://google.com/search?q=https%3A%2F%2Fwww.fulcrumre.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-29 | [`nbd3pl.com`](https://google.com/search?q=nbd3pl.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-28 | [`medikaplaza.com`](https://google.com/search?q=medikaplaza.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-04-28 | [`jgpetrucci.com`](https://google.com/search?q=jgpetrucci.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-03-04 | [`https://mpapharma.com`](https://google.com/search?q=https%3A%2F%2Fmpapharma.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2026-03-04 | [`www.chrishudsonlaw.com`](https://google.com/search?q=www.chrishudsonlaw.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-04 | [`Napolin Law Firm`](https://google.com/search?q=Napolin+Law+Firm) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-03-04 | [`Law Offices of Mark E. Lewis & Associates`](https://google.com/search?q=Law+Offices+of+Mark+E.+Lewis+%26+Associates) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
