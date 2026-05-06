@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-05-06 | [`Aerodiagnostics`](https://google.com/search?q=Aerodiagnostics) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-05 | [`EXPEDITOR`](https://google.com/search?q=EXPEDITOR) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-05 | [`Erla Technologies SAS`](https://google.com/search?q=Erla+Technologies+SAS) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-05-05 | [`sanver.com.mx`](https://google.com/search?q=sanver.com.mx) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-03-05 | [`Atlas Insurances Ltd Hacked`](https://google.com/search?q=Atlas+Insurances+Ltd+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-03-05 | [`parkerlipman.com`](https://google.com/search?q=parkerlipman.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-05 | [`Israel Institute for National Security Studies (INSS) Hacked`](https://google.com/search?q=Israel+Institute+for+National+Security+Studies+%28INSS%29+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2026-03-05 | [`Aramco Hacked`](https://google.com/search?q=Aramco+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
