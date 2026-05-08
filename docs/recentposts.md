@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-05-08 | [`cmswpc.com`](https://google.com/search?q=cmswpc.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-08 | [`autorisk.org`](https://google.com/search?q=autorisk.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-08 | [`K & E Distributing`](https://google.com/search?q=K+%26+E+Distributing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-05-08 | [`EMA Engineering & Consulting`](https://google.com/search?q=EMA+Engineering+%26+Consulting) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-03-07 | [`Don E Bower`](https://google.com/search?q=Don+E+Bower) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-06 | [`Design To Print`](https://google.com/search?q=Design+To+Print) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-06 | [`DFW Aero Mechanix`](https://google.com/search?q=DFW+Aero+Mechanix) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-03-06 | [`IDF in Farsi Hacked`](https://google.com/search?q=IDF+in+Farsi+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
