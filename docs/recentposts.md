@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-05-12 | [`Bideawee`](https://google.com/search?q=Bideawee) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-11 | [`lalsgroup.com`](https://google.com/search?q=lalsgroup.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-11 | [`Forestdale`](https://google.com/search?q=Forestdale) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2026-05-11 | [`FOXCONN `](https://google.com/search?q=FOXCONN+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-03-08 | [`Helen Kaminski`](https://google.com/search?q=Helen+Kaminski) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-08 | [`Facilities USA`](https://google.com/search?q=Facilities+USA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-08 | [`Byard F Brogan`](https://google.com/search?q=Byard+F+Brogan) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-03-08 | [`Contact Handala`](https://google.com/search?q=Contact+Handala) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
