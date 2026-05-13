@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-05-13 | [`DURAND-WAYLAND`](https://google.com/search?q=DURAND-WAYLAND) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-05-12 | [`Ashcroft Homes`](https://google.com/search?q=Ashcroft+Homes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-05-12 | [`ACC Construction`](https://google.com/search?q=ACC+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-05-12 | [`SmilePoint Dental Group`](https://google.com/search?q=SmilePoint+Dental+Group) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-03-09 | [`Israeli Weather Stations Crippled`](https://google.com/search?q=Israeli+Weather+Stations+Crippled) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-03-09 | [`Full Access: Jerusalem’s Security Cameras in Handala’s Hands`](https://google.com/search?q=Full+Access%3A+Jerusalem%E2%80%99s+Security+Cameras+in+Handala%E2%80%99s+Hands) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-03-09 | [`Southern Concrete Construction`](https://google.com/search?q=Southern+Concrete+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-03-09 | [`Serrano Industries`](https://google.com/search?q=Serrano+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
