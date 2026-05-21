@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-05-21 | [`Mecanizados y Montajes Aeronáuticos (mymgroup.es)`](https://google.com/search?q=Mecanizados+y+Montajes+Aeron%C3%A1uticos+%28mymgroup.es%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-21 | [`narit.or.th`](https://google.com/search?q=narit.or.th) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-05-21 | [`alkaloid.com.mk`](https://google.com/search?q=alkaloid.com.mk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-05-21 | [`providentgh.com`](https://google.com/search?q=providentgh.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-03-11 | [`thethibeauxfirm.com`](https://google.com/search?q=thethibeauxfirm.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-11 | [`Kentucky Injury`](https://google.com/search?q=Kentucky+Injury) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-11 | [`novoair-bd.com`](https://google.com/search?q=novoair-bd.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-03-11 | [`bg.ac.rs`](https://google.com/search?q=bg.ac.rs) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
