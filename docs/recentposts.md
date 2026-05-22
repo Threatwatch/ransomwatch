@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-05-22 | [`tvnmedia.com`](https://google.com/search?q=tvnmedia.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-05-22 | [`minsa.com.mx`](https://google.com/search?q=minsa.com.mx) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-05-22 | [`threadinnovations`](https://google.com/search?q=threadinnovations) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-22 | [`grupopetersen.com.ar`](https://google.com/search?q=grupopetersen.com.ar) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-03-12 | [`haca.ma`](https://google.com/search?q=haca.ma) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-03-12 | [`gedco.ps`](https://google.com/search?q=gedco.ps) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-03-12 | [`Raz Zimmt Hacked (head of the Iran Desk at Israeli security institutes)`](https://google.com/search?q=Raz+Zimmt+Hacked+%28head+of+the+Iran+Desk+at+Israeli+security+institutes%29) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2026-03-12 | [`AbelZeta`](https://google.com/search?q=AbelZeta) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
