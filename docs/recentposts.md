@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-05-25 | [`GW Mechanical`](https://google.com/search?q=GW+Mechanical) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-05-25 | [`De Waard Transport`](https://google.com/search?q=De+Waard+Transport) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-05-25 | [`IDS Group`](https://google.com/search?q=IDS+Group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-05-25 | [`Meirc training and consulting`](https://google.com/search?q=Meirc+training+and+consulting) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-03-12 | [`Eagle Industrial Equipment`](https://google.com/search?q=Eagle+Industrial+Equipment) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-12 | [`Circle Floors`](https://google.com/search?q=Circle+Floors) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-12 | [`Bioptik Technology`](https://google.com/search?q=Bioptik+Technology) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2026-03-12 | [`seit.cl`](https://google.com/search?q=seit.cl) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
