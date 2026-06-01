@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-06-01 | [`Bradley law firm`](https://google.com/search?q=Bradley+law+firm) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-01 | [`School Facility Consultants`](https://google.com/search?q=School+Facility+Consultants) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2026-06-01 | [`Hightower Communications`](https://google.com/search?q=Hightower+Communications) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-06-01 | [`Digitall Graphics`](https://google.com/search?q=Digitall+Graphics) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-03-17 | [`Knight's Site Services`](https://google.com/search?q=Knight%27s+Site+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-17 | [`Gsolutionz`](https://google.com/search?q=Gsolutionz) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-17 | [`isosl.be`](https://google.com/search?q=isosl.be) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-03-17 | [`Vahid Offline Members`](https://google.com/search?q=Vahid+Offline+Members) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
