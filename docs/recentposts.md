@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-06-01 | [`School Facility Consultants`](https://google.com/search?q=School+Facility+Consultants) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2026-06-01 | [`Hightower Communications`](https://google.com/search?q=Hightower+Communications) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-06-01 | [`Digitall Graphics`](https://google.com/search?q=Digitall+Graphics) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-06-01 | [`landkreis-limburg-weilburg.de`](https://google.com/search?q=landkreis-limburg-weilburg.de) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-03-17 | [`Gsolutionz`](https://google.com/search?q=Gsolutionz) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-17 | [`isosl.be`](https://google.com/search?q=isosl.be) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-03-17 | [`Vahid Offline Members`](https://google.com/search?q=Vahid+Offline+Members) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2026-03-17 | [`Mossad’s Secret Treasury Exposed: 50,000 Confidential Emails Leaked`](https://google.com/search?q=Mossad%E2%80%99s+Secret+Treasury+Exposed%3A+50%2C000+Confidential+Emails+Leaked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
