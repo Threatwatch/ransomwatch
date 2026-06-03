@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-06-03 | [`Pyramid `](https://google.com/search?q=Pyramid+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-06-03 | [`Geske Haus- und Versorgungstechnik GmbH`](https://google.com/search?q=Geske+Haus-+und+Versorgungstechnik+GmbH) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-06-03 | [`Colina Financial Advisors`](https://google.com/search?q=Colina+Financial+Advisors) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-03 | [`Oztugotomotiv`](https://google.com/search?q=Oztugotomotiv) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-03-19 | [`ENENSYS Technologies `](https://google.com/search?q=ENENSYS+Technologies+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-03-19 | [`airports.com.na`](https://google.com/search?q=airports.com.na) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-19 | [`Bonheure`](https://google.com/search?q=Bonheure) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2026-03-18 | [`Martyr Ali Larijani`](https://google.com/search?q=Martyr+Ali+Larijani) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
