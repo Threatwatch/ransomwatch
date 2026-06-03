@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-06-03 | [`elections.mia.gov.am from WOLVES OF TURAN`](https://google.com/search?q=elections.mia.gov.am+from+WOLVES+OF+TURAN) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-06-03 | [` FOXCONN `](https://google.com/search?q=+FOXCONN+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-06-03 | [`Pyramid `](https://google.com/search?q=Pyramid+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-06-03 | [`Geske Haus- und Versorgungstechnik GmbH`](https://google.com/search?q=Geske+Haus-+und+Versorgungstechnik+GmbH) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-03-23 | [`Kiswire`](https://google.com/search?q=Kiswire) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-23 | [`JDV Products`](https://google.com/search?q=JDV+Products) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-19 | [`ENENSYS Technologies `](https://google.com/search?q=ENENSYS+Technologies+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2026-03-19 | [`airports.com.na`](https://google.com/search?q=airports.com.na) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
