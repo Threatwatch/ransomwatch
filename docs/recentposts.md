@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-06-05 | [`The Chapel`](https://google.com/search?q=The+Chapel) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-06-05 | [`Dallis Law Firm`](https://google.com/search?q=Dallis+Law+Firm) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-06-04 | [`Corley MFG`](https://google.com/search?q=Corley+MFG) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-06-04 | [`Stuga Machinery`](https://google.com/search?q=Stuga+Machinery) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-03-25 | [`Window & Door Design Center of Florida`](https://google.com/search?q=Window+%26+Door+Design+Center+of+Florida) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-25 | [`Roxiticus Golf Club`](https://google.com/search?q=Roxiticus+Golf+Club) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-25 | [`Pinnacle`](https://google.com/search?q=Pinnacle) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-03-25 | [`Capital Wholesale Drug`](https://google.com/search?q=Capital+Wholesale+Drug) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
