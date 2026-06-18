@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-06-18 | [`neuwoges.de`](https://google.com/search?q=neuwoges.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-18 | [`eurOptimum`](https://google.com/search?q=eurOptimum) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-06-17 | [`Integrated Technologies`](https://google.com/search?q=Integrated+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-06-17 | [`Greg Crosslin`](https://google.com/search?q=Greg+Crosslin) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-03-31 | [`delapazlaw.com`](https://google.com/search?q=delapazlaw.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-31 | [`barrypgoldberg.com`](https://google.com/search?q=barrypgoldberg.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-31 | [`Witt UK Group`](https://google.com/search?q=Witt+UK+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-03-31 | [`Weber Kracht & Chellew`](https://google.com/search?q=Weber+Kracht+%26+Chellew) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
