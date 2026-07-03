@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-07-03 | [`flazio.com`](https://google.com/search?q=flazio.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-07-03 | [`tricountyhs.org`](https://google.com/search?q=tricountyhs.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-03 | [`tambasa.com`](https://google.com/search?q=tambasa.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-03 | [`oakparkmi.gov`](https://google.com/search?q=oakparkmi.gov) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-04-14 | [`Ultimate Metals`](https://google.com/search?q=Ultimate+Metals) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-04-13 | [`whessoe.com.my`](https://google.com/search?q=whessoe.com.my) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-04-13 | [`phb.com`](https://google.com/search?q=phb.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-04-13 | [`olpro.com.my`](https://google.com/search?q=olpro.com.my) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
