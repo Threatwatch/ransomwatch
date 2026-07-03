@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-07-03 | [`kliknklik.com`](https://google.com/search?q=kliknklik.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-07-03 | [`holidaypalace.com`](https://google.com/search?q=holidaypalace.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-07-03 | [`flazio.com`](https://google.com/search?q=flazio.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-07-03 | [`tricountyhs.org`](https://google.com/search?q=tricountyhs.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-04-16 | [`treelawoffice.com`](https://google.com/search?q=treelawoffice.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-14 | [`Asaniverko`](https://google.com/search?q=Asaniverko) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-04-14 | [`Ultimate Metals`](https://google.com/search?q=Ultimate+Metals) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2026-04-13 | [`whessoe.com.my`](https://google.com/search?q=whessoe.com.my) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
