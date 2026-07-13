@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-07-13 | [`Turbosoft`](https://google.com/search?q=Turbosoft) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-07-13 | [`Techpol-System`](https://google.com/search?q=Techpol-System) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-07-09 | [`Envision Unlimited`](https://google.com/search?q=Envision+Unlimited) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2026-07-08 | [`Biessse`](https://google.com/search?q=Biessse) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-04-27 | [`BELFOR`](https://google.com/search?q=BELFOR) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-27 | [`Stelia North America`](https://google.com/search?q=Stelia+North+America) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-04-27 | [`ldisolutions.com`](https://google.com/search?q=ldisolutions.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-04-27 | [`algosaibi-gtb.com`](https://google.com/search?q=algosaibi-gtb.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
