@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-07-16 | [`Andorra Life`](https://google.com/search?q=Andorra+Life) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-07-16 | [`AG Scholtes`](https://google.com/search?q=AG+Scholtes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-07-16 | [`Megawork`](https://google.com/search?q=Megawork) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-07-16 | [`https://www.statebankofnauvoo.com/`](https://google.com/search?q=https%3A%2F%2Fwww.statebankofnauvoo.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-04-28 | [`grupo-principal.com`](https://google.com/search?q=grupo-principal.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-04-28 | [`dunav.com`](https://google.com/search?q=dunav.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-04-28 | [`cofaco.com`](https://google.com/search?q=cofaco.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-04-28 | [`sumacinc.com`](https://google.com/search?q=sumacinc.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
