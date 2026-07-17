@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-07-17 | [`asa-international.com `](https://google.com/search?q=asa-international.com+) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-17 | [`Kyokuto Kaihatsu Kogyo`](https://google.com/search?q=Kyokuto+Kaihatsu+Kogyo) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-17 | [`Wring Group`](https://google.com/search?q=Wring+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-07-17 | [`Svensk Direktreklam`](https://google.com/search?q=Svensk+Direktreklam) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-04-29 | [`nbd3pl.com`](https://google.com/search?q=nbd3pl.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-28 | [`medikaplaza.com`](https://google.com/search?q=medikaplaza.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-04-28 | [`jgpetrucci.com`](https://google.com/search?q=jgpetrucci.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-04-28 | [`ifmis.go.ke`](https://google.com/search?q=ifmis.go.ke) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
