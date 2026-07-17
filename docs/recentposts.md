@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-07-17 | [`Svensk Direktreklam`](https://google.com/search?q=Svensk+Direktreklam) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-07-16 | [`Boston Electric and Telephone`](https://google.com/search?q=Boston+Electric+and+Telephone) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-07-16 | [`Andorra Life`](https://google.com/search?q=Andorra+Life) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-07-16 | [`AG Scholtes`](https://google.com/search?q=AG+Scholtes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-04-28 | [`ifmis.go.ke`](https://google.com/search?q=ifmis.go.ke) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-04-28 | [`www.durable-tech.com`](https://google.com/search?q=www.durable-tech.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-28 | [`grupo-principal.com`](https://google.com/search?q=grupo-principal.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-04-28 | [`dunav.com`](https://google.com/search?q=dunav.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
