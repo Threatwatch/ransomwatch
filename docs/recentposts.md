@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-07-18 | [`V&P Nurseries`](https://google.com/search?q=V%26P+Nurseries) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-18 | [`FAST.COM.PH`](https://google.com/search?q=FAST.COM.PH) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-18 | [`D.MAG New Material Technology Co., Ltd. Taiwan Giant`](https://google.com/search?q=D.MAG+New+Material+Technology+Co.%2C+Ltd.+Taiwan+Giant) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-17 | [`asa-international.com `](https://google.com/search?q=asa-international.com+) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-04-30 | [`Arban & Carosi`](https://google.com/search?q=Arban+%26+Carosi) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-29 | [`Karl Chevrolet`](https://google.com/search?q=Karl+Chevrolet) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-04-29 | [`https://www.fulcrumre.com/`](https://google.com/search?q=https%3A%2F%2Fwww.fulcrumre.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-04-29 | [`nbd3pl.com`](https://google.com/search?q=nbd3pl.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
