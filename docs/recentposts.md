@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-07-18 | [`v-silicon.com`](https://google.com/search?q=v-silicon.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-18 | [`reatile.co.za`](https://google.com/search?q=reatile.co.za) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-18 | [`pokka.co`](https://google.com/search?q=pokka.co) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-18 | [`V&P Nurseries`](https://google.com/search?q=V%26P+Nurseries) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-05-02 | [`northshoreenv.com`](https://google.com/search?q=northshoreenv.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-30 | [` ENENSYS Technologies `](https://google.com/search?q=+ENENSYS+Technologies+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-04-30 | [`Iowa Spring Manufacturing & Sales`](https://google.com/search?q=Iowa+Spring+Manufacturing+%26+Sales) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-04-30 | [`Arban & Carosi`](https://google.com/search?q=Arban+%26+Carosi) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
