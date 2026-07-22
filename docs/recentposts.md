@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-07-22 | [`Kreysler & Associates`](https://google.com/search?q=Kreysler+%26+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-07-21 | [`DoAllTech`](https://google.com/search?q=DoAllTech) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-07-21 | [`Anpra SAS`](https://google.com/search?q=Anpra+SAS) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-07-21 | [`Nichirei`](https://google.com/search?q=Nichirei) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-05-07 | [`lafj.org`](https://google.com/search?q=lafj.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-06 | [`Aerodiagnostics`](https://google.com/search?q=Aerodiagnostics) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-05 | [`EXPEDITOR`](https://google.com/search?q=EXPEDITOR) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-05-05 | [`Erla Technologies SAS`](https://google.com/search?q=Erla+Technologies+SAS) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
