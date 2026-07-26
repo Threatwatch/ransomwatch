@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-07-26 | [`healthlawadvocates.org`](https://google.com/search?q=healthlawadvocates.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-25 | [`Yourway Transportation`](https://google.com/search?q=Yourway+Transportation) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2026-07-24 | [`dgcement.com`](https://google.com/search?q=dgcement.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-07-24 | [`cabincreekhealth.com`](https://google.com/search?q=cabincreekhealth.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-05-10 | [`https://sibillacapital.com/`](https://google.com/search?q=https%3A%2F%2Fsibillacapital.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-09 | [`Calsoft Inc`](https://google.com/search?q=Calsoft+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-08 | [`egnyte.com`](https://google.com/search?q=egnyte.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-05-08 | [`earthsystems.com.au earthsystemseurope.com`](https://google.com/search?q=earthsystems.com.au+earthsystemseurope.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
