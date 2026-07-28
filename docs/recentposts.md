@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-07-28 | [`Della Casa Group AG`](https://google.com/search?q=Della+Casa+Group+AG) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-28 | [`greenecountyga.gov`](https://google.com/search?q=greenecountyga.gov) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-28 | [`foundationstofreedom.org`](https://google.com/search?q=foundationstofreedom.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-28 | [`DUCON`](https://google.com/search?q=DUCON) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-05-12 | [`Bideawee`](https://google.com/search?q=Bideawee) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-11 | [`lalsgroup.com`](https://google.com/search?q=lalsgroup.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-11 | [`Forestdale`](https://google.com/search?q=Forestdale) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
-| 2026-05-11 | [`FOXCONN `](https://google.com/search?q=FOXCONN+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
