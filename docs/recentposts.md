@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-01 | [`Cambridge Management`](https://google.com/search?q=Cambridge+Management) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-01 | [`quantinuum.com`](https://google.com/search?q=quantinuum.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-30 | [`PARTNERED HEALTH GROUP`](https://google.com/search?q=PARTNERED+HEALTH+GROUP) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-30 | [`sslf.local`](https://google.com/search?q=sslf.local) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-05-13 | [`Northern Mechanical Contractors`](https://google.com/search?q=Northern+Mechanical+Contractors) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-05-13 | [`Infoworld Membership Systems`](https://google.com/search?q=Infoworld+Membership+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-05-13 | [`IWC Food Service`](https://google.com/search?q=IWC+Food+Service) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-05-13 | [`DURAND-WAYLAND`](https://google.com/search?q=DURAND-WAYLAND) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
