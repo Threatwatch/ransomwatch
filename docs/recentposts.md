@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-04 | [`First Tek`](https://google.com/search?q=First+Tek) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-04 | [`TRULITE GLASS & ALUMINUM SOLUTIONS`](https://google.com/search?q=TRULITE+GLASS+%26+ALUMINUM+SOLUTIONS) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-04 | [`pushidrosal.id`](https://google.com/search?q=pushidrosal.id) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-04 | [`lccgroup.com`](https://google.com/search?q=lccgroup.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-05-19 | [`Zuther Hautmann`](https://google.com/search?q=Zuther+Hautmann) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-05-19 | [`Landeshauptstadt Stuttgart`](https://google.com/search?q=Landeshauptstadt+Stuttgart) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-05-18 | [`bergen1.net`](https://google.com/search?q=bergen1.net) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-05-17 | [`metaval.com.au`](https://google.com/search?q=metaval.com.au) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
