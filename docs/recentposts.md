@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-04 | [`clintonhealthaccess.org`](https://google.com/search?q=clintonhealthaccess.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-03 | [`[DISCLOSED]Fidelity Services Group`](https://google.com/search?q=%5BDISCLOSED%5DFidelity+Services+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-03 | [`PCL Holding`](https://google.com/search?q=PCL+Holding) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-02 | [`ecfa.org`](https://google.com/search?q=ecfa.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-05-15 | [`Tower View Primary School`](https://google.com/search?q=Tower+View+Primary+School) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-05-15 | [`defenseisready.com`](https://google.com/search?q=defenseisready.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-15 | [`United Quality Cooperative / www.uqcoop.com`](https://google.com/search?q=United+Quality+Cooperative+%2F+www.uqcoop.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-05-14 | [`technic.com`](https://google.com/search?q=technic.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
