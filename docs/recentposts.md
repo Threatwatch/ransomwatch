@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-13 | [`clgroup`](https://google.com/search?q=clgroup) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-12 | [`stuartandassociates.com`](https://google.com/search?q=stuartandassociates.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-12 | [`gamaus.com`](https://google.com/search?q=gamaus.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-12 | [`diabetesandmetabolism.com`](https://google.com/search?q=diabetesandmetabolism.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-06-01 | [`landkreis-limburg-weilburg.de`](https://google.com/search?q=landkreis-limburg-weilburg.de) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2026-05-30 | [`www.labexpress.com`](https://google.com/search?q=www.labexpress.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-29 | [`belimed.com`](https://google.com/search?q=belimed.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-05-28 | [`lawants`](https://google.com/search?q=lawants) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
