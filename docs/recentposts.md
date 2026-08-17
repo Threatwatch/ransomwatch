@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-17 | [`Sam Pack Auto Group`](https://google.com/search?q=Sam+Pack+Auto+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-17 | [`Bridgeport Capital Services`](https://google.com/search?q=Bridgeport+Capital+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-17 | [`Lansing Urgent Care`](https://google.com/search?q=Lansing+Urgent+Care) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-17 | [`Otter Tail County, Minnesota`](https://google.com/search?q=Otter+Tail+County%2C+Minnesota) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-06-03 | [`Geske Haus- und Versorgungstechnik GmbH`](https://google.com/search?q=Geske+Haus-+und+Versorgungstechnik+GmbH) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-06-03 | [`Colina Financial Advisors`](https://google.com/search?q=Colina+Financial+Advisors) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-03 | [`Oztugotomotiv`](https://google.com/search?q=Oztugotomotiv) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-06-02 | [`trrac.net`](https://google.com/search?q=trrac.net) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
