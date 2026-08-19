@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-19 | [`EXEL`](https://google.com/search?q=EXEL) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-19 | [`CDGARVINLAW`](https://google.com/search?q=CDGARVINLAW) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-19 | [`BANGKOKCABLE`](https://google.com/search?q=BANGKOKCABLE) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-18 | [`ssf-int.com  ssf-ing.de`](https://google.com/search?q=ssf-int.com++ssf-ing.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-06-05 | [`obrieneng.com`](https://google.com/search?q=obrieneng.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-05 | [`Urschel Laboratories`](https://google.com/search?q=Urschel+Laboratories) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-06-05 | [`The Chapel`](https://google.com/search?q=The+Chapel) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-06-05 | [`Dallis Law Firm`](https://google.com/search?q=Dallis+Law+Firm) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
