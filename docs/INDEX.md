@@ -185,7 +185,7 @@
 | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) | VSOP NEWS | 🔴 | 2023-01-02 | mrdxtxy6vqeqbmb4rvbvueh2kukb3e3mhu3wdothqn7242gztxyzycid.onion |
 | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) | DataLeakBlog | 🔴 | 2022-08-16 | dfpc7yvle5kxmgg6sbcp5ytggy3oeob676bjgwcwhyr2pwcrmbvoilqd.onion |
 | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) | ©RansomHouse | 🔴 | 2022-10-01 | xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion |
-| [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |  | 🟢 |  | zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion |
+| [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |  | 🔴 | 2026-08-23 | zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion |
 | [cheers](https://ransomwatch.telemetry.ltd/#/profiles?id=cheers) | Cheers! | 🔴 | 2022-09-20 | rwiajgajdr4kzlnrj5zwebbukpcbrjhupjmk6gufxv6tg7myx34iocad.onion |
 | [cheers](https://ransomwatch.telemetry.ltd/#/profiles?id=cheers) | sembmarine | 🔴 | 2022-09-20 | crkfkmrh4qzbddfrl2axnkvjp5tgwx73d7lq4oycsfxc7pfgbfhtfiid.onion |
 | [darkangels](https://ransomwatch.telemetry.ltd/#/profiles?id=darkangels) | Home | 🔴 | 2022-07-18 | wemo2ysyeq6km2nqhcrz63dkdhez3j25yw2nvn7xba2z4h7v7gyrfgid.onion |
@@ -278,8 +278,8 @@
 | [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) | LockBit - Leaked | 🟢 |  | lockbit7z4k5zer5fbqi2vdq5sx2vuggatwyqvoodrkhubxftyrvncid.onion |
 | [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) | LockBit - Leaked | 🟢 |  | lockbit7z4ndl6thsct34yd47jrzdkpnfg3acfvpacuccb45pnars2ad.onion |
 | [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) | LockBit - Leaked | 🟢 |  | lockbit7z55tuwaflw2c7torcryobdvhkcgvivhflyndyvcrexafssad.onion |
-| [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) | LockBit - Leaked | 🔴 | 2026-08-23 | lockbit7z57mkicfkuq44j6yrpu5finwvjllczkkp2uvdedsdonjztyd.onion |
-| [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) | LockBit - Leaked | 🔴 | 2026-08-23 | lockbit7z5ehshj6gzpetw5kso3onts6ty7wrnneya5u4aj3vzkeoaqd.onion |
+| [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) | LockBit - Leaked | 🟢 |  | lockbit7z57mkicfkuq44j6yrpu5finwvjllczkkp2uvdedsdonjztyd.onion |
+| [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) | LockBit - Leaked | 🟢 |  | lockbit7z5ehshj6gzpetw5kso3onts6ty7wrnneya5u4aj3vzkeoaqd.onion |
 | [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) | LockBit - Leaked | 🟢 |  | lockbit7z5hwf6ywfuzipoa42tjlmal3x5suuccngsamsgklww2xgyqd.onion |
 | [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) | LockBit - Leaked | 🟢 |  | lockbit7z5ltrhzv46lsg447o3cx2637dloc3qt4ugd3gr2xdkkkeayd.onion |
 | [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) | LockBit - Leaked | 🟢 |  | lockbit7z6choojah4ipvdpzzfzxxchjbecnmtn4povk6ifdvx2dpnid.onion |
@@ -440,7 +440,7 @@
 | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) | All data - Underground store | 🟢 |  | 47glxkuxyayqrvugfumgsblrdagvrah7gttfscgzn56eyss5wg3uvmqd.onion |
 | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) | Space Bears  | 🔴 | 2026-08-22 | 5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion |
 | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) | 𝐅𝐒𝐎𝐂𝐈𝐄𝐓𝐘 - 𝐅𝐋𝐎𝐂𝐊𝐄𝐑 | 🔴 | 2025-08-30 | flock4cvoeqm4c62gyohvmncx6ck2e7ugvyqgyxqtrumklhd5ptwzpqd.onion |
-| [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) | A r c u s | 🔴 | 2026-08-23 | arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion |
+| [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) | A r c u s | 🟢 |  | arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion |
 | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) | 500 Internal Server Error | 🔴 | 2025-06-05 | xql562evsy7njcsngacphc2erzjfecwotdkobn3m4uxu2gtqh26newid.onion |
 | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) | Blog | 🔴 | 2025-04-20 | xbkv2qey6u3gd3qxcojynrt4h5sgrhkar6whuo74wo63hijnn677jnyd.onion |
 | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) | Brain Cipher Client Area | 🔴 | 2024-07-07 | mybmtbgd7aprdnw2ekxht5qap5daam2wch25coqerrq2zdioanob34ad.onion |
