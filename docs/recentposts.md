@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-28 | [`BENCIVIL`](https://google.com/search?q=BENCIVIL) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-27 | [`Rohloff Group`](https://google.com/search?q=Rohloff+Group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-26 | [`MEMSIC`](https://google.com/search?q=MEMSIC) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2026-08-22 | [`el-group`](https://google.com/search?q=el-group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-06-11 | [`Signazon_USA`](https://google.com/search?q=Signazon_USA) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-11 | [`Kewaunee Scientific`](https://google.com/search?q=Kewaunee+Scientific) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-11 | [`DISCOLABINDU`](https://google.com/search?q=DISCOLABINDU) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-06-11 | [`fineconsulting`](https://google.com/search?q=fineconsulting) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
