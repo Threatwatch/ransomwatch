@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-29 | [`Ruby Seven Studios`](https://google.com/search?q=Ruby+Seven+Studios) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-29 | [`Oilquip Inc`](https://google.com/search?q=Oilquip+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-29 | [`Berlin, Germany`](https://google.com/search?q=Berlin%2C+Germany) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-29 | [`Valley Health Team`](https://google.com/search?q=Valley+Health+Team) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-06-16 | [`jasperplastics.info`](https://google.com/search?q=jasperplastics.info) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-16 | [`framesiprofessional.com`](https://google.com/search?q=framesiprofessional.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-16 | [`Promepla`](https://google.com/search?q=Promepla) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2026-06-16 | [`ECOVACS`](https://google.com/search?q=ECOVACS) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
