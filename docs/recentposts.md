@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-31 | [`cimbsecurities.com`](https://google.com/search?q=cimbsecurities.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-30 | [`wittmann`](https://google.com/search?q=wittmann) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-29 | [`Ruby Seven Studios`](https://google.com/search?q=Ruby+Seven+Studios) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-29 | [`Oilquip Inc`](https://google.com/search?q=Oilquip+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-06-17 | [`Gerencial`](https://google.com/search?q=Gerencial) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-06-16 | [` Pyramid `](https://google.com/search?q=+Pyramid+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-06-16 | [`jasperplastics.info`](https://google.com/search?q=jasperplastics.info) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-06-16 | [`framesiprofessional.com`](https://google.com/search?q=framesiprofessional.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
