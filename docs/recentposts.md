@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-02 | [`New Century Ophthalmology Group`](https://google.com/search?q=New+Century+Ophthalmology+Group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-02 | [`FFKR Architects`](https://google.com/search?q=FFKR+Architects) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-01 | [`Szechenyi Programiroda Nonprofit Kf`](https://google.com/search?q=Szechenyi+Programiroda+Nonprofit+Kf) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-09-01 | [`Meteor Group`](https://google.com/search?q=Meteor+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-06-18 | [`Lawson Roofing`](https://google.com/search?q=Lawson+Roofing) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-06-18 | [`Horizon Family Medical Group`](https://google.com/search?q=Horizon+Family+Medical+Group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-18 | [`neuwoges.de`](https://google.com/search?q=neuwoges.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-06-18 | [`eurOptimum`](https://google.com/search?q=eurOptimum) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
