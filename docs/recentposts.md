@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-03 | [`Westfield Public School District`](https://google.com/search?q=Westfield+Public+School+District) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-03 | [`Trucka`](https://google.com/search?q=Trucka) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-03 | [`Policlinico Triestino`](https://google.com/search?q=Policlinico+Triestino) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-03 | [`Multiver Ltée`](https://google.com/search?q=Multiver+Lt%C3%A9e) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-06-24 | [`horizoneye.com`](https://google.com/search?q=horizoneye.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-23 | [`viennaairport.com`](https://google.com/search?q=viennaairport.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-06-23 | [`gov.br`](https://google.com/search?q=gov.br) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-06-23 | [`smarty.arpinet.am`](https://google.com/search?q=smarty.arpinet.am) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
