@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-03 | [`Metales Panamericanos`](https://google.com/search?q=Metales+Panamericanos) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-02 | [`Asfaltos y Pavimentos S.A. (Asfalpasa)`](https://google.com/search?q=Asfaltos+y+Pavimentos+S.A.+%28Asfalpasa%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-02 | [`[EVIDENCE]REXT Holdings Co., Ltd.`](https://google.com/search?q=%5BEVIDENCE%5DREXT+Holdings+Co.%2C+Ltd.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-09-02 | [`specialtytextile.com`](https://google.com/search?q=specialtytextile.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-06-23 | [`belpointeasset.com \ belpointe.com`](https://google.com/search?q=belpointeasset.com+%5C+belpointe.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-22 | [`[DISCLOSED]Karl Chevrolet`](https://google.com/search?q=%5BDISCLOSED%5DKarl+Chevrolet) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-06-21 | [`jktornel`](https://google.com/search?q=jktornel) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-06-20 | [`Newspaper Media Group`](https://google.com/search?q=Newspaper+Media+Group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
