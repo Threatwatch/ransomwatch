@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-05 | [`Studio Oculistico Ciraci`](https://google.com/search?q=Studio+Oculistico+Ciraci) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-09-04 | [`Sports Endeavors`](https://google.com/search?q=Sports+Endeavors) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-09-04 | [`zummocorp.com`](https://google.com/search?q=zummocorp.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-04 | [`www.renorefractories.com`](https://google.com/search?q=www.renorefractories.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-06-26 | [`theswansonlawgroup.com`](https://google.com/search?q=theswansonlawgroup.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-26 | [`callhorton.com`](https://google.com/search?q=callhorton.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-26 | [`johndufourlaw.com`](https://google.com/search?q=johndufourlaw.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-06-26 | [`Benchmark Industrial Supply`](https://google.com/search?q=Benchmark+Industrial+Supply) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
