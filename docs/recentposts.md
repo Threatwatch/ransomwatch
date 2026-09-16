@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-16 | [`Namibian Defence Force`](https://google.com/search?q=Namibian+Defence+Force) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-09-15 | [`[DISCLOSED] California School Employees Association`](https://google.com/search?q=%5BDISCLOSED%5D+California+School+Employees+Association) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-09-12 | [`Axdia International`](https://google.com/search?q=Axdia+International) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-09-11 | [`General Santos Doctors Hospital`](https://google.com/search?q=General+Santos+Doctors+Hospital) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-07-03 | [`oakparkmi.gov`](https://google.com/search?q=oakparkmi.gov) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-03 | [`hamilton-eye.com`](https://google.com/search?q=hamilton-eye.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-02 | [`ezortea.com.br`](https://google.com/search?q=ezortea.com.br) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-07-02 | [`[EVIDENCE]Prince George County`](https://google.com/search?q=%5BEVIDENCE%5DPrince+George+County) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
