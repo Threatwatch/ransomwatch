@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-18 | [`Barrett Mahony Consulting Engineers`](https://google.com/search?q=Barrett+Mahony+Consulting+Engineers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-09-18 | [`MPA Pharma`](https://google.com/search?q=MPA+Pharma) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-09-17 | [`Pertamina`](https://google.com/search?q=Pertamina) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-09-17 | [`Silicon Integrated Systems`](https://google.com/search?q=Silicon+Integrated+Systems) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-07-03 | [`ritavo.com`](https://google.com/search?q=ritavo.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-07-03 | [`kliknklik.com`](https://google.com/search?q=kliknklik.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-07-03 | [`holidaypalace.com`](https://google.com/search?q=holidaypalace.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-07-03 | [`flazio.com`](https://google.com/search?q=flazio.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
