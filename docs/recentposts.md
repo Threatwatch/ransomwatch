@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-19 | [`www.kendallhunt.com`](https://google.com/search?q=www.kendallhunt.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-19 | [`Vista Plastic Solutions`](https://google.com/search?q=Vista+Plastic+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-09-19 | [`Inglewood Golf`](https://google.com/search?q=Inglewood+Golf) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-09-18 | [`Barrett Mahony Consulting Engineers`](https://google.com/search?q=Barrett+Mahony+Consulting+Engineers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-07-06 | [`Blenheim`](https://google.com/search?q=Blenheim) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-07-04 | [`Silvestri & Associates Insurance`](https://google.com/search?q=Silvestri+%26+Associates+Insurance) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-07-04 | [`Locati Architects`](https://google.com/search?q=Locati+Architects) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-07-03 | [`ritavo.com`](https://google.com/search?q=ritavo.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
