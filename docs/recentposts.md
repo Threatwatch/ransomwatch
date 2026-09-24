@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-24 | [`bnlawmacau.com www.bn-ip.com`](https://google.com/search?q=bnlawmacau.com+www.bn-ip.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-24 | [`NEAD Pro`](https://google.com/search?q=NEAD+Pro) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-09-24 | [`Grupo Caberj`](https://google.com/search?q=Grupo+Caberj) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-23 | [`Tomix / Grupo JOPER`](https://google.com/search?q=Tomix+%2F+Grupo+JOPER) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-07-08 | [`Biessse`](https://google.com/search?q=Biessse) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-07-08 | [`Aesthetic Surgical Images`](https://google.com/search?q=Aesthetic+Surgical+Images) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-08 | [`United Infrastructure`](https://google.com/search?q=United+Infrastructure) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-07-07 | [`Preneed Funeral Programs`](https://google.com/search?q=Preneed+Funeral+Programs) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
