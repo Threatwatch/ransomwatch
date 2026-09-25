@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-25 | [`pharma5.ma`](https://google.com/search?q=pharma5.ma) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-25 | [`welgenone.com`](https://google.com/search?q=welgenone.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-25 | [`ukbjja.org`](https://google.com/search?q=ukbjja.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-24 | [`bnlawmacau.com www.bn-ip.com`](https://google.com/search?q=bnlawmacau.com+www.bn-ip.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-07-13 | [`Turbosoft`](https://google.com/search?q=Turbosoft) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-07-13 | [`Techpol-System`](https://google.com/search?q=Techpol-System) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-07-09 | [`Envision Unlimited`](https://google.com/search?q=Envision+Unlimited) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
-| 2026-07-08 | [`Biessse`](https://google.com/search?q=Biessse) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
