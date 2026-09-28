@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-28 | [`Ever Ready First Aid`](https://google.com/search?q=Ever+Ready+First+Aid) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-09-28 | [`nsbsd.org`](https://google.com/search?q=nsbsd.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-28 | [`AHEAD`](https://google.com/search?q=AHEAD) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-25 | [`pharma5.ma`](https://google.com/search?q=pharma5.ma) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-07-15 | [`Fidelity Services Group`](https://google.com/search?q=Fidelity+Services+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-07-14 | [`VantagePoint Management & Autoclear`](https://google.com/search?q=VantagePoint+Management+%26+Autoclear) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-14 | [`Golden Glasko & Associates`](https://google.com/search?q=Golden+Glasko+%26+Associates) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-07-13 | [`Turbosoft`](https://google.com/search?q=Turbosoft) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
