@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-29 | [`bakemyday.se`](https://google.com/search?q=bakemyday.se) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-29 | [`Starr Whitehouse Landscape Architects`](https://google.com/search?q=Starr+Whitehouse+Landscape+Architects) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-09-28 | [`Ever Ready First Aid`](https://google.com/search?q=Ever+Ready+First+Aid) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-09-28 | [`nsbsd.org`](https://google.com/search?q=nsbsd.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-07-16 | [`https://www.statebankofnauvoo.com/`](https://google.com/search?q=https%3A%2F%2Fwww.statebankofnauvoo.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-16 | [`FITcrunch`](https://google.com/search?q=FITcrunch) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-07-15 | [`Fidelity Services Group`](https://google.com/search?q=Fidelity+Services+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2026-07-14 | [`VantagePoint Management & Autoclear`](https://google.com/search?q=VantagePoint+Management+%26+Autoclear) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
