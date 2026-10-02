@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-10-02 | [`Hospital Hermilio Valdizán`](https://google.com/search?q=Hospital+Hermilio+Valdiz%C3%A1n) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-10-02 | [`Guardian Pharmacy LLC`](https://google.com/search?q=Guardian+Pharmacy+LLC) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-01 | [`Den Hartog Industries`](https://google.com/search?q=Den+Hartog+Industries) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-01 | [`Law Offices of R. David Williams, P.A.`](https://google.com/search?q=Law+Offices+of+R.+David+Williams%2C+P.A.) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-07-18 | [`D.MAG New Material Technology Co., Ltd. Taiwan Giant`](https://google.com/search?q=D.MAG+New+Material+Technology+Co.%2C+Ltd.+Taiwan+Giant) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-17 | [`asa-international.com `](https://google.com/search?q=asa-international.com+) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-17 | [`Kyokuto Kaihatsu Kogyo`](https://google.com/search?q=Kyokuto+Kaihatsu+Kogyo) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-07-17 | [`Wring Group`](https://google.com/search?q=Wring+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
