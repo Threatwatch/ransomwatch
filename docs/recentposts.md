@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-10-03 | [`Mat Bao Corporation`](https://google.com/search?q=Mat+Bao+Corporation) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-10-02 | [`PT Indo Tambangraya Megah`](https://google.com/search?q=PT+Indo+Tambangraya+Megah) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-10-02 | [`Terca`](https://google.com/search?q=Terca) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-10-02 | [`Hospital Hermilio Valdizán`](https://google.com/search?q=Hospital+Hermilio+Valdiz%C3%A1n) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-07-18 | [`pokka.co`](https://google.com/search?q=pokka.co) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-18 | [`V&P Nurseries`](https://google.com/search?q=V%26P+Nurseries) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-18 | [`FAST.COM.PH`](https://google.com/search?q=FAST.COM.PH) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-07-18 | [`D.MAG New Material Technology Co., Ltd. Taiwan Giant`](https://google.com/search?q=D.MAG+New+Material+Technology+Co.%2C+Ltd.+Taiwan+Giant) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
