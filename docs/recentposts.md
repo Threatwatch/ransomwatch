@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-10-04 | [`Rimrock Foundation`](https://google.com/search?q=Rimrock+Foundation) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-03 | [`Post Metal Recycling`](https://google.com/search?q=Post+Metal+Recycling) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-03 | [`Skaff Group`](https://google.com/search?q=Skaff+Group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-10-03 | [`Northern Counties Health Care`](https://google.com/search?q=Northern+Counties+Health+Care) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-07-20 | [`Ali-Monde`](https://google.com/search?q=Ali-Monde) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-18 | [`bluebellgroup.com`](https://google.com/search?q=bluebellgroup.com) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
 | 2026-07-18 | [`vedan corp`](https://google.com/search?q=vedan+corp) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-07-18 | [`v-silicon.com`](https://google.com/search?q=v-silicon.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
