@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-10-07 | [`acmestamping.com`](https://google.com/search?q=acmestamping.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-05 | [`Sangre de Cristo Electric Association`](https://google.com/search?q=Sangre+de+Cristo+Electric+Association) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-05 | [`Silicon Valley Glass`](https://google.com/search?q=Silicon+Valley+Glass) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-10-04 | [`Bold Spring Nursery`](https://google.com/search?q=Bold+Spring+Nursery) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-07-21 | [`DoAllTech`](https://google.com/search?q=DoAllTech) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-07-21 | [`Anpra SAS`](https://google.com/search?q=Anpra+SAS) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-07-21 | [`Nichirei`](https://google.com/search?q=Nichirei) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2026-07-21 | [`BiesSse Group`](https://google.com/search?q=BiesSse+Group) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
