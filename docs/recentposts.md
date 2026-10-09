@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-10-09 | [`architekt-vondanwitz.de`](https://google.com/search?q=architekt-vondanwitz.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-08 | [`Wavecrest HFA`](https://google.com/search?q=Wavecrest+HFA) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-08 | [`UAE Pro League`](https://google.com/search?q=UAE+Pro+League) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-08 | [`The New Community School`](https://google.com/search?q=The+New+Community+School) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-07-24 | [`The DeBruler`](https://google.com/search?q=The+DeBruler) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-07-23 | [`Restaurant Depot`](https://google.com/search?q=Restaurant+Depot) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-07-23 | [`Record Go Alquiler`](https://google.com/search?q=Record+Go+Alquiler) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-07-23 | [`Indigo Energy`](https://google.com/search?q=Indigo+Energy) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
