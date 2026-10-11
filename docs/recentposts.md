@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-10-11 | [`Reed & Giordano PA`](https://google.com/search?q=Reed+%26+Giordano+PA) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-10-11 | [`hsc.mb.ca`](https://google.com/search?q=hsc.mb.ca) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-11 | [`Charles E. Tabor AAL LLC`](https://google.com/search?q=Charles+E.+Tabor+AAL+LLC) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-10-10 | [`Gress Clark Young & Schoepper`](https://google.com/search?q=Gress+Clark+Young+%26+Schoepper) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-07-28 | [`DUCON`](https://google.com/search?q=DUCON) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-27 | [`takethehop.com`](https://google.com/search?q=takethehop.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-26 | [`healthlawadvocates.org`](https://google.com/search?q=healthlawadvocates.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-07-25 | [`Yourway Transportation`](https://google.com/search?q=Yourway+Transportation) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
