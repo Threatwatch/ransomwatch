@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-10-13 | [`Excess Baggage`](https://google.com/search?q=Excess+Baggage) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-10-13 | [`Advanced Imaging Solutions`](https://google.com/search?q=Advanced+Imaging+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-10-12 | [`brookslawfirm.com`](https://google.com/search?q=brookslawfirm.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-11 | [`Reed & Giordano PA`](https://google.com/search?q=Reed+%26+Giordano+PA) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-07-28 | [`Della Casa Group AG`](https://google.com/search?q=Della+Casa+Group+AG) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-28 | [`greenecountyga.gov`](https://google.com/search?q=greenecountyga.gov) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-28 | [`foundationstofreedom.org`](https://google.com/search?q=foundationstofreedom.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-07-28 | [`DUCON`](https://google.com/search?q=DUCON) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
