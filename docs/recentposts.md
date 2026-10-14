@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-10-14 | [`DFK Group`](https://google.com/search?q=DFK+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-10-14 | [`Culinary Specialties`](https://google.com/search?q=Culinary+Specialties) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-10-14 | [`[DISCLOSED]Terca`](https://google.com/search?q=%5BDISCLOSED%5DTerca) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-10-13 | [`[DISCLOSED]Hospital Hermilio Valdizán`](https://google.com/search?q=%5BDISCLOSED%5DHospital+Hermilio+Valdiz%C3%A1n) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-07-29 | [`harwal.net`](https://google.com/search?q=harwal.net) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-29 | [`StellarRAD Systems`](https://google.com/search?q=StellarRAD+Systems) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-07-28 | [`minigrip.com.mx`](https://google.com/search?q=minigrip.com.mx) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-07-28 | [`https://eclmn.com/`](https://google.com/search?q=https%3A%2F%2Feclmn.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
