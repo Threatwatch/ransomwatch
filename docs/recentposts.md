@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-10-15 | [`www.coopecaja.fi.cr`](https://google.com/search?q=www.coopecaja.fi.cr) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-15 | [`Wolf & Sofsky GmbH`](https://google.com/search?q=Wolf+%26+Sofsky+GmbH) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-15 | [`Great Lakes`](https://google.com/search?q=Great+Lakes) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-15 | [`FINANCIAMENTO LTDA`](https://google.com/search?q=FINANCIAMENTO+LTDA) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-02 | [`The Butcher Brothers`](https://google.com/search?q=The+Butcher+Brothers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-01 | [`Sigma Plastics Group`](https://google.com/search?q=Sigma+Plastics+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-01 | [`Cambridge Management`](https://google.com/search?q=Cambridge+Management) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-08-01 | [`quantinuum.com`](https://google.com/search?q=quantinuum.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
