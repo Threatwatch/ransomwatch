@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-10-15 | [`Great Lakes`](https://google.com/search?q=Great+Lakes) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-15 | [`FINANCIAMENTO LTDA`](https://google.com/search?q=FINANCIAMENTO+LTDA) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-15 | [`The Innovation Group`](https://google.com/search?q=The+Innovation+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-10-14 | [`Saddlers Court MFG`](https://google.com/search?q=Saddlers+Court+MFG) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-01 | [`Cambridge Management`](https://google.com/search?q=Cambridge+Management) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-01 | [`quantinuum.com`](https://google.com/search?q=quantinuum.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-30 | [`PARTNERED HEALTH GROUP`](https://google.com/search?q=PARTNERED+HEALTH+GROUP) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-07-30 | [`sslf.local`](https://google.com/search?q=sslf.local) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
