@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-10-16 | [`nowaszkola.com`](https://google.com/search?q=nowaszkola.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-16 | [`fairfeelegalservices.com`](https://google.com/search?q=fairfeelegalservices.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-15 | [`www.coopecaja.fi.cr`](https://google.com/search?q=www.coopecaja.fi.cr) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-15 | [`Wolf & Sofsky GmbH`](https://google.com/search?q=Wolf+%26+Sofsky+GmbH) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-03 | [`PCL Holding`](https://google.com/search?q=PCL+Holding) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-02 | [`ecfa.org`](https://google.com/search?q=ecfa.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-02 | [`The Butcher Brothers`](https://google.com/search?q=The+Butcher+Brothers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-08-01 | [`Sigma Plastics Group`](https://google.com/search?q=Sigma+Plastics+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
