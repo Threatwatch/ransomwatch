@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-10-17 | [`New Tec Tool Limited`](https://google.com/search?q=New+Tec+Tool+Limited) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-10-16 | [`MicroSearch Corporation`](https://google.com/search?q=MicroSearch+Corporation) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-10-16 | [`Alma Center Servizi Medicali S.r.l.`](https://google.com/search?q=Alma+Center+Servizi+Medicali+S.r.l.) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-10-16 | [`verveba.com \ www.att.com`](https://google.com/search?q=verveba.com+%5C+www.att.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-04 | [`lccgroup.com`](https://google.com/search?q=lccgroup.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-04 | [`https://geleximco.vn/`](https://google.com/search?q=https%3A%2F%2Fgeleximco.vn%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-04 | [`clintonhealthaccess.org`](https://google.com/search?q=clintonhealthaccess.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-08-03 | [`[DISCLOSED]Fidelity Services Group`](https://google.com/search?q=%5BDISCLOSED%5DFidelity+Services+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
