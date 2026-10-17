@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-10-17 | [`Holistic Health Group, Inc. (d/b/a Suncrafted)`](https://google.com/search?q=Holistic+Health+Group%2C+Inc.+%28d%2Fb%2Fa+Suncrafted%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-10-17 | [`WSBI-ESBG`](https://google.com/search?q=WSBI-ESBG) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-10-17 | [`Pure Options`](https://google.com/search?q=Pure+Options) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-10-17 | [`New Tec Tool Limited`](https://google.com/search?q=New+Tec+Tool+Limited) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-04 | [`First Tek`](https://google.com/search?q=First+Tek) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-04 | [`TRULITE GLASS & ALUMINUM SOLUTIONS`](https://google.com/search?q=TRULITE+GLASS+%26+ALUMINUM+SOLUTIONS) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-04 | [`pushidrosal.id`](https://google.com/search?q=pushidrosal.id) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-08-04 | [`lccgroup.com`](https://google.com/search?q=lccgroup.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
