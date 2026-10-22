@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-10-22 | [`bereskinparr.com smartbiggar.ca`](https://google.com/search?q=bereskinparr.com+smartbiggar.ca) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-20 | [`centralrogers.com`](https://google.com/search?q=centralrogers.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-19 | [`Seetelhotels.de`](https://google.com/search?q=Seetelhotels.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-17 | [`Holistic Health Group, Inc. (d/b/a Suncrafted)`](https://google.com/search?q=Holistic+Health+Group%2C+Inc.+%28d%2Fb%2Fa+Suncrafted%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-05 | [`lantisnet.com`](https://google.com/search?q=lantisnet.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-04 | [`Loyalist College`](https://google.com/search?q=Loyalist+College) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-04 | [`Preferred Financial Group`](https://google.com/search?q=Preferred+Financial+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-08-04 | [`First Tek`](https://google.com/search?q=First+Tek) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
