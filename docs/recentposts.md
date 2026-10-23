@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-10-23 | [`Line2Line Coatings`](https://google.com/search?q=Line2Line+Coatings) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-10-22 | [`DR.SCHNELL GmbH & Co. KGaA`](https://google.com/search?q=DR.SCHNELL+GmbH+%26+Co.+KGaA) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-10-22 | [`SGLA (Schwartz, Giannini, Lantsberger &amp; Adamson)`](https://google.com/search?q=SGLA+%28Schwartz%2C+Giannini%2C+Lantsberger+%26amp%3B+Adamson%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-10-22 | [`bereskinparr.com smartbiggar.ca`](https://google.com/search?q=bereskinparr.com+smartbiggar.ca) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-06 | [`City of McMinnville OR`](https://google.com/search?q=City+of+McMinnville+OR) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-05 | [`vprj.org`](https://google.com/search?q=vprj.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-05 | [`PontoBR Sistemas`](https://google.com/search?q=PontoBR+Sistemas) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2026-08-05 | [`lantisnet.com`](https://google.com/search?q=lantisnet.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
