@@ -11704,6 +11704,7 @@ _parsing : `enabled`_
 
 | post | date |
 |---|---|
+| `QLC` | 28/10/2026 |
 | `Money Concepts Capital` | 28/10/2026 |
 | `MicroSearch` | 28/10/2026 |
 | `Hygiena` | 27/10/2026 |
