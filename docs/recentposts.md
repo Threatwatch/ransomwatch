@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-10-28 | [`Money Concepts Capital`](https://google.com/search?q=Money+Concepts+Capital) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-10-28 | [`MicroSearch`](https://google.com/search?q=MicroSearch) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-10-27 | [`Hygiena`](https://google.com/search?q=Hygiena) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-10-27 | [`Coast 2 Coast`](https://google.com/search?q=Coast+2+Coast) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-07 | [`Signature Services`](https://google.com/search?q=Signature+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-07 | [`Platinum Group`](https://google.com/search?q=Platinum+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-07 | [`GCATS Investments`](https://google.com/search?q=GCATS+Investments) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-08-07 | [`lya Construtora`](https://google.com/search?q=lya+Construtora) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
