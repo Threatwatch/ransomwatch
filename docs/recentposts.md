@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-10-29 | [`Tailormade Logistics`](https://google.com/search?q=Tailormade+Logistics) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-10-28 | [`QLC`](https://google.com/search?q=QLC) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-10-28 | [`Money Concepts Capital`](https://google.com/search?q=Money+Concepts+Capital) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-10-28 | [`MicroSearch`](https://google.com/search?q=MicroSearch) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-07 | [`ATMS`](https://google.com/search?q=ATMS) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-07 | [`Alya Construtora`](https://google.com/search?q=Alya+Construtora) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-07 | [`Signature Services`](https://google.com/search?q=Signature+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-08-07 | [`Platinum Group`](https://google.com/search?q=Platinum+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |

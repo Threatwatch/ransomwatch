@@ -2239,7 +2239,7 @@ _parsing : `enabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 2 | 00:00 01/05/2021 | `ekbgzchl6x2ias37.onion` |
-| none | False | 3 | 22:04 27/10/2026 | `santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` |
+| CL0P^_- LEAKS Access Queue | True | 3 | 23:59 28/10/2026 | `santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` |
 | TORRENT - CL0P^_- LEAKS | False | 3 | 20:07 15/07/2024 | `toznnag5o3ambca56s2yacteu7q7x2avrfherzmz4nmujrjuib4iusad.onion` |
 
 | post | date |
@@ -11704,6 +11704,7 @@ _parsing : `enabled`_
 
 | post | date |
 |---|---|
+| `Tailormade Logistics` | 29/10/2026 |
 | `QLC` | 28/10/2026 |
 | `Money Concepts Capital` | 28/10/2026 |
 | `MicroSearch` | 28/10/2026 |
