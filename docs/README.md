@@ -4,11 +4,11 @@ _october 30th, 2026_
 
 ransomwatch is currently crawling `492` sites belonging to `216` unique groups
 
-⏲ there have been `1` posts within the `last 24 hours`
+⏲ there have been `0` posts within the `last 24 hours`
 
 🦈 there have been `70` posts within the `month of october`
 
-🪐 there have been `226` posts within the `last 90 days`
+🪐 there have been `224` posts within the `last 90 days`
 
 🏚 there have been `919` posts within the `year of 2026`
 
