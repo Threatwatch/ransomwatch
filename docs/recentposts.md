@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-11-04 | [`[DISCLOSED]Phillips Nizer`](https://google.com/search?q=%5BDISCLOSED%5DPhillips+Nizer) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-10-29 | [`Machelen (Belgium)`](https://google.com/search?q=Machelen+%28Belgium%29) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-10-29 | [`Broadstreet HEOR`](https://google.com/search?q=Broadstreet+HEOR) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-10-29 | [`VPC Builders`](https://google.com/search?q=VPC+Builders) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-09 | [`Marconi Industrial Services`](https://google.com/search?q=Marconi+Industrial+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-09 | [`MIE Solutions`](https://google.com/search?q=MIE+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-08 | [`Louisville Bar Association`](https://google.com/search?q=Louisville+Bar+Association) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-08-07 | [`Hitech Distribuzione Informatica S.r.l. (HTDI)`](https://google.com/search?q=Hitech+Distribuzione+Informatica+S.r.l.+%28HTDI%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
