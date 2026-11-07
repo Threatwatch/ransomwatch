@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-11-07 | [`Misura`](https://google.com/search?q=Misura) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-11-06 | [`Aripack`](https://google.com/search?q=Aripack) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-11-06 | [`AVIR`](https://google.com/search?q=AVIR) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-11-06 | [`[DISCLOSED]Namibian Defence Force`](https://google.com/search?q=%5BDISCLOSED%5DNamibian+Defence+Force) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-12 | [`[DISCLOSED]City of Beacon`](https://google.com/search?q=%5BDISCLOSED%5DCity+of+Beacon) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-12 | [`Basso Fedele &amp; Figli S.r.l. (Olio Basso)    /     Villa Raiano`](https://google.com/search?q=Basso+Fedele+%26amp%3B+Figli+S.r.l.+%28Olio+Basso%29++++%2F+++++Villa+Raiano) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-10 | [`[DISCLOSED]City of McMinnville OR`](https://google.com/search?q=%5BDISCLOSED%5DCity+of+McMinnville+OR) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2026-08-10 | [`Elixi International SA`](https://google.com/search?q=Elixi+International+SA) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
