@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-11-08 | [`Here at Pope and Johnson County Title Company`](https://google.com/search?q=Here+at+Pope+and+Johnson+County+Title+Company) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-11-08 | [`Juge, Napolitano, Ruli, Putfark & Pittman`](https://google.com/search?q=Juge%2C+Napolitano%2C+Ruli%2C+Putfark+%26+Pittman) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-11-08 | [`El Cajon, CA`](https://google.com/search?q=El+Cajon%2C+CA) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-11-08 | [`Treuhand & Immobilien Abt AG`](https://google.com/search?q=Treuhand+%26+Immobilien+Abt+AG) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-13 | [`[DISCLOSED]TECHVENTURES BANK S.A.`](https://google.com/search?q=%5BDISCLOSED%5DTECHVENTURES+BANK+S.A.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-13 | [`SIA Medical Centre`](https://google.com/search?q=SIA+Medical+Centre) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-13 | [`clgroup`](https://google.com/search?q=clgroup) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-08-12 | [`stuartandassociates.com`](https://google.com/search?q=stuartandassociates.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
