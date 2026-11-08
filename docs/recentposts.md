@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-11-08 | [`Treuhand & Immobilien Abt AG`](https://google.com/search?q=Treuhand+%26+Immobilien+Abt+AG) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-11-07 | [`Tribunal de Justica do Estado de Minas Gerais`](https://google.com/search?q=Tribunal+de+Justica+do+Estado+de+Minas+Gerais) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-11-07 | [`StrucSure Home Warranty`](https://google.com/search?q=StrucSure+Home+Warranty) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-11-07 | [`Standard Sand & Silica`](https://google.com/search?q=Standard+Sand+%26+Silica) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-12 | [`stuartandassociates.com`](https://google.com/search?q=stuartandassociates.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-12 | [`gamaus.com`](https://google.com/search?q=gamaus.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-12 | [`diabetesandmetabolism.com`](https://google.com/search?q=diabetesandmetabolism.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-08-12 | [`BEDC.COM.AU`](https://google.com/search?q=BEDC.COM.AU) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
