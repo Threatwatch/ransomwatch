@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-11-09 | [`Cipsa Industrias Sa De Cv`](https://google.com/search?q=Cipsa+Industrias+Sa+De+Cv) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-11-09 | [`Phoenix Charter Academy`](https://google.com/search?q=Phoenix+Charter+Academy) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-11-08 | [`Here at Pope and Johnson County Title Company`](https://google.com/search?q=Here+at+Pope+and+Johnson+County+Title+Company) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-11-08 | [`Juge, Napolitano, Ruli, Putfark & Pittman`](https://google.com/search?q=Juge%2C+Napolitano%2C+Ruli%2C+Putfark+%26+Pittman) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-14 | [`https://pacific-construction.com/`](https://google.com/search?q=https%3A%2F%2Fpacific-construction.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-13 | [`cambrialawfirm.com`](https://google.com/search?q=cambrialawfirm.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-13 | [`[DISCLOSED]TECHVENTURES BANK S.A.`](https://google.com/search?q=%5BDISCLOSED%5DTECHVENTURES+BANK+S.A.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2026-08-13 | [`SIA Medical Centre`](https://google.com/search?q=SIA+Medical+Centre) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
