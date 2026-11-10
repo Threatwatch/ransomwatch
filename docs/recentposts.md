@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-11-10 | [`INTAX, Inc.`](https://google.com/search?q=INTAX%2C+Inc.) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-11-10 | [`INTI International University & Colleges`](https://google.com/search?q=INTI+International+University+%26+Colleges) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-11-09 | [`M.C.S. Steel Public Company Limited`](https://google.com/search?q=M.C.S.+Steel+Public+Company+Limited) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-11-09 | [`Cipsa Industrias Sa De Cv`](https://google.com/search?q=Cipsa+Industrias+Sa+De+Cv) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-15 | [`SEARS (Grupo Sanborns)`](https://google.com/search?q=SEARS+%28Grupo+Sanborns%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-14 | [`Pierce Township`](https://google.com/search?q=Pierce+Township) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-14 | [`[DISCLOSED]PCL Holding`](https://google.com/search?q=%5BDISCLOSED%5DPCL+Holding) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2026-08-14 | [`https://pacific-construction.com/`](https://google.com/search?q=https%3A%2F%2Fpacific-construction.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
